@@ -1,0 +1,19 @@
+Ability ideas:
+ - Shadow Swap
+ 	- Trade places with my shadow. Could make fun use of light mechanics.
+ - Freeze Time
+ 	- We can freeze time for a certain period. Everything stops, but the player can continue.
+ - Gravity Flip
+ 	- Reverse gravity, so the roof is now the floor and vice versa.
+ - Teleportation
+ 	- Our hero throws this "core". Once the core lands, the hero is teleported to that place.
+ - Size manipulation
+ 	- Grow/Shrink. Small, normal, large. Small = get through cracks/tiny holes. Large = destroy walls?
+ - Momentum Dash
+ 	- Dashes to a side.
+ - Dimension Toggle
+ 	- Swap between two dimensions of the same level.
+ - Rewind
+ 	- Rewind yourself for 3 seconds.
+ - Double Jump
+ 	- Self explanatory.
