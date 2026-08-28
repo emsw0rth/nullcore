@@ -70,3 +70,6 @@ crashlytics-build.txt
 
 # VS Code
 .vscode/
+
+# Local machine-specific MCP server config (contains absolute local paths)
+.mcp.json
