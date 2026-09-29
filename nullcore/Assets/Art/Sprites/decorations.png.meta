@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 3877893444f4b6f47b16136afcb4cb6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1637553627553611133
+    second: decorations_0
+  - first:
+      213: -6791966830784600789
+    second: decorations_1
+  - first:
+      213: 8606214133557198973
+    second: decorations_2
+  - first:
+      213: -1125347774928963618
+    second: decorations_3
+  - first:
+      213: 4748566177799071609
+    second: decorations_4
+  - first:
+      213: -2674238886720689716
+    second: decorations_5
+  - first:
+      213: 3298991621691050485
+    second: decorations_6
+  - first:
+      213: -5069746181354406902
+    second: decorations_7
+  - first:
+      213: 19857703921302071
+    second: decorations_8
+  - first:
+      213: 4983129934719697398
+    second: decorations_9
+  - first:
+      213: 2535247370240311384
+    second: decorations_10
+  - first:
+      213: 3836373905577956440
+    second: decorations_11
+  - first:
+      213: -4676466475824062069
+    second: decorations_12
+  - first:
+      213: 4696350949408980661
+    second: decorations_13
+  - first:
+      213: -4431104414112731768
+    second: decorations_14
+  - first:
+      213: 987650710171249913
+    second: decorations_15
+  - first:
+      213: 5612321983182834720
+    second: decorations_16
+  - first:
+      213: -925448169866563457
+    second: decorations_17
+  - first:
+      213: 1692494413183702647
+    second: decorations_18
+  - first:
+      213: -1199619241442701602
+    second: decorations_19
+  - first:
+      213: 2283167979467855373
+    second: decorations_20
+  - first:
+      213: 135310424215247441
+    second: decorations_21
+  - first:
+      213: 2969467567723845581
+    second: decorations_22
+  - first:
+      213: -8056828318202406996
+    second: decorations_23
+  - first:
+      213: 8840987255482108993
+    second: decorations_24
+  - first:
+      213: 8816472916481106484
+    second: decorations_25
+  - first:
+      213: -269870071183473232
+    second: SmallGear
+  - first:
+      213: -1738296137085796614
+    second: TwinGears
+  - first:
+      213: -4900339317004838141
+    second: BigGear
+  - first:
+      213: -9162909926434502384
+    second: GearPipeMechanism
+  - first:
+      213: 369734560644412360
+    second: Generator
+  - first:
+      213: 228213180088432595
+    second: ScrapPile
+  - first:
+      213: -2594395201465392510
+    second: PipeBundle
+  - first:
+      213: -4469828687961270406
+    second: TrashCan
+  - first:
+      213: -6428662675062706913
+    second: TrashCanPlant
+  - first:
+      213: -1947796470378293378
+    second: TrashCanBent
+  - first:
+      213: 3796185138038570276
+    second: RecycleBin
+  - first:
+      213: 8355197968838655700
+    second: WoodenCrate
+  - first:
+      213: -8064411482835056307
+    second: Barrel
+  - first:
+      213: 2937234248234839961
+    second: BrokenWindow
+  - first:
+      213: 4289783879920331366
+    second: BoardedWindow
+  - first:
+      213: -8966247676049627273
+    second: ChainlinkFence
+  - first:
+      213: 67947546571796749
+    second: EmptyFrame
+  - first:
+      213: -1508213616533712572
+    second: PortholeWindow
+  - first:
+      213: 8188359159968256454
+    second: PanedWindow
+  - first:
+      213: 2036102519126585673
+    second: HangingChains
+  - first:
+      213: -2656472529821750749
+    second: Locker
+  - first:
+      213: -5378775667171469647
+    second: Fan
+  - first:
+      213: -8798595142861991889
+    second: CautionBarrier
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallGear
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 924
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5899f999a314cf0800000000000000
+      internalID: -269870071183473232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinGears
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 917
+        width: 116
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe319a8fd450e7e0800000000000000
+      internalID: -1738296137085796614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigGear
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 902
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bdb03ba5f7efbb0800000000000000
+      internalID: -4900339317004838141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GearPipeMechanism
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 896
+        width: 115
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01988f518fdc6d080800000000000000
+      internalID: -9162909926434502384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 896
+        width: 124
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3356cbf9f812500800000000000000
+      internalID: 369734560644412360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapPile
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 896
+        width: 107
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7bb3c9da6ca2300800000000000000
+      internalID: 228213180088432595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipeBundle
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 896
+        width: 124
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2826da95f4bdefbd0800000000000000
+      internalID: -2594395201465392510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCan
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 768
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77d73f8d7af7f1c0800000000000000
+      internalID: -4469828687961270406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCanPlant
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 768
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d23188b5dc8c6a0800000000000000
+      internalID: -6428662675062706913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashCanBent
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 768
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7797581e6908f4e0800000000000000
+      internalID: -1947796470378293378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecycleBin
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 768
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42df76e1542cea430800000000000000
+      internalID: 3796185138038570276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenCrate
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 768
+        width: 107
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de71b0f840a3f370800000000000000
+      internalID: 8355197968838655700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 767
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d490903cb74751090800000000000000
+      internalID: -8064411482835056307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrokenWindow
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 663
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f26249cf623c820800000000000000
+      internalID: 2937234248234839961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardedWindow
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 655
+        width: 122
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a29d5e5bf588b30800000000000000
+      internalID: 4289783879920331366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChainlinkFence
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 653
+        width: 114
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777e3ec6e3d719380800000000000000
+      internalID: -8966247676049627273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyFrame
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 652
+        width: 116
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0175c00fe561f000800000000000000
+      internalID: 67947546571796749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortholeWindow
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 649
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441d915e4bfb11be0800000000000000
+      internalID: -1508213616533712572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanedWindow
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 647
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1593fa545e2a170800000000000000
+      internalID: 8188359159968256454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingChains
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 522
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94171d21470b14c10800000000000000
+      internalID: 2036102519126585673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locker
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 512
+        width: 99
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a24680f40522bd0800000000000000
+      internalID: -2656472529821750749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fan
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 512
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6dab75700ca55b0800000000000000
+      internalID: -5378775667171469647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CautionBarrier
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 512
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20db33a55c15e580800000000000000
+      internalID: -8798595142861991889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Barrel: -8064411482835056307
+      BigGear: -4900339317004838141
+      BoardedWindow: 4289783879920331366
+      BrokenWindow: 2937234248234839961
+      CautionBarrier: -8798595142861991889
+      ChainlinkFence: -8966247676049627273
+      EmptyFrame: 67947546571796749
+      Fan: -5378775667171469647
+      GearPipeMechanism: -9162909926434502384
+      Generator: 369734560644412360
+      HangingChains: 2036102519126585673
+      Locker: -2656472529821750749
+      PanedWindow: 8188359159968256454
+      PipeBundle: -2594395201465392510
+      PortholeWindow: -1508213616533712572
+      RecycleBin: 3796185138038570276
+      ScrapPile: 228213180088432595
+      SmallGear: -269870071183473232
+      TrashCan: -4469828687961270406
+      TrashCanBent: -1947796470378293378
+      TrashCanPlant: -6428662675062706913
+      TwinGears: -1738296137085796614
+      WoodenCrate: 8355197968838655700
+      decorations_0: 1637553627553611133
+      decorations_1: -6791966830784600789
+      decorations_10: 2535247370240311384
+      decorations_11: 3836373905577956440
+      decorations_12: -4676466475824062069
+      decorations_13: 4696350949408980661
+      decorations_14: -4431104414112731768
+      decorations_15: 987650710171249913
+      decorations_16: 5612321983182834720
+      decorations_17: -925448169866563457
+      decorations_18: 1692494413183702647
+      decorations_19: -1199619241442701602
+      decorations_2: 8606214133557198973
+      decorations_20: 2283167979467855373
+      decorations_21: 135310424215247441
+      decorations_22: 2969467567723845581
+      decorations_23: -8056828318202406996
+      decorations_24: 8840987255482108993
+      decorations_25: 8816472916481106484
+      decorations_3: -1125347774928963618
+      decorations_4: 4748566177799071609
+      decorations_5: -2674238886720689716
+      decorations_6: 3298991621691050485
+      decorations_7: -5069746181354406902
+      decorations_8: 19857703921302071
+      decorations_9: 4983129934719697398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

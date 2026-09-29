@@ -12,6 +12,7 @@ namespace Nullcore.InputSystem
         public const string ToggleRunWalk = "ToggleRunWalk";
         public const string Sprint = "Sprint";
         public const string Dash = "Dash";
+        public const string Use = "Use";
 
         private static readonly Dictionary<string, Key[]> Defaults = new Dictionary<string, Key[]>
         {
@@ -21,6 +22,7 @@ namespace Nullcore.InputSystem
             { ToggleRunWalk, new[] { Key.CapsLock, Key.None } },
             { Sprint, new[] { Key.LeftShift, Key.None } },
             { Dash, new[] { Key.LeftCtrl, Key.None } },
+            { Use, new[] { Key.E, Key.None } },
         };
 
         private static Dictionary<string, Key[]> current;

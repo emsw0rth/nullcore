@@ -36,6 +36,10 @@ Assets/
     UI/              main menu, keybindings UI, ability HUD
 ```
 
+## Credits
+
+- "Robot Sound" by Jordan Irwin (AntumDeluge), licensed under [OGA-BY 3.0](https://opengameart.org/content/robot-sound) — used as the player death sound effect (`Assets/Audio/SFX/player_death.ogg`).
+
 ## Editor tooling
 
 This project is set up with the Unity MCP bridge (`com.unity.ai.assistant`) for AI-assisted editor automation. See `.mcp.json` at the repo root.

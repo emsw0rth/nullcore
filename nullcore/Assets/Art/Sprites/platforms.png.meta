@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: 7d7cfbefe81279d48a7f93aadf1d3dad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8483051222464998911
+    second: platforms_0
+  - first:
+      213: 1177557654815410699
+    second: platforms_1
+  - first:
+      213: -6327628624318395971
+    second: platforms_2
+  - first:
+      213: -479701902432577090
+    second: platforms_3
+  - first:
+      213: 8912230503697120500
+    second: platforms_4
+  - first:
+      213: 8651378938140933333
+    second: platforms_5
+  - first:
+      213: -8193320970301585871
+    second: platforms_6
+  - first:
+      213: -2625001249369057241
+    second: platforms_7
+  - first:
+      213: 2309321650376289488
+    second: platforms_8
+  - first:
+      213: -8230605822584501770
+    second: platforms_9
+  - first:
+      213: -8903319761413438241
+    second: platforms_10
+  - first:
+      213: -6841432873800970925
+    second: platforms_11
+  - first:
+      213: 7991163360288509794
+    second: platforms_12
+  - first:
+      213: -322940076864818785
+    second: platforms_13
+  - first:
+      213: -1326971582250101755
+    second: platforms_14
+  - first:
+      213: -924312126344244773
+    second: platforms_15
+  - first:
+      213: 9020971944715529750
+    second: platforms_16
+  - first:
+      213: 2169758518613192273
+    second: platforms_17
+  - first:
+      213: -6499981622899771974
+    second: platforms_18
+  - first:
+      213: 3009764857649989862
+    second: platforms_19
+  - first:
+      213: 4605599295226855543
+    second: platforms_20
+  - first:
+      213: -3826318021462933520
+    second: platforms_21
+  - first:
+      213: 4131256407169269550
+    second: platforms_22
+  - first:
+      213: -1707609734386038755
+    second: platforms_23
+  - first:
+      213: -8911720767699110824
+    second: platforms_24
+  - first:
+      213: 1940248768956040092
+    second: platforms_25
+  - first:
+      213: 1206836481191225335
+    second: platforms_26
+  - first:
+      213: -4848085684419434255
+    second: platforms_27
+  - first:
+      213: 6302071871043779138
+    second: platforms_28
+  - first:
+      213: -1334396395196074916
+    second: platforms_29
+  - first:
+      213: -7698497527692575700
+    second: platforms_30
+  - first:
+      213: -5107835689707665323
+    second: platforms_31
+  - first:
+      213: -8794265736709075638
+    second: PlankPlatform
+  - first:
+      213: -4130466128880778745
+    second: CartPlatform
+  - first:
+      213: -5667346484300642038
+    second: HangingBridgePlatform
+  - first:
+      213: 6447463559357797912
+    second: PipePlatform
+  - first:
+      213: 5581955933845673714
+    second: RailPlatform
+  - first:
+      213: 4527905761140421038
+    second: Plank_1
+  - first:
+      213: 1817343801274638184
+    second: Plank_2
+  - first:
+      213: -7381911059318900110
+    second: Plank_3
+  - first:
+      213: -8935539473706038754
+    second: Plank_4
+  - first:
+      213: 8213326372612031864
+    second: Cart_1
+  - first:
+      213: -5073641862152878348
+    second: Cart_2
+  - first:
+      213: -4367380760113990565
+    second: Cart_3
+  - first:
+      213: 3944804732516870548
+    second: Cart_4
+  - first:
+      213: 5603878991505542241
+    second: Bridge_1
+  - first:
+      213: -3516929179030731211
+    second: Bridge_2
+  - first:
+      213: 1991381244642994305
+    second: Bridge_3
+  - first:
+      213: 8835223943214045951
+    second: Bridge_4
+  - first:
+      213: 8119922422128429964
+    second: BridgeHooks_1
+  - first:
+      213: -2946860042280081434
+    second: BridgeHooks_2
+  - first:
+      213: 8448577051526588484
+    second: BridgeHooks_3
+  - first:
+      213: -3689322840082021174
+    second: BridgeHooks_4
+  - first:
+      213: 6754015500072955358
+    second: Pipe_1
+  - first:
+      213: 5565319975860587716
+    second: Pipe_2
+  - first:
+      213: -3179198009086737549
+    second: Pipe_3
+  - first:
+      213: 5140442098504291025
+    second: Pipe_4
+  - first:
+      213: -704095372026635161
+    second: Rail_1
+  - first:
+      213: -4796815237975875665
+    second: Rail_2
+  - first:
+      213: -3205534515540264676
+    second: Rail_3
+  - first:
+      213: -8310212081123819964
+    second: Rail_4
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plank_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -44}
+        - {x: -64, y: -44}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea13835cc4a56de30800000000000000
+      internalID: 4527905761140421038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -44}
+        - {x: -64, y: -44}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f9bbdfe80883910800000000000000
+      internalID: 1817343801274638184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -44}
+        - {x: -64, y: -44}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27af4c9a00f2e8990800000000000000
+      internalID: -7381911059318900110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -44}
+        - {x: -64, y: -44}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a4541f0369ef380800000000000000
+      internalID: -8935539473706038754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cart_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -29}
+        - {x: -63, y: -42}
+        - {x: -63, y: -48}
+        - {x: -60, y: -50}
+        - {x: -50, y: -50}
+        - {x: -49, y: -49}
+        - {x: -49, y: -48}
+        - {x: -40, y: -48}
+        - {x: -40, y: -50}
+        - {x: -38, y: -55}
+        - {x: -35, y: -59}
+        - {x: -34, y: -60}
+        - {x: -31, y: -62}
+        - {x: -28, y: -63}
+        - {x: -20, y: -63}
+        - {x: -17, y: -62}
+        - {x: -13, y: -59}
+        - {x: -9, y: -54}
+        - {x: -8, y: -49}
+        - {x: 10, y: -49}
+        - {x: 13, y: -54}
+        - {x: 16, y: -56}
+        - {x: 22, y: -56}
+        - {x: 28, y: -54}
+        - {x: 32, y: -51}
+        - {x: 33, y: -49}
+        - {x: 34, y: -49}
+        - {x: 36, y: -53}
+        - {x: 40, y: -56}
+        - {x: 46, y: -56}
+        - {x: 50, y: -52}
+        - {x: 51, y: -49}
+        - {x: 61, y: -49}
+        - {x: 63, y: -47}
+        - {x: 63, y: -41}
+        - {x: 64, y: -28}
+        - {x: 64, y: -15}
+        - {x: -64, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87543efd1d89bf170800000000000000
+      internalID: 8213326372612031864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cart_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -59}
+        - {x: 16, y: -61}
+        - {x: 50, y: -61}
+        - {x: 64, y: -53}
+        - {x: 64, y: -16}
+        - {x: 62, y: -14}
+        - {x: -62, y: -14}
+        - {x: -64, y: -16}
+        - {x: -64, y: -53}
+        - {x: -35, y: -61}
+        - {x: -20, y: -61}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f683d09b9dc699b0800000000000000
+      internalID: -5073641862152878348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cart_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: -14}
+        - {x: -62, y: -14}
+        - {x: -64, y: -16}
+        - {x: -64, y: -57}
+        - {x: 64, y: -57}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54b78a8652f363c0800000000000000
+      internalID: -4367380760113990565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cart_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: -53}
+        - {x: 64, y: -15}
+        - {x: 63, y: -14}
+        - {x: -64, y: -14}
+        - {x: -64, y: -53}
+        - {x: -55, y: -59}
+        - {x: 55, y: -59}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499a2f5f003ceb630800000000000000
+      internalID: 3944804732516870548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -31}
+        - {x: -64, y: -31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c46fc804af4cd40800000000000000
+      internalID: 5603878991505542241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -31}
+        - {x: -64, y: -31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536caaf8b8b513fc0800000000000000
+      internalID: -3516929179030731211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -30}
+        - {x: -64, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1882253f0bec2ab10800000000000000
+      internalID: 1991381244642994305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -32}
+        - {x: -64, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa9c468d550d9a70800000000000000
+      internalID: 8835223943214045951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BridgeHooks_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -63, y: 1}
+        - {x: -49, y: 0}
+        - {x: -29, y: -4}
+        - {x: -13, y: -5}
+        - {x: -9, y: -17}
+        - {x: 9, y: -16}
+        - {x: 33, y: 1}
+        - {x: 64, y: 1}
+        - {x: 64, y: 26}
+        - {x: -63, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bc1b6fb62cfa070800000000000000
+      internalID: 8119922422128429964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BridgeHooks_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -3}
+        - {x: -47, y: -10}
+        - {x: -15, y: -11}
+        - {x: 11, y: -7}
+        - {x: 24, y: -3}
+        - {x: 40, y: -5}
+        - {x: 50, y: -5}
+        - {x: 64, y: 4}
+        - {x: 64, y: 29}
+        - {x: -64, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e76a199766aa17d0800000000000000
+      internalID: -2946860042280081434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BridgeHooks_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 8}
+        - {x: -62, y: 5}
+        - {x: -59, y: 1}
+        - {x: -55, y: -3}
+        - {x: -48, y: -3}
+        - {x: -44, y: 3}
+        - {x: -30, y: 3}
+        - {x: -29, y: -2}
+        - {x: -26, y: -5}
+        - {x: -16, y: -5}
+        - {x: -7, y: -13}
+        - {x: 9, y: -13}
+        - {x: 18, y: -5}
+        - {x: 28, y: -5}
+        - {x: 34, y: 2}
+        - {x: 45, y: 1}
+        - {x: 50, y: -5}
+        - {x: 56, y: -4}
+        - {x: 64, y: -2}
+        - {x: 64, y: 28}
+        - {x: -64, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44862cdd0106f3570800000000000000
+      internalID: 8448577051526588484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BridgeHooks_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 6}
+        - {x: -56, y: -3}
+        - {x: -46, y: -14}
+        - {x: -8, y: -17}
+        - {x: 8, y: -17}
+        - {x: 41, y: -14}
+        - {x: 51, y: -12}
+        - {x: 64, y: 7}
+        - {x: 64, y: 28}
+        - {x: -64, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac40d2f7c64ecccc0800000000000000
+      internalID: -3689322840082021174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: 64}
+        - {x: -61, y: 64}
+        - {x: -64, y: 62}
+        - {x: -64, y: 25}
+        - {x: 64, y: 25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: edda45120551bbd50800000000000000
+      internalID: 6754015500072955358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: 24}
+        - {x: 64, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: 24}
+        - {x: -58, y: 20}
+        - {x: -3, y: 20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4e8e180dfb3d40800000000000000
+      internalID: 5565319975860587716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 60, y: 25}
+        - {x: 64, y: 28}
+        - {x: 64, y: 64}
+        - {x: -61, y: 64}
+        - {x: -64, y: 62}
+        - {x: -64, y: 27}
+        - {x: -54, y: 22}
+        - {x: 44, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37381cd314831e3d0800000000000000
+      internalID: -3179198009086737549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: 29}
+        - {x: 64, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: 48}
+        - {x: -63, y: 29}
+        - {x: -45, y: 16}
+        - {x: -30, y: 14}
+        - {x: 46, y: 14}
+      - - {x: 20, y: 22}
+        - {x: 16, y: 25}
+        - {x: 27, y: 25}
+        - {x: 31, y: 27}
+        - {x: 28, y: 23}
+        - {x: 21, y: 21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2dfc57ad4865740800000000000000
+      internalID: 5140442098504291025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rail_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 63, y: -57}
+        - {x: 64, y: -56}
+        - {x: 64, y: -37}
+        - {x: 61, y: -35}
+        - {x: -44, y: -35}
+        - {x: -44, y: -18}
+        - {x: -47, y: -15}
+        - {x: -59, y: -15}
+        - {x: -64, y: -20}
+        - {x: -64, y: -60}
+        - {x: -60, y: -64}
+        - {x: -42, y: -64}
+        - {x: -42, y: -57}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c1b565dfc8a36f0800000000000000
+      internalID: -704095372026635161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rail_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: -55}
+        - {x: 64, y: -35}
+        - {x: -64, y: -35}
+        - {x: -64, y: -53}
+        - {x: -62, y: -57}
+        - {x: 62, y: -57}
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf5447a4f94e6db0800000000000000
+      internalID: -4796815237975875665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rail_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: -35}
+        - {x: -64, y: -35}
+        - {x: -64, y: -55}
+        - {x: -62, y: -57}
+        - {x: 64, y: -57}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19f7fd7757a383d0800000000000000
+      internalID: -3205534515540264676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rail_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 64, y: -62}
+        - {x: 64, y: -18}
+        - {x: 60, y: -14}
+        - {x: 47, y: -14}
+        - {x: 45, y: -18}
+        - {x: 45, y: -35}
+        - {x: -62, y: -35}
+        - {x: -64, y: -37}
+        - {x: -64, y: -56}
+        - {x: -62, y: -57}
+        - {x: 43, y: -57}
+        - {x: 43, y: -62}
+        - {x: 45, y: -64}
+        - {x: 59, y: -64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e747044223cac80800000000000000
+      internalID: -8310212081123819964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 37b6dda64036106468efbae5561687c5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BridgeHooks_1: 8119922422128429964
+      BridgeHooks_2: -2946860042280081434
+      BridgeHooks_3: 8448577051526588484
+      BridgeHooks_4: -3689322840082021174
+      Bridge_1: 5603878991505542241
+      Bridge_2: -3516929179030731211
+      Bridge_3: 1991381244642994305
+      Bridge_4: 8835223943214045951
+      CartPlatform: -4130466128880778745
+      Cart_1: 8213326372612031864
+      Cart_2: -5073641862152878348
+      Cart_3: -4367380760113990565
+      Cart_4: 3944804732516870548
+      HangingBridgePlatform: -5667346484300642038
+      PipePlatform: 6447463559357797912
+      Pipe_1: 6754015500072955358
+      Pipe_2: 5565319975860587716
+      Pipe_3: -3179198009086737549
+      Pipe_4: 5140442098504291025
+      PlankPlatform: -8794265736709075638
+      Plank_1: 4527905761140421038
+      Plank_2: 1817343801274638184
+      Plank_3: -7381911059318900110
+      Plank_4: -8935539473706038754
+      RailPlatform: 5581955933845673714
+      Rail_1: -704095372026635161
+      Rail_2: -4796815237975875665
+      Rail_3: -3205534515540264676
+      Rail_4: -8310212081123819964
+      platforms_0: 8483051222464998911
+      platforms_1: 1177557654815410699
+      platforms_10: -8903319761413438241
+      platforms_11: -6841432873800970925
+      platforms_12: 7991163360288509794
+      platforms_13: -322940076864818785
+      platforms_14: -1326971582250101755
+      platforms_15: -924312126344244773
+      platforms_16: 9020971944715529750
+      platforms_17: 2169758518613192273
+      platforms_18: -6499981622899771974
+      platforms_19: 3009764857649989862
+      platforms_2: -6327628624318395971
+      platforms_20: 4605599295226855543
+      platforms_21: -3826318021462933520
+      platforms_22: 4131256407169269550
+      platforms_23: -1707609734386038755
+      platforms_24: -8911720767699110824
+      platforms_25: 1940248768956040092
+      platforms_26: 1206836481191225335
+      platforms_27: -4848085684419434255
+      platforms_28: 6302071871043779138
+      platforms_29: -1334396395196074916
+      platforms_3: -479701902432577090
+      platforms_30: -7698497527692575700
+      platforms_31: -5107835689707665323
+      platforms_4: 8912230503697120500
+      platforms_5: 8651378938140933333
+      platforms_6: -8193320970301585871
+      platforms_7: -2625001249369057241
+      platforms_8: 2309321650376289488
+      platforms_9: -8230605822584501770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

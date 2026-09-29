@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using Nullcore.InputSystem;
+using Nullcore.Platforms;
 
 namespace Nullcore.Player
 {
@@ -16,6 +17,8 @@ namespace Nullcore.Player
         [SerializeField] private float dashSpeed = 18f;
         [SerializeField] private float dashDuration = 0.2f;
         [SerializeField] private float dashCooldown = 1.5f;
+        [SerializeField] private float jumpAnimDuration = 0.25f;
+        [SerializeField] private AudioClip deathSound;
 
         [Header("State (read-only)")]
         [SerializeField] private bool isGrounded;
@@ -25,29 +28,44 @@ namespace Nullcore.Player
         [SerializeField] private bool isDashing;
         [SerializeField] private bool canDash = true;
 
+        private static readonly int MotionStateHash = Animator.StringToHash("MotionState");
+
         private Rigidbody2D rb;
         private PlayerAbilities abilities;
         private SpriteRenderer spriteRenderer;
+        private Animator animator;
+        private AudioSource audioSource;
         private bool jumpQueued;
         private bool dashQueued;
         private float dashTimeRemaining;
         private float dashCooldownRemaining;
+        private float jumpAnimTimeRemaining;
         private Vector3 spawnPosition;
+        private bool isMoving;
 
         public bool IsRunning { get; private set; }
         public bool HasDoubleJumped => hasDoubleJumped;
         public bool CanDash => canDash;
+        public bool IsGrounded => isGrounded;
+        public bool IsMoving => isMoving;
 
         private void Awake()
         {
             rb = GetComponent<Rigidbody2D>();
             abilities = GetComponent<PlayerAbilities>();
             spriteRenderer = GetComponent<SpriteRenderer>();
+            animator = GetComponent<Animator>();
+            audioSource = GetComponent<AudioSource>();
             spawnPosition = transform.position;
         }
 
         public void Respawn()
         {
+            if (audioSource != null && deathSound != null)
+            {
+                audioSource.PlayOneShot(deathSound);
+            }
+
             transform.position = spawnPosition;
             rb.linearVelocity = Vector2.zero;
             isDashing = false;
@@ -96,6 +114,8 @@ namespace Nullcore.Player
             {
                 moveInput += 1f;
             }
+
+            isMoving = moveInput != 0f;
 
             if (moveInput > 0f)
             {
@@ -148,11 +168,31 @@ namespace Nullcore.Player
                 rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
             }
 
-            isGrounded = groundCheck != null && Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+            Collider2D groundCollider = groundCheck != null
+                ? Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer)
+                : null;
+            isGrounded = groundCollider != null;
 
             if (isGrounded)
             {
                 hasDoubleJumped = false;
+
+                // Carry the player along with whatever moving platform they're standing on.
+                // Applying this here (before the physics step runs, rather than from a
+                // post-step collision callback on the platform) is what keeps it smooth
+                // under Rigidbody2D interpolation - it becomes part of this tick's normal
+                // position/velocity integration instead of a hard teleport after the fact.
+                // Carry is expressed as velocity, not a position write - repeatedly forcing
+                // a dynamic body's position each tick fights the physics solver (causing
+                // jitter and/or suppressed movement/jump response). Adding the platform's
+                // velocity on top of the player's own input velocity is consistent with how
+                // the rest of this controller already drives movement, and composes cleanly
+                // with jumping since Jump() only overwrites the y component.
+                MovingPlatformController platform = groundCollider.GetComponentInParent<MovingPlatformController>();
+                if (platform != null)
+                {
+                    rb.linearVelocity += new Vector2(platform.FrameDelta.x / Time.fixedDeltaTime, 0f);
+                }
             }
 
             if (jumpQueued)
@@ -168,12 +208,28 @@ namespace Nullcore.Player
                 }
             }
             jumpQueued = false;
+
+            if (animator != null)
+            {
+                int motionState;
+                if (jumpAnimTimeRemaining > 0f)
+                {
+                    jumpAnimTimeRemaining -= Time.fixedDeltaTime;
+                    motionState = 3;
+                }
+                else
+                {
+                    motionState = moveInput == 0f ? 0 : (IsRunning ? 2 : 1);
+                }
+                animator.SetInteger(MotionStateHash, motionState);
+            }
         }
 
         private void Jump()
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             isGrounded = false;
+            jumpAnimTimeRemaining = jumpAnimDuration;
         }
 
         private void OnDrawGizmosSelected()
