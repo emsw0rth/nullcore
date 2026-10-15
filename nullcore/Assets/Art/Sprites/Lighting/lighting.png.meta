@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 30204d1bc97b8594e83a0c510e9bae3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3779678137760624508
+    second: lighting_0
+  - first:
+      213: -3008594188714053865
+    second: lighting_1
+  - first:
+      213: 2930939289224653857
+    second: lighting_2
+  - first:
+      213: 6610609037042609610
+    second: lighting_3
+  - first:
+      213: -6231022735302582344
+    second: lighting_4
+  - first:
+      213: 2266965001235853508
+    second: lighting_5
+  - first:
+      213: -3085621957426641991
+    second: lighting_6
+  - first:
+      213: -3805536478277883120
+    second: lighting_7
+  - first:
+      213: -3595973653322852619
+    second: lighting_8
+  - first:
+      213: 2761527417487904386
+    second: lighting_9
+  - first:
+      213: -2634684965147367074
+    second: lighting_10
+  - first:
+      213: -8507496261607931119
+    second: lighting_11
+  - first:
+      213: 5627579140414153305
+    second: lighting_12
+  - first:
+      213: -2431915871702125214
+    second: lighting_13
+  - first:
+      213: 6249026331443396223
+    second: lighting_14
+  - first:
+      213: 3513066849832145395
+    second: lighting_15
+  - first:
+      213: 2755835938232397464
+    second: lighting_16
+  - first:
+      213: -2532044427546773138
+    second: lighting_17
+  - first:
+      213: 65707859019379592
+    second: lighting_18
+  - first:
+      213: -6363856027471484467
+    second: lighting_19
+  - first:
+      213: 2866035325160899576
+    second: lighting_20
+  - first:
+      213: 5513844010344725913
+    second: lighting_21
+  - first:
+      213: 2969368073788423615
+    second: lighting_22
+  - first:
+      213: 8940493809952533817
+    second: lighting_23
+  - first:
+      213: 2179365718855420707
+    second: lighting_24
+  - first:
+      213: 2005464823441278615
+    second: lighting_25
+  - first:
+      213: -2147760416753196849
+    second: lighting_26
+  - first:
+      213: -1781104578146777532
+    second: lighting_27
+  - first:
+      213: -4878246858449731408
+    second: lighting_28
+  - first:
+      213: -6440195697426043180
+    second: lighting_29
+  - first:
+      213: -302755062735710443
+    second: lighting_30
+  - first:
+      213: -4671213630448220904
+    second: lighting_31
+  - first:
+      213: 7870849827898512824
+    second: lighting_32
+  - first:
+      213: 7673465281402619961
+    second: lighting_33
+  - first:
+      213: -3434245872723903913
+    second: lighting_34
+  - first:
+      213: 3865492595169428163
+    second: lighting_35
+  - first:
+      213: -7789089520688382806
+    second: lighting_36
+  - first:
+      213: 4093119096213870281
+    second: lighting_37
+  - first:
+      213: 1803903341792608485
+    second: lighting_38
+  - first:
+      213: 5317190283466023846
+    second: PortholeWallLamp_Off
+  - first:
+      213: -1382926421910071734
+    second: PortholeWallLamp_On
+  - first:
+      213: -1766078178415773197
+    second: PortholeWallLamp_Broken
+  - first:
+      213: -1727697970310241785
+    second: TubeWallLamp_Off
+  - first:
+      213: 8726185326211373059
+    second: TubeWallLamp_On
+  - first:
+      213: -375879587748452080
+    second: TubeWallLamp_Broken
+  - first:
+      213: 536765565875745711
+    second: CeilingBulbLamp_Off
+  - first:
+      213: -9072252472911655312
+    second: CeilingBulbLamp_On
+  - first:
+      213: -6024285611580181297
+    second: CeilingBulbLamp_Broken
+  - first:
+      213: 8318637450399977879
+    second: WorkLight_Off
+  - first:
+      213: -6132933361996788082
+    second: WorkLight_On
+  - first:
+      213: 5728823074624665599
+    second: WorkLight_Broken
+  - first:
+      213: -1171666561247337533
+    second: CageWallLamp_Off
+  - first:
+      213: -2801122863708807369
+    second: CageWallLamp_On
+  - first:
+      213: -6810933727232345963
+    second: CageWallLamp_Broken
+  - first:
+      213: -8658416655649487225
+    second: Spotlight_Off
+  - first:
+      213: -7320316118926452474
+    second: Spotlight_On
+  - first:
+      213: 6186259250664231939
+    second: Spotlight_Broken
+  - first:
+      213: 6267905388271107324
+    second: FilmProjector_Off
+  - first:
+      213: 803226520386138663
+    second: FilmProjector_On
+  - first:
+      213: 8431231972012295739
+    second: FilmProjector_Broken
+  - first:
+      213: -8849932425700263268
+    second: StudioFloodlight_Off
+  - first:
+      213: 8888671702166213090
+    second: StudioFloodlight_On
+  - first:
+      213: -8439605763047183550
+    second: StudioFloodlight_Broken
+  - first:
+      213: -1754841809018757299
+    second: DeskLamp_Off
+  - first:
+      213: -6649710854862039547
+    second: DeskLamp_On
+  - first:
+      213: 8128129330881809113
+    second: DeskLamp_Broken
+  - first:
+      213: 5208346100839689437
+    second: PillarLamp_Off
+  - first:
+      213: -7130725631913149651
+    second: PillarLamp_On
+  - first:
+      213: -1591602901842885736
+    second: PillarLamp_Broken
+  - first:
+      213: 5716330272098441351
+    second: TwinFloodlight_Off
+  - first:
+      213: -9006747084635369725
+    second: TwinFloodlight_On
+  - first:
+      213: -6275922972814419126
+    second: TwinFloodlight_Broken
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PortholeWallLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3a62124647ac940800000000000000
+      internalID: 5317190283466023846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortholeWallLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a465c8f0fbbdecce0800000000000000
+      internalID: -1382926421910071734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortholeWallLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f975f9f041ad77e0800000000000000
+      internalID: -1766078178415773197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TubeWallLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702ae7889dbf508e0800000000000000
+      internalID: -1727697970310241785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TubeWallLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3081e052253a91970800000000000000
+      internalID: 8726185326211373059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TubeWallLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019eee5a18b98caf0800000000000000
+      internalID: -375879587748452080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingBulbLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa37fa13079f27700800000000000000
+      internalID: 536765565875745711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingBulbLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e01775172e81280800000000000000
+      internalID: -9072252472911655312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingBulbLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc434408720756ca0800000000000000
+      internalID: -6024285611580181297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkLight_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7911a56efacb17370800000000000000
+      internalID: 8318637450399977879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkLight_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e0a07d99173eaa0800000000000000
+      internalID: -6132933361996788082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkLight_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff77018db3ed08f40800000000000000
+      internalID: 5728823074624665599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CageWallLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c326a568776dbfe0800000000000000
+      internalID: -1171666561247337533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CageWallLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f5960b8996029d0800000000000000
+      internalID: -2801122863708807369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CageWallLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598b6976cd3ba71a0800000000000000
+      internalID: -6810933727232345963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786cfaa0def17d780800000000000000
+      internalID: -8658416655649487225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60992d74643096a90800000000000000
+      internalID: -7320316118926452474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spotlight_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304d05423020ad550800000000000000
+      internalID: 6186259250664231939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FilmProjector_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcf7a9edb21cf650800000000000000
+      internalID: 6267905388271107324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FilmProjector_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722f9cdb342a52b00800000000000000
+      internalID: 803226520386138663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FilmProjector_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3685b6dec0c10570800000000000000
+      internalID: 8431231972012295739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StudioFloodlight_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9abce70959be2580800000000000000
+      internalID: -8849932425700263268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StudioFloodlight_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e11fa4a1d7ea5b70800000000000000
+      internalID: 8888671702166213090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StudioFloodlight_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bab31064f70ea80800000000000000
+      internalID: -8439605763047183550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeskLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fde681cac85a7e0800000000000000
+      internalID: -1754841809018757299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeskLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50693ec853b77b3a0800000000000000
+      internalID: -6649710854862039547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeskLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dac4afcf8aecc070800000000000000
+      internalID: 8128129330881809113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillarLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc27d70f23c74840800000000000000
+      internalID: 5208346100839689437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillarLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b3b0761d29a0d90800000000000000
+      internalID: -7130725631913149651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillarLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8938c2ce79d79e9e0800000000000000
+      internalID: -1591602901842885736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinFloodlight_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7885d37981c745f40800000000000000
+      internalID: 5716330272098441351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinFloodlight_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f068e0f3b910380800000000000000
+      internalID: -9006747084635369725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinFloodlight_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bdea7be4177e8a0800000000000000
+      internalID: -6275922972814419126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CageWallLamp_Broken: -6810933727232345963
+      CageWallLamp_Off: -1171666561247337533
+      CageWallLamp_On: -2801122863708807369
+      CeilingBulbLamp_Broken: -6024285611580181297
+      CeilingBulbLamp_Off: 536765565875745711
+      CeilingBulbLamp_On: -9072252472911655312
+      DeskLamp_Broken: 8128129330881809113
+      DeskLamp_Off: -1754841809018757299
+      DeskLamp_On: -6649710854862039547
+      FilmProjector_Broken: 8431231972012295739
+      FilmProjector_Off: 6267905388271107324
+      FilmProjector_On: 803226520386138663
+      PillarLamp_Broken: -1591602901842885736
+      PillarLamp_Off: 5208346100839689437
+      PillarLamp_On: -7130725631913149651
+      PortholeWallLamp_Broken: -1766078178415773197
+      PortholeWallLamp_Off: 5317190283466023846
+      PortholeWallLamp_On: -1382926421910071734
+      Spotlight_Broken: 6186259250664231939
+      Spotlight_Off: -8658416655649487225
+      Spotlight_On: -7320316118926452474
+      StudioFloodlight_Broken: -8439605763047183550
+      StudioFloodlight_Off: -8849932425700263268
+      StudioFloodlight_On: 8888671702166213090
+      TubeWallLamp_Broken: -375879587748452080
+      TubeWallLamp_Off: -1727697970310241785
+      TubeWallLamp_On: 8726185326211373059
+      TwinFloodlight_Broken: -6275922972814419126
+      TwinFloodlight_Off: 5716330272098441351
+      TwinFloodlight_On: -9006747084635369725
+      WorkLight_Broken: 5728823074624665599
+      WorkLight_Off: 8318637450399977879
+      WorkLight_On: -6132933361996788082
+      lighting_0: -3779678137760624508
+      lighting_1: -3008594188714053865
+      lighting_10: -2634684965147367074
+      lighting_11: -8507496261607931119
+      lighting_12: 5627579140414153305
+      lighting_13: -2431915871702125214
+      lighting_14: 6249026331443396223
+      lighting_15: 3513066849832145395
+      lighting_16: 2755835938232397464
+      lighting_17: -2532044427546773138
+      lighting_18: 65707859019379592
+      lighting_19: -6363856027471484467
+      lighting_2: 2930939289224653857
+      lighting_20: 2866035325160899576
+      lighting_21: 5513844010344725913
+      lighting_22: 2969368073788423615
+      lighting_23: 8940493809952533817
+      lighting_24: 2179365718855420707
+      lighting_25: 2005464823441278615
+      lighting_26: -2147760416753196849
+      lighting_27: -1781104578146777532
+      lighting_28: -4878246858449731408
+      lighting_29: -6440195697426043180
+      lighting_3: 6610609037042609610
+      lighting_30: -302755062735710443
+      lighting_31: -4671213630448220904
+      lighting_32: 7870849827898512824
+      lighting_33: 7673465281402619961
+      lighting_34: -3434245872723903913
+      lighting_35: 3865492595169428163
+      lighting_36: -7789089520688382806
+      lighting_37: 4093119096213870281
+      lighting_38: 1803903341792608485
+      lighting_4: -6231022735302582344
+      lighting_5: 2266965001235853508
+      lighting_6: -3085621957426641991
+      lighting_7: -3805536478277883120
+      lighting_8: -3595973653322852619
+      lighting_9: 2761527417487904386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

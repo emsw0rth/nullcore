@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: a6b027f89b9714f42a9fdb54bc05f97e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1352514392322489846
+    second: robot-humanoid-shooter_0
+  - first:
+      213: -2750161489307840173
+    second: robot-humanoid-shooter_1
+  - first:
+      213: -1250110299400591560
+    second: robot-humanoid-shooter_2
+  - first:
+      213: -2884701825697514811
+    second: robot-humanoid-shooter_3
+  - first:
+      213: 877368244991590281
+    second: robot-humanoid-shooter_4
+  - first:
+      213: 7289475803596114892
+    second: robot-humanoid-shooter_5
+  - first:
+      213: 8154570903342969798
+    second: robot-humanoid-shooter_6
+  - first:
+      213: -4522022312204170139
+    second: robot-humanoid-shooter_7
+  - first:
+      213: 2466677527177706495
+    second: robot-humanoid-shooter_8
+  - first:
+      213: -7205517064465008709
+    second: robot-humanoid-shooter_9
+  - first:
+      213: -8845059385197945851
+    second: robot-humanoid-shooter_10
+  - first:
+      213: 5439424764271537134
+    second: robot-humanoid-shooter_11
+  - first:
+      213: -5035418035989802975
+    second: robot-humanoid-shooter_12
+  - first:
+      213: 7597236956875918208
+    second: robot-humanoid-shooter_13
+  - first:
+      213: -8297083708573750627
+    second: robot-humanoid-shooter_14
+  - first:
+      213: -5193359464628095422
+    second: robot-humanoid-shooter_15
+  - first:
+      213: 8579702238884311211
+    second: RobotHumanoidShooter_Walk_0
+  - first:
+      213: -8289808760896454167
+    second: RobotHumanoidShooter_Walk_1
+  - first:
+      213: -8529062063926254231
+    second: RobotHumanoidShooter_Walk_2
+  - first:
+      213: -3518379573299037721
+    second: RobotHumanoidShooter_Walk_3
+  - first:
+      213: 2812455312245967098
+    second: RobotHumanoidShooter_Walk_4
+  - first:
+      213: -3773863755049463247
+    second: RobotHumanoidShooter_Walk_5
+  - first:
+      213: -9128098381671663472
+    second: RobotHumanoidShooter_Walk_6
+  - first:
+      213: 4594198236129415771
+    second: RobotHumanoidShooter_Walk_7
+  - first:
+      213: -3417758668191185358
+    second: RobotHumanoidShooter_ReadyWeapon_0
+  - first:
+      213: 8656795160864000239
+    second: RobotHumanoidShooter_ReadyWeapon_1
+  - first:
+      213: -4793858630238166719
+    second: RobotHumanoidShooter_ReadyWeapon_2
+  - first:
+      213: 2814405205235649611
+    second: RobotHumanoidShooter_ReadyWeapon_3
+  - first:
+      213: -6576722157497617316
+    second: RobotHumanoidShooter_ReadyWeapon_4
+  - first:
+      213: -7829109134402513011
+    second: RobotHumanoidShooter_ReadyWeapon_5
+  - first:
+      213: 2226976610709628753
+    second: RobotHumanoidShooter_ReadyWeapon_6
+  - first:
+      213: 5543045508053515761
+    second: RobotHumanoidShooter_ReadyWeapon_7
+  - first:
+      213: -656213330528187324
+    second: RobotHumanoidShooter_Shoot_0
+  - first:
+      213: -7733338441500088434
+    second: RobotHumanoidShooter_Shoot_1
+  - first:
+      213: -6723194914905264688
+    second: RobotHumanoidShooter_Shoot_2
+  - first:
+      213: -8369165521884590665
+    second: RobotHumanoidShooter_Shoot_3
+  - first:
+      213: -2882651483494126515
+    second: RobotHumanoidShooter_Shoot_4
+  - first:
+      213: -7230633104037572054
+    second: RobotHumanoidShooter_Shoot_5
+  - first:
+      213: 8865606692809817480
+    second: RobotHumanoidShooter_Shoot_6
+  - first:
+      213: 1175166286537610900
+    second: RobotHumanoidShooter_Shoot_7
+  - first:
+      213: 386940013374749424
+    second: RobotHumanoidShooter_Holster_0
+  - first:
+      213: 6675204473671682211
+    second: RobotHumanoidShooter_Holster_1
+  - first:
+      213: -8578247165452815350
+    second: RobotHumanoidShooter_Holster_2
+  - first:
+      213: 8401487278974264946
+    second: RobotHumanoidShooter_Holster_3
+  - first:
+      213: 7391834762698272339
+    second: RobotHumanoidShooter_Holster_4
+  - first:
+      213: -3765240626749112667
+    second: RobotHumanoidShooter_Holster_5
+  - first:
+      213: 3799133464979354
+    second: RobotHumanoidShooter_Holster_6
+  - first:
+      213: 415317924679174699
+    second: RobotHumanoidShooter_Holster_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0b253aab9311770800000000000000
+      internalID: 8579702238884311211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e188de6adea4fc80800000000000000
+      internalID: -8289808760896454167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9656a64ed3fa2a980800000000000000
+      internalID: -8529062063926254231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e935845b643c2fc0800000000000000
+      internalID: -3518379573299037721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8c4199439d70720800000000000000
+      internalID: 2812455312245967098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1321e89d8ea80abc0800000000000000
+      internalID: -3773863755049463247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09874a572ea725180800000000000000
+      internalID: -9128098381671663472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52583464fed1cf30800000000000000
+      internalID: 4594198236129415771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_ReadyWeapon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236c37e699ea190d0800000000000000
+      internalID: -3417758668191185358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_ReadyWeapon_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe88e98455d132870800000000000000
+      internalID: 8656795160864000239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_ReadyWeapon_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141a63989fac87db0800000000000000
+      internalID: -4793858630238166719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_ReadyWeapon_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cc4107f96ce0720800000000000000
+      internalID: 2814405205235649611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_ReadyWeapon_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54f9efea0acab4a0800000000000000
+      internalID: -6576722157497617316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_ReadyWeapon_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d871c2009ba695390800000000000000
+      internalID: -7829109134402513011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_ReadyWeapon_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157637cad6fc7ee10800000000000000
+      internalID: 2226976610709628753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_ReadyWeapon_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdba51758adcec40800000000000000
+      internalID: 5543045508053515761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Shoot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ccdf0e379a4e6f0800000000000000
+      internalID: -656213330528187324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Shoot_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87a38219a9ada490800000000000000
+      internalID: -7733338441500088434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Shoot_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddeb5d88d962b2a0800000000000000
+      internalID: -6723194914905264688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Shoot_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd4f91bc40cadb80800000000000000
+      internalID: -8369165521884590665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Shoot_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c641bafb3cef7d0800000000000000
+      internalID: -2882651483494126515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Shoot_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2219ac5081a7ab90800000000000000
+      internalID: -7230633104037572054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Shoot_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d314ba056f80b70800000000000000
+      internalID: 8865606692809817480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Shoot_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496d615e2870f4010800000000000000
+      internalID: 1175166286537610900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Holster_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa369e54efae5500800000000000000
+      internalID: 386940013374749424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Holster_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a88c402a1713ac50800000000000000
+      internalID: 6675204473671682211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Holster_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04feab07a1f3f880800000000000000
+      internalID: -8578247165452815350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Holster_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2766930da24189470800000000000000
+      internalID: 8401487278974264946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Holster_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ea3059d82159660800000000000000
+      internalID: 7391834762698272339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Holster_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeffbc599d2fbbc0800000000000000
+      internalID: -3765240626749112667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Holster_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9762a0ba4f7d0000800000000000000
+      internalID: 3799133464979354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHumanoidShooter_Holster_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aca59b37183c500800000000000000
+      internalID: 415317924679174699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RobotHumanoidShooter_Holster_0: 386940013374749424
+      RobotHumanoidShooter_Holster_1: 6675204473671682211
+      RobotHumanoidShooter_Holster_2: -8578247165452815350
+      RobotHumanoidShooter_Holster_3: 8401487278974264946
+      RobotHumanoidShooter_Holster_4: 7391834762698272339
+      RobotHumanoidShooter_Holster_5: -3765240626749112667
+      RobotHumanoidShooter_Holster_6: 3799133464979354
+      RobotHumanoidShooter_Holster_7: 415317924679174699
+      RobotHumanoidShooter_ReadyWeapon_0: -3417758668191185358
+      RobotHumanoidShooter_ReadyWeapon_1: 8656795160864000239
+      RobotHumanoidShooter_ReadyWeapon_2: -4793858630238166719
+      RobotHumanoidShooter_ReadyWeapon_3: 2814405205235649611
+      RobotHumanoidShooter_ReadyWeapon_4: -6576722157497617316
+      RobotHumanoidShooter_ReadyWeapon_5: -7829109134402513011
+      RobotHumanoidShooter_ReadyWeapon_6: 2226976610709628753
+      RobotHumanoidShooter_ReadyWeapon_7: 5543045508053515761
+      RobotHumanoidShooter_Shoot_0: -656213330528187324
+      RobotHumanoidShooter_Shoot_1: -7733338441500088434
+      RobotHumanoidShooter_Shoot_2: -6723194914905264688
+      RobotHumanoidShooter_Shoot_3: -8369165521884590665
+      RobotHumanoidShooter_Shoot_4: -2882651483494126515
+      RobotHumanoidShooter_Shoot_5: -7230633104037572054
+      RobotHumanoidShooter_Shoot_6: 8865606692809817480
+      RobotHumanoidShooter_Shoot_7: 1175166286537610900
+      RobotHumanoidShooter_Walk_0: 8579702238884311211
+      RobotHumanoidShooter_Walk_1: -8289808760896454167
+      RobotHumanoidShooter_Walk_2: -8529062063926254231
+      RobotHumanoidShooter_Walk_3: -3518379573299037721
+      RobotHumanoidShooter_Walk_4: 2812455312245967098
+      RobotHumanoidShooter_Walk_5: -3773863755049463247
+      RobotHumanoidShooter_Walk_6: -9128098381671663472
+      RobotHumanoidShooter_Walk_7: 4594198236129415771
+      robot-humanoid-shooter_0: -1352514392322489846
+      robot-humanoid-shooter_1: -2750161489307840173
+      robot-humanoid-shooter_10: -8845059385197945851
+      robot-humanoid-shooter_11: 5439424764271537134
+      robot-humanoid-shooter_12: -5035418035989802975
+      robot-humanoid-shooter_13: 7597236956875918208
+      robot-humanoid-shooter_14: -8297083708573750627
+      robot-humanoid-shooter_15: -5193359464628095422
+      robot-humanoid-shooter_2: -1250110299400591560
+      robot-humanoid-shooter_3: -2884701825697514811
+      robot-humanoid-shooter_4: 877368244991590281
+      robot-humanoid-shooter_5: 7289475803596114892
+      robot-humanoid-shooter_6: 8154570903342969798
+      robot-humanoid-shooter_7: -4522022312204170139
+      robot-humanoid-shooter_8: 2466677527177706495
+      robot-humanoid-shooter_9: -7205517064465008709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

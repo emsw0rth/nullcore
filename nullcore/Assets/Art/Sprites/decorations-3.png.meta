@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 887613310ddf39f4d886f1e721e6f27a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2240479243940872233
+    second: decorations-3_0
+  - first:
+      213: 3991812539474463840
+    second: decorations-3_1
+  - first:
+      213: 7287336686253898870
+    second: decorations-3_2
+  - first:
+      213: 5903619834412997256
+    second: decorations-3_3
+  - first:
+      213: -3006466919014202950
+    second: decorations-3_4
+  - first:
+      213: -8544870253585486377
+    second: decorations-3_5
+  - first:
+      213: 2797224530435623499
+    second: decorations-3_6
+  - first:
+      213: 1060836944331456138
+    second: decorations-3_7
+  - first:
+      213: 6669993410868381953
+    second: decorations-3_8
+  - first:
+      213: 5942195300173414596
+    second: decorations-3_9
+  - first:
+      213: -5071417477749984118
+    second: decorations-3_10
+  - first:
+      213: -3459970484082012617
+    second: decorations-3_11
+  - first:
+      213: -3669998220252246578
+    second: decorations-3_12
+  - first:
+      213: -2568830163520551518
+    second: decorations-3_13
+  - first:
+      213: -8131293466208841685
+    second: decorations-3_14
+  - first:
+      213: 4655310430704040280
+    second: decorations-3_15
+  - first:
+      213: 1127449035438242353
+    second: decorations-3_16
+  - first:
+      213: 2688882777913863329
+    second: decorations-3_17
+  - first:
+      213: -8643537097550715956
+    second: decorations-3_18
+  - first:
+      213: 3724387688802217229
+    second: decorations-3_19
+  - first:
+      213: -1687224387023901325
+    second: decorations-3_20
+  - first:
+      213: 8060511894474203593
+    second: decorations-3_21
+  - first:
+      213: -4619790803170602198
+    second: decorations-3_22
+  - first:
+      213: 1650293810953335243
+    second: decorations-3_23
+  - first:
+      213: -4034070223696027597
+    second: decorations-3_24
+  - first:
+      213: 7706309622033362288
+    second: decorations-3_25
+  - first:
+      213: 9186675605158193375
+    second: decorations-3_26
+  - first:
+      213: 5607335063511013348
+    second: decorations-3_27
+  - first:
+      213: 7279306432149272581
+    second: decorations-3_28
+  - first:
+      213: 7382968402665964822
+    second: decorations-3_29
+  - first:
+      213: -6453366961912781551
+    second: SteelCabinet
+  - first:
+      213: 5067900466597590477
+    second: StorageShelf
+  - first:
+      213: -7818638580613918928
+    second: DrawerCabinet
+  - first:
+      213: -599335467658295422
+    second: WireCageCabinet
+  - first:
+      213: 1765024529848898551
+    second: OpenLocker
+  - first:
+      213: 4986335442995247784
+    second: PalletStackLow
+  - first:
+      213: -253658086342441320
+    second: BrokenSlatCrate
+  - first:
+      213: -3841784376820981505
+    second: BracedCrate
+  - first:
+      213: -2070463212028980164
+    second: PackingTable
+  - first:
+      213: 7517774127264245769
+    second: FloorScale
+  - first:
+      213: -3081241057056950183
+    second: ScrapCageCart
+  - first:
+      213: 1457283738229400155
+    second: ScrapBin
+  - first:
+      213: 1144719089576697719
+    second: RollerShutterDoor
+  - first:
+      213: 6746586672755005624
+    second: CardboardBoxPile
+  - first:
+      213: 1471701502400773563
+    second: WrappedPalletBoxes
+  - first:
+      213: 7170312651978915526
+    second: BarrelPair
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SteelCabinet
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11562f580f80176a0800000000000000
+      internalID: -6453366961912781551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StorageShelf
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5f59c9f9cc45640800000000000000
+      internalID: 5067900466597590477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawerCabinet
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fc757c2ad9e7390800000000000000
+      internalID: -7818638580613918928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WireCageCabinet
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2874fec419bbea7f0800000000000000
+      internalID: -599335467658295422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OpenLocker
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f39e795570ae7810800000000000000
+      internalID: 1765024529848898551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalletStackLow
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aafbaaaaa5033540800000000000000
+      internalID: 4986335442995247784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrokenSlatCrate
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896472d7053da7cf0800000000000000
+      internalID: -253658086342441320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BracedCrate
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0a0f3c67d3faac0800000000000000
+      internalID: -3841784376820981505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackingTable
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c349f7eadac3443e0800000000000000
+      internalID: -2070463212028980164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloorScale
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9082535ecbf745860800000000000000
+      internalID: 7517774127264245769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapCageCart
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95875ce659b3d35d0800000000000000
+      internalID: -3081241057056950183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapBin
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52ed12c6df493410800000000000000
+      internalID: 1457283738229400155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RollerShutterDoor
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fd3dd62fbd2ef00800000000000000
+      internalID: 1144719089576697719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardboardBoxPile
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b852fb75d0b0ad50800000000000000
+      internalID: 6746586672755005624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WrappedPalletBoxes
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdb10218b88c6410800000000000000
+      internalID: 1471701502400773563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelPair
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce31b5fd51128360800000000000000
+      internalID: 7170312651978915526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BarrelPair: 7170312651978915526
+      BracedCrate: -3841784376820981505
+      BrokenSlatCrate: -253658086342441320
+      CardboardBoxPile: 6746586672755005624
+      DrawerCabinet: -7818638580613918928
+      FloorScale: 7517774127264245769
+      OpenLocker: 1765024529848898551
+      PackingTable: -2070463212028980164
+      PalletStackLow: 4986335442995247784
+      RollerShutterDoor: 1144719089576697719
+      ScrapBin: 1457283738229400155
+      ScrapCageCart: -3081241057056950183
+      SteelCabinet: -6453366961912781551
+      StorageShelf: 5067900466597590477
+      WireCageCabinet: -599335467658295422
+      WrappedPalletBoxes: 1471701502400773563
+      decorations-3_0: -2240479243940872233
+      decorations-3_1: 3991812539474463840
+      decorations-3_10: -5071417477749984118
+      decorations-3_11: -3459970484082012617
+      decorations-3_12: -3669998220252246578
+      decorations-3_13: -2568830163520551518
+      decorations-3_14: -8131293466208841685
+      decorations-3_15: 4655310430704040280
+      decorations-3_16: 1127449035438242353
+      decorations-3_17: 2688882777913863329
+      decorations-3_18: -8643537097550715956
+      decorations-3_19: 3724387688802217229
+      decorations-3_2: 7287336686253898870
+      decorations-3_20: -1687224387023901325
+      decorations-3_21: 8060511894474203593
+      decorations-3_22: -4619790803170602198
+      decorations-3_23: 1650293810953335243
+      decorations-3_24: -4034070223696027597
+      decorations-3_25: 7706309622033362288
+      decorations-3_26: 9186675605158193375
+      decorations-3_27: 5607335063511013348
+      decorations-3_28: 7279306432149272581
+      decorations-3_29: 7382968402665964822
+      decorations-3_3: 5903619834412997256
+      decorations-3_4: -3006466919014202950
+      decorations-3_5: -8544870253585486377
+      decorations-3_6: 2797224530435623499
+      decorations-3_7: 1060836944331456138
+      decorations-3_8: 6669993410868381953
+      decorations-3_9: 5942195300173414596
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

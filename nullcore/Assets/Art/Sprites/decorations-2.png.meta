@@ -1,0 +1,2673 @@
+fileFormatVersion: 2
+guid: 6a1e183c94fc24a499104c5047e3dbba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8074284856795842241
+    second: decorations-2_0
+  - first:
+      213: -8260839953361275818
+    second: decorations-2_1
+  - first:
+      213: -4439520594007532734
+    second: decorations-2_2
+  - first:
+      213: -1242639083613677255
+    second: decorations-2_3
+  - first:
+      213: 5531445200520093162
+    second: decorations-2_4
+  - first:
+      213: 4122375162950354274
+    second: decorations-2_5
+  - first:
+      213: -9020267570900089451
+    second: decorations-2_6
+  - first:
+      213: -2999815853339352274
+    second: decorations-2_7
+  - first:
+      213: -8417188154094289351
+    second: decorations-2_8
+  - first:
+      213: 8489497448153020248
+    second: decorations-2_9
+  - first:
+      213: -8404789111009382956
+    second: decorations-2_10
+  - first:
+      213: -7248790619100066378
+    second: decorations-2_11
+  - first:
+      213: -1503604298735642484
+    second: decorations-2_12
+  - first:
+      213: 5029077520003431845
+    second: decorations-2_13
+  - first:
+      213: 1838917426903457415
+    second: decorations-2_14
+  - first:
+      213: 1977420978987983600
+    second: decorations-2_15
+  - first:
+      213: 2098229944875981711
+    second: decorations-2_16
+  - first:
+      213: -5590535373246358590
+    second: decorations-2_17
+  - first:
+      213: 2406423839031792155
+    second: decorations-2_18
+  - first:
+      213: 3728924612084631596
+    second: decorations-2_19
+  - first:
+      213: 5555074874015975500
+    second: decorations-2_20
+  - first:
+      213: 1412672407808552718
+    second: decorations-2_21
+  - first:
+      213: 1858901795807567616
+    second: decorations-2_22
+  - first:
+      213: 4318938951616736090
+    second: decorations-2_23
+  - first:
+      213: 4730726016844885676
+    second: decorations-2_24
+  - first:
+      213: -3086490883371308439
+    second: decorations-2_25
+  - first:
+      213: -7378923279413596235
+    second: decorations-2_26
+  - first:
+      213: -2529582209292152905
+    second: decorations-2_27
+  - first:
+      213: 7593634892873276812
+    second: decorations-2_28
+  - first:
+      213: 8474542561029420672
+    second: decorations-2_29
+  - first:
+      213: -4932712287037240240
+    second: decorations-2_30
+  - first:
+      213: -2046419315282620869
+    second: decorations-2_31
+  - first:
+      213: 1291192427995402825
+    second: decorations-2_32
+  - first:
+      213: -595742250128409894
+    second: decorations-2_33
+  - first:
+      213: 2069353405210108323
+    second: decorations-2_34
+  - first:
+      213: -961400842955836439
+    second: decorations-2_35
+  - first:
+      213: -6635133902278290592
+    second: decorations-2_36
+  - first:
+      213: 8605662477966141492
+    second: decorations-2_37
+  - first:
+      213: 365207173034819942
+    second: decorations-2_38
+  - first:
+      213: 2333323993708807234
+    second: decorations-2_39
+  - first:
+      213: -2701119644003886035
+    second: decorations-2_40
+  - first:
+      213: -3471108728852248041
+    second: decorations-2_41
+  - first:
+      213: 2256782635891369973
+    second: decorations-2_42
+  - first:
+      213: 1051770421288904799
+    second: decorations-2_43
+  - first:
+      213: -863924702149168675
+    second: decorations-2_44
+  - first:
+      213: -5251223598902841814
+    second: decorations-2_45
+  - first:
+      213: -7814940769666734520
+    second: decorations-2_46
+  - first:
+      213: -3585445025163661348
+    second: decorations-2_47
+  - first:
+      213: 7393462592219340433
+    second: decorations-2_48
+  - first:
+      213: 6615387494962830483
+    second: decorations-2_49
+  - first:
+      213: 3184123503008931816
+    second: decorations-2_50
+  - first:
+      213: -6326603421696048256
+    second: decorations-2_51
+  - first:
+      213: -6010167105452800710
+    second: decorations-2_52
+  - first:
+      213: 578034361699068571
+    second: decorations-2_53
+  - first:
+      213: 6663717867937665127
+    second: decorations-2_54
+  - first:
+      213: -5379198906593497027
+    second: decorations-2_55
+  - first:
+      213: 3038161407986721824
+    second: decorations-2_56
+  - first:
+      213: 2981909256740173044
+    second: decorations-2_57
+  - first:
+      213: 1914445192551333138
+    second: decorations-2_58
+  - first:
+      213: -7686548009557643398
+    second: decorations-2_59
+  - first:
+      213: 619483392500209935
+    second: decorations-2_60
+  - first:
+      213: -5375600167666454212
+    second: decorations-2_61
+  - first:
+      213: 1918037567354403866
+    second: decorations-2_62
+  - first:
+      213: -6493514532698196132
+    second: decorations-2_63
+  - first:
+      213: -1305373378247532663
+    second: decorations-2_64
+  - first:
+      213: -7743026424770305768
+    second: decorations-2_65
+  - first:
+      213: -3587191473233990693
+    second: decorations-2_66
+  - first:
+      213: -9141846269029574859
+    second: decorations-2_67
+  - first:
+      213: 4308048867835187318
+    second: decorations-2_68
+  - first:
+      213: 1777358759385372635
+    second: decorations-2_69
+  - first:
+      213: -6536273890630577729
+    second: decorations-2_70
+  - first:
+      213: 7659232586479319822
+    second: decorations-2_71
+  - first:
+      213: 3751469759115721197
+    second: decorations-2_72
+  - first:
+      213: 6537235322118654580
+    second: decorations-2_73
+  - first:
+      213: -789183622914735779
+    second: decorations-2_74
+  - first:
+      213: -1682027256469244220
+    second: tmp_r0_c0
+  - first:
+      213: -510513306505852732
+    second: tmp_r0_c1
+  - first:
+      213: 8807477856559520599
+    second: tmp_r0_c2
+  - first:
+      213: -660330965494266300
+    second: tmp_r0_c3
+  - first:
+      213: -6319110546449716641
+    second: tmp_r0_c4
+  - first:
+      213: 4687152588620240204
+    second: tmp_r0_c5
+  - first:
+      213: -3267771527152299908
+    second: tmp_r0_c6
+  - first:
+      213: 6599121494110872751
+    second: tmp_r0_c7
+  - first:
+      213: -1852094496220110339
+    second: tmp_r1_c0
+  - first:
+      213: 2530255315272476676
+    second: tmp_r1_c1
+  - first:
+      213: 7169956051997952
+    second: tmp_r1_c2
+  - first:
+      213: 4032937698257937198
+    second: tmp_r1_c3
+  - first:
+      213: 359689441058872602
+    second: tmp_r1_c4
+  - first:
+      213: -3318273089100561552
+    second: tmp_r1_c5
+  - first:
+      213: 8881255438981095109
+    second: tmp_r1_c6
+  - first:
+      213: -7483117873554935079
+    second: tmp_r1_c7
+  - first:
+      213: -2772426275939427627
+    second: tmp_r2_c0
+  - first:
+      213: -3915924147663875063
+    second: tmp_r2_c1
+  - first:
+      213: 937740346617309689
+    second: tmp_r2_c2
+  - first:
+      213: 7239818501505012255
+    second: tmp_r2_c3
+  - first:
+      213: 1680590547601242648
+    second: tmp_r2_c4
+  - first:
+      213: 7733872530210051951
+    second: tmp_r2_c5
+  - first:
+      213: 4404575869762128967
+    second: tmp_r2_c6
+  - first:
+      213: -3973092814348631401
+    second: tmp_r2_c7
+  - first:
+      213: -1085657040985262929
+    second: tmp_r3_c0
+  - first:
+      213: 5234400045616788055
+    second: tmp_r3_c1
+  - first:
+      213: -6445198986941988685
+    second: tmp_r3_c2
+  - first:
+      213: -2092988938388185856
+    second: tmp_r3_c3
+  - first:
+      213: 3111019099731759791
+    second: tmp_r3_c4
+  - first:
+      213: 3108004809855875599
+    second: tmp_r3_c5
+  - first:
+      213: 6962060980549112507
+    second: tmp_r3_c6
+  - first:
+      213: -7078959718600891666
+    second: tmp_r3_c7
+  - first:
+      213: -3399055261345588109
+    second: tmp_r4_c0
+  - first:
+      213: -7130424082888574835
+    second: tmp_r4_c1
+  - first:
+      213: -6683945400422232980
+    second: tmp_r4_c2
+  - first:
+      213: -728567251561518271
+    second: tmp_r4_c3
+  - first:
+      213: 8776622902021672472
+    second: tmp_r4_c4
+  - first:
+      213: -5349356579973484232
+    second: tmp_r4_c5
+  - first:
+      213: -7771006368195477681
+    second: tmp_r4_c6
+  - first:
+      213: 8245884082350738389
+    second: tmp_r4_c7
+  - first:
+      213: -4654592139410060677
+    second: tmp_r5_c0
+  - first:
+      213: 4347134283360130994
+    second: tmp_r5_c1
+  - first:
+      213: 5146569076063604608
+    second: tmp_r5_c2
+  - first:
+      213: 4068865942289294436
+    second: tmp_r5_c3
+  - first:
+      213: 5965689723283616588
+    second: tmp_r5_c4
+  - first:
+      213: -9160477782167336117
+    second: tmp_r5_c5
+  - first:
+      213: 7261953499592014409
+    second: tmp_r5_c6
+  - first:
+      213: -3988615581889016250
+    second: tmp_r5_c7
+  - first:
+      213: 3947922827962181540
+    second: tmp_r6_c0
+  - first:
+      213: -5001703299956001359
+    second: tmp_r6_c1
+  - first:
+      213: -3950437972367674577
+    second: tmp_r6_c2
+  - first:
+      213: 335746551374543257
+    second: tmp_r6_c3
+  - first:
+      213: -955386734131682623
+    second: tmp_r6_c4
+  - first:
+      213: -8337845369492530756
+    second: tmp_r6_c5
+  - first:
+      213: 6697444288792863468
+    second: tmp_r6_c6
+  - first:
+      213: -2349683873459608061
+    second: tmp_r6_c7
+  - first:
+      213: -4128669898577231623
+    second: tmp_r7_c0
+  - first:
+      213: -6604756543285232062
+    second: tmp_r7_c1
+  - first:
+      213: 5567044180891922414
+    second: tmp_r7_c2
+  - first:
+      213: -5757589191365588535
+    second: tmp_r7_c3
+  - first:
+      213: -4423615731405238461
+    second: tmp_r7_c4
+  - first:
+      213: 5655448231397438016
+    second: tmp_r7_c5
+  - first:
+      213: 2357864793414368576
+    second: tmp_r7_c6
+  - first:
+      213: 2465021974079038237
+    second: tmp_r7_c7
+  - first:
+      213: -8511596574605056658
+    second: tmp_r8_c0
+  - first:
+      213: -3771864105909300035
+    second: tmp_r8_c1
+  - first:
+      213: 795299718585466603
+    second: tmp_r8_c2
+  - first:
+      213: -5666821429898954884
+    second: tmp_r8_c3
+  - first:
+      213: -6603250128414697125
+    second: tmp_r8_c4
+  - first:
+      213: 6509581310264690521
+    second: tmp_r8_c5
+  - first:
+      213: -7447920798495962854
+    second: tmp_r8_c6
+  - first:
+      213: -3256731613379060241
+    second: tmp_r8_c7
+  - first:
+      213: -9004899705613432157
+    second: tmp_r9_c0
+  - first:
+      213: -7574743095015785386
+    second: tmp_r9_c1
+  - first:
+      213: 8635457833594553187
+    second: tmp_r9_c2
+  - first:
+      213: 2318785994951485768
+    second: tmp_r9_c3
+  - first:
+      213: -511348661906138263
+    second: tmp_r9_c4
+  - first:
+      213: -3735044024415120910
+    second: tmp_r9_c5
+  - first:
+      213: -5272595860470567465
+    second: tmp_r9_c6
+  - first:
+      213: -4046324645782652956
+    second: tmp_r9_c7
+  - first:
+      213: -2142528958057646321
+    second: tmp_r10_c0
+  - first:
+      213: -7714752971754943597
+    second: tmp_r10_c1
+  - first:
+      213: 7704013644435428532
+    second: tmp_r10_c2
+  - first:
+      213: -7189766803457117529
+    second: tmp_r10_c3
+  - first:
+      213: 5362431570727695936
+    second: tmp_r10_c4
+  - first:
+      213: -746459047262868651
+    second: tmp_r10_c5
+  - first:
+      213: -8525790131968636751
+    second: tmp_r10_c6
+  - first:
+      213: 4136349854660230041
+    second: tmp_r10_c7
+  - first:
+      213: -6428647943077923636
+    second: tmp_r11_c0
+  - first:
+      213: -6179020956253823455
+    second: tmp_r11_c1
+  - first:
+      213: -8710631163520439701
+    second: tmp_r11_c2
+  - first:
+      213: -3120561078584799759
+    second: tmp_r11_c3
+  - first:
+      213: -1015412948729043213
+    second: tmp_r11_c4
+  - first:
+      213: -4156274932283779734
+    second: tmp_r11_c5
+  - first:
+      213: -3939023797859715201
+    second: tmp_r11_c6
+  - first:
+      213: 7566262848209174508
+    second: tmp_r11_c7
+  - first:
+      213: -2848068367660649325
+    second: TrashBag_1
+  - first:
+      213: 4740286077917676765
+    second: TrashBag_2
+  - first:
+      213: -8432468276286935122
+    second: TrashBagPile
+  - first:
+      213: 1779505467032661096
+    second: CardboardBoxSealed
+  - first:
+      213: 6731016053018491538
+    second: ScrapMetalPile_2
+  - first:
+      213: 8042777717468060004
+    second: SteelDoor_Vent
+  - first:
+      213: 3712869846761769993
+    second: SteelDoor_Grille
+  - first:
+      213: 4225800836300095728
+    second: SteelDoor_Hazard
+  - first:
+      213: 5447736632995605146
+    second: SteelDoor_Barred
+  - first:
+      213: 2542713835461500928
+    second: SteelDoor_Shutter
+  - first:
+      213: -7462568735130754426
+    second: WoodenDoor_Planked
+  - first:
+      213: 6713383133335313628
+    second: Graffiti_GraySplat
+  - first:
+      213: 7053778974930439108
+    second: Graffiti_RedSplat
+  - first:
+      213: 3583324248661320631
+    second: Graffiti_TealGear
+  - first:
+      213: 1339980333560444429
+    second: Graffiti_OrangeSplat
+  - first:
+      213: -716722071982035100
+    second: Graffiti_GraySplat2
+  - first:
+      213: -6441537849196319706
+    second: Graffiti_Posters
+  - first:
+      213: -3146997434265426929
+    second: WallLamp_Lit
+  - first:
+      213: 8091433612710886559
+    second: WallLamp_Off
+  - first:
+      213: -3870905945817279295
+    second: WallLamp_Broken
+  - first:
+      213: -4315313176192585255
+    second: TubeLight_Lit
+  - first:
+      213: 8941119996183953815
+    second: TubeLight_Off
+  - first:
+      213: -5663145192928603078
+    second: TubeLight_Broken
+  - first:
+      213: 6980424354843965637
+    second: WallFan_0
+  - first:
+      213: -6112279272563156446
+    second: WallFan_1
+  - first:
+      213: -3551847554797519343
+    second: WallFan_2
+  - first:
+      213: -5624039857086528050
+    second: WallFan_3
+  - first:
+      213: -4792056610747717196
+    second: WallFan_4
+  - first:
+      213: 911412071504072081
+    second: WallFan_5
+  - first:
+      213: 5068116126735166445
+    second: WallFan_6
+  - first:
+      213: 8602608050122812184
+    second: WallFan_7
+  - first:
+      213: 6450466836912926068
+    second: PipeOutlet_0
+  - first:
+      213: -6333607347688656173
+    second: PipeOutlet_1
+  - first:
+      213: 4544105501270884065
+    second: PipeOutlet_2
+  - first:
+      213: -145257846155364730
+    second: PipeOutlet_3
+  - first:
+      213: -6941030931080199725
+    second: PipeOutlet_4
+  - first:
+      213: 1370098255941430454
+    second: PipeOutlet_5
+  - first:
+      213: 8474900926298878530
+    second: PipeOutlet_6
+  - first:
+      213: -7201919732741857849
+    second: SparkingWires_0
+  - first:
+      213: -4846933710232776336
+    second: SparkingWires_1
+  - first:
+      213: -8748588741768763895
+    second: SparkingWires_2
+  - first:
+      213: 2457125787552681856
+    second: SparkingWires_3
+  - first:
+      213: 5821946640434985367
+    second: SparkingWires_4
+  - first:
+      213: 2456610099668594531
+    second: SparkingWires_5
+  - first:
+      213: -8072300621034128847
+    second: SparkingWires_6
+  - first:
+      213: 1883456519270313444
+    second: FlickeringMonitor_0
+  - first:
+      213: 8395229822327580570
+    second: FlickeringMonitor_1
+  - first:
+      213: -6186983603628019024
+    second: FlickeringMonitor_2
+  - first:
+      213: -5743290685823339838
+    second: FlickeringMonitor_3
+  - first:
+      213: -330820200885719392
+    second: FlickeringMonitor_4
+  - first:
+      213: -5136513485919345813
+    second: FlickeringMonitor_5
+  - first:
+      213: 8861176504910905303
+    second: FlickeringMonitor_6
+  - first:
+      213: 6399074660876521620
+    second: FlickeringMonitor_7
+  - first:
+      213: -3554450978875424486
+    second: HangingChain_1
+  - first:
+      213: -7548311888038322655
+    second: HangingChain_2
+  - first:
+      213: -9180175373147562565
+    second: SecurityScannerGate
+  - first:
+      213: -7515280532982068617
+    second: Ladder_1
+  - first:
+      213: -2388662932940850130
+    second: Ladder_2
+  - first:
+      213: -2208542783954434282
+    second: WallIntercom
+  - first:
+      213: -4893448513912422304
+    second: SecurityCamera
+  - first:
+      213: -6434064689603584130
+    second: IndustrialFan
+  - first:
+      213: -129546454006941000
+    second: WoodenPallet
+  - first:
+      213: -95480703744173373
+    second: GasCanisters_Small
+  - first:
+      213: -3595440053555237893
+    second: GasCanisters_Cart
+  - first:
+      213: -3316030238667946385
+    second: ToolCabinet
+  - first:
+      213: -3382239867107827971
+    second: WeldingCart
+  - first:
+      213: 732197520307527667
+    second: WallCabinet
+  - first:
+      213: -1217191454571152441
+    second: Locker_2
+  - first:
+      213: 4684963793912777228
+    second: Workbench
+  - first:
+      213: 1518498454003434186
+    second: OfficeChair
+  - first:
+      213: -4359121690998812041
+    second: PottedPlant
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrashBag_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3947f89c8e0a978d0800000000000000
+      internalID: -2848068367660649325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashBag_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd44300a211e8c140800000000000000
+      internalID: 4740286077917676765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrashBagPile
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafaa24a7cad9fa80800000000000000
+      internalID: -8432468276286935122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardboardBoxSealed
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ce8564bc212b810800000000000000
+      internalID: 1779505467032661096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapMetalPile_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a7e91107f596d50800000000000000
+      internalID: 6731016053018491538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteelDoor_Vent
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4695c19b8bfad9f60800000000000000
+      internalID: 8042777717468060004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteelDoor_Grille
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c8e793473c68330800000000000000
+      internalID: 3712869846761769993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteelDoor_Hazard
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0473ba87f05aa30800000000000000
+      internalID: 4225800836300095728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteelDoor_Barred
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ae597ba9f3a9b40800000000000000
+      internalID: 5447736632995605146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteelDoor_Shutter
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0006720f2c8894320800000000000000
+      internalID: 2542713835461500928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenDoor_Planked
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68268961641af6890800000000000000
+      internalID: -7462568735130754426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_GraySplat
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcdc87046aba2d50800000000000000
+      internalID: 6713383133335313628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_RedSplat
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb09dcea9e04e160800000000000000
+      internalID: 7053778974930439108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_TealGear
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3608c3b668ab130800000000000000
+      internalID: 3583324248661320631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_OrangeSplat
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0631eb8301989210800000000000000
+      internalID: 1339980333560444429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_GraySplat2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f24d8a211bd06f0800000000000000
+      internalID: -716722071982035100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graffiti_Posters
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c6b63747f0b96a0800000000000000
+      internalID: -6441537849196319706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallLamp_Lit
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f042b8dc18e9354d0800000000000000
+      internalID: -3146997434265426929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cb941200c8a4070800000000000000
+      internalID: 8091433612710886559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c41d9c1d87c74ac0800000000000000
+      internalID: -3870905945817279295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TubeLight_Lit
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d17a7e978dec14c0800000000000000
+      internalID: -4315313176192585255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TubeLight_Off
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791cfa2b34d351c70800000000000000
+      internalID: 8941119996183953815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TubeLight_Broken
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a349700a3777861b0800000000000000
+      internalID: -5663145192928603078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallFan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8b5f387f27fd060800000000000000
+      internalID: 6980424354843965637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallFan_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ad3e6c262dc2ba0800000000000000
+      internalID: -6112279272563156446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallFan_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e34f7a77d45bec0800000000000000
+      internalID: -3551847554797519343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallFan_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec508b32c8563f1b0800000000000000
+      internalID: -5624039857086528050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallFan_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9e1d4e6e13f7db0800000000000000
+      internalID: -4792056610747717196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallFan_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dc00e337cf5ac00800000000000000
+      internalID: 911412071504072081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallFan_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb6a76e3c0955640800000000000000
+      internalID: 5068116126735166445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallFan_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b6c79617a926770800000000000000
+      internalID: 8602608050122812184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipeOutlet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47de1a18969a48950800000000000000
+      internalID: 6450466836912926068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipeOutlet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2b6369ca18a18a0800000000000000
+      internalID: -6333607347688656173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipeOutlet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee3621b0e7ef0f30800000000000000
+      internalID: 4544105501270884065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipeOutlet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686321f22c0fbfdf0800000000000000
+      internalID: -145257846155364730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipeOutlet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d147f1b4218caf90800000000000000
+      internalID: -6941030931080199725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipeOutlet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc65ccca11930310800000000000000
+      internalID: 1370098255941430454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PipeOutlet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2427ca29d75ec9570800000000000000
+      internalID: 8474900926298878530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SparkingWires_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd9b051924ad0c90800000000000000
+      internalID: -7201919732741857849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SparkingWires_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07195bf787b3cbcb0800000000000000
+      internalID: -4846933710232776336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SparkingWires_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90624e034e4c69680800000000000000
+      internalID: -8748588741768763895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SparkingWires_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f8787a2e6791220800000000000000
+      internalID: 2457125787552681856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SparkingWires_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799f76c9f95bbc050800000000000000
+      internalID: 5821946640434985367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SparkingWires_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f2266bed1a71220800000000000000
+      internalID: 2456610099668594531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SparkingWires_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a7813aa5d69ff80800000000000000
+      internalID: -8072300621034128847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlickeringMonitor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed200da9b1632a10800000000000000
+      internalID: 1883456519270313444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlickeringMonitor_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97e9972b09d18470800000000000000
+      internalID: 8395229822327580570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlickeringMonitor_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2f59a413b632aa0800000000000000
+      internalID: -6186983603628019024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlickeringMonitor_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2b0bdec8bbb40b0800000000000000
+      internalID: -5743290685823339838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlickeringMonitor_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeeea1b7c0b86bf0800000000000000
+      internalID: -330820200885719392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlickeringMonitor_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6326cfe23077b8b0800000000000000
+      internalID: -5136513485919345813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlickeringMonitor_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df704b251939fa70800000000000000
+      internalID: 8861176504910905303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlickeringMonitor_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4909fb410841ec850800000000000000
+      internalID: 6399074660876521620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingChain_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a114790caad0caec0800000000000000
+      internalID: -3554450978875424486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingChain_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e1e9b94520f3790800000000000000
+      internalID: -7548311888038322655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecurityScannerGate
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd10c30327799080800000000000000
+      internalID: -9180175373147562565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a02344c2c54b790800000000000000
+      internalID: -7515280532982068617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cfae9d7b3c9ded0800000000000000
+      internalID: -2388662932940850130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallIntercom
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617c4231a0ea951e0800000000000000
+      internalID: -2208542783954434282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecurityCamera
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0604691d08af61cb0800000000000000
+      internalID: -4893448513912422304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IndustrialFan
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f5b42014c95b6a0800000000000000
+      internalID: -6434064689603584130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WoodenPallet
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba310bbf22c33ef0800000000000000
+      internalID: -129546454006941000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasCanisters_Small
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca9c6a4ec8ccaef0800000000000000
+      internalID: -95480703744173373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GasCanisters_Cart
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbe0ac125e6a1ec0800000000000000
+      internalID: -3595440053555237893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToolCabinet
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f664eb721181bf1d0800000000000000
+      internalID: -3316030238667946385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeldingCart
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe9fdfb2cedf01d0800000000000000
+      internalID: -3382239867107827971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallCabinet
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff1a5fe3c9492a00800000000000000
+      internalID: 732197520307527667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locker_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb35ae22daab1fe0800000000000000
+      internalID: -1217191454571152441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Workbench
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0accb1afb5540140800000000000000
+      internalID: 4684963793912777228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeChair
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2cade6c4ac21510800000000000000
+      internalID: 1518498454003434186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PottedPlant
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772d05beae94183c0800000000000000
+      internalID: -4359121690998812041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5801c2c5902175f499896fdae863e4e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CardboardBoxSealed: 1779505467032661096
+      FlickeringMonitor_0: 1883456519270313444
+      FlickeringMonitor_1: 8395229822327580570
+      FlickeringMonitor_2: -6186983603628019024
+      FlickeringMonitor_3: -5743290685823339838
+      FlickeringMonitor_4: -330820200885719392
+      FlickeringMonitor_5: -5136513485919345813
+      FlickeringMonitor_6: 8861176504910905303
+      FlickeringMonitor_7: 6399074660876521620
+      GasCanisters_Cart: -3595440053555237893
+      GasCanisters_Small: -95480703744173373
+      Graffiti_GraySplat: 6713383133335313628
+      Graffiti_GraySplat2: -716722071982035100
+      Graffiti_OrangeSplat: 1339980333560444429
+      Graffiti_Posters: -6441537849196319706
+      Graffiti_RedSplat: 7053778974930439108
+      Graffiti_TealGear: 3583324248661320631
+      HangingChain_1: -3554450978875424486
+      HangingChain_2: -7548311888038322655
+      IndustrialFan: -6434064689603584130
+      Ladder_1: -7515280532982068617
+      Ladder_2: -2388662932940850130
+      Locker_2: -1217191454571152441
+      OfficeChair: 1518498454003434186
+      PipeOutlet_0: 6450466836912926068
+      PipeOutlet_1: -6333607347688656173
+      PipeOutlet_2: 4544105501270884065
+      PipeOutlet_3: -145257846155364730
+      PipeOutlet_4: -6941030931080199725
+      PipeOutlet_5: 1370098255941430454
+      PipeOutlet_6: 8474900926298878530
+      PottedPlant: -4359121690998812041
+      ScrapMetalPile_2: 6731016053018491538
+      SecurityCamera: -4893448513912422304
+      SecurityScannerGate: -9180175373147562565
+      SparkingWires_0: -7201919732741857849
+      SparkingWires_1: -4846933710232776336
+      SparkingWires_2: -8748588741768763895
+      SparkingWires_3: 2457125787552681856
+      SparkingWires_4: 5821946640434985367
+      SparkingWires_5: 2456610099668594531
+      SparkingWires_6: -8072300621034128847
+      SteelDoor_Barred: 5447736632995605146
+      SteelDoor_Grille: 3712869846761769993
+      SteelDoor_Hazard: 4225800836300095728
+      SteelDoor_Shutter: 2542713835461500928
+      SteelDoor_Vent: 8042777717468060004
+      ToolCabinet: -3316030238667946385
+      TrashBagPile: -8432468276286935122
+      TrashBag_1: -2848068367660649325
+      TrashBag_2: 4740286077917676765
+      TubeLight_Broken: -5663145192928603078
+      TubeLight_Lit: -4315313176192585255
+      TubeLight_Off: 8941119996183953815
+      WallCabinet: 732197520307527667
+      WallFan_0: 6980424354843965637
+      WallFan_1: -6112279272563156446
+      WallFan_2: -3551847554797519343
+      WallFan_3: -5624039857086528050
+      WallFan_4: -4792056610747717196
+      WallFan_5: 911412071504072081
+      WallFan_6: 5068116126735166445
+      WallFan_7: 8602608050122812184
+      WallIntercom: -2208542783954434282
+      WallLamp_Broken: -3870905945817279295
+      WallLamp_Lit: -3146997434265426929
+      WallLamp_Off: 8091433612710886559
+      WeldingCart: -3382239867107827971
+      WoodenDoor_Planked: -7462568735130754426
+      WoodenPallet: -129546454006941000
+      Workbench: 4684963793912777228
+      decorations-2_0: 8074284856795842241
+      decorations-2_1: -8260839953361275818
+      decorations-2_10: -8404789111009382956
+      decorations-2_11: -7248790619100066378
+      decorations-2_12: -1503604298735642484
+      decorations-2_13: 5029077520003431845
+      decorations-2_14: 1838917426903457415
+      decorations-2_15: 1977420978987983600
+      decorations-2_16: 2098229944875981711
+      decorations-2_17: -5590535373246358590
+      decorations-2_18: 2406423839031792155
+      decorations-2_19: 3728924612084631596
+      decorations-2_2: -4439520594007532734
+      decorations-2_20: 5555074874015975500
+      decorations-2_21: 1412672407808552718
+      decorations-2_22: 1858901795807567616
+      decorations-2_23: 4318938951616736090
+      decorations-2_24: 4730726016844885676
+      decorations-2_25: -3086490883371308439
+      decorations-2_26: -7378923279413596235
+      decorations-2_27: -2529582209292152905
+      decorations-2_28: 7593634892873276812
+      decorations-2_29: 8474542561029420672
+      decorations-2_3: -1242639083613677255
+      decorations-2_30: -4932712287037240240
+      decorations-2_31: -2046419315282620869
+      decorations-2_32: 1291192427995402825
+      decorations-2_33: -595742250128409894
+      decorations-2_34: 2069353405210108323
+      decorations-2_35: -961400842955836439
+      decorations-2_36: -6635133902278290592
+      decorations-2_37: 8605662477966141492
+      decorations-2_38: 365207173034819942
+      decorations-2_39: 2333323993708807234
+      decorations-2_4: 5531445200520093162
+      decorations-2_40: -2701119644003886035
+      decorations-2_41: -3471108728852248041
+      decorations-2_42: 2256782635891369973
+      decorations-2_43: 1051770421288904799
+      decorations-2_44: -863924702149168675
+      decorations-2_45: -5251223598902841814
+      decorations-2_46: -7814940769666734520
+      decorations-2_47: -3585445025163661348
+      decorations-2_48: 7393462592219340433
+      decorations-2_49: 6615387494962830483
+      decorations-2_5: 4122375162950354274
+      decorations-2_50: 3184123503008931816
+      decorations-2_51: -6326603421696048256
+      decorations-2_52: -6010167105452800710
+      decorations-2_53: 578034361699068571
+      decorations-2_54: 6663717867937665127
+      decorations-2_55: -5379198906593497027
+      decorations-2_56: 3038161407986721824
+      decorations-2_57: 2981909256740173044
+      decorations-2_58: 1914445192551333138
+      decorations-2_59: -7686548009557643398
+      decorations-2_6: -9020267570900089451
+      decorations-2_60: 619483392500209935
+      decorations-2_61: -5375600167666454212
+      decorations-2_62: 1918037567354403866
+      decorations-2_63: -6493514532698196132
+      decorations-2_64: -1305373378247532663
+      decorations-2_65: -7743026424770305768
+      decorations-2_66: -3587191473233990693
+      decorations-2_67: -9141846269029574859
+      decorations-2_68: 4308048867835187318
+      decorations-2_69: 1777358759385372635
+      decorations-2_7: -2999815853339352274
+      decorations-2_70: -6536273890630577729
+      decorations-2_71: 7659232586479319822
+      decorations-2_72: 3751469759115721197
+      decorations-2_73: 6537235322118654580
+      decorations-2_74: -789183622914735779
+      decorations-2_8: -8417188154094289351
+      decorations-2_9: 8489497448153020248
+      tmp_r0_c0: -1682027256469244220
+      tmp_r0_c1: -510513306505852732
+      tmp_r0_c2: 8807477856559520599
+      tmp_r0_c3: -660330965494266300
+      tmp_r0_c4: -6319110546449716641
+      tmp_r0_c5: 4687152588620240204
+      tmp_r0_c6: -3267771527152299908
+      tmp_r0_c7: 6599121494110872751
+      tmp_r10_c0: -2142528958057646321
+      tmp_r10_c1: -7714752971754943597
+      tmp_r10_c2: 7704013644435428532
+      tmp_r10_c3: -7189766803457117529
+      tmp_r10_c4: 5362431570727695936
+      tmp_r10_c5: -746459047262868651
+      tmp_r10_c6: -8525790131968636751
+      tmp_r10_c7: 4136349854660230041
+      tmp_r11_c0: -6428647943077923636
+      tmp_r11_c1: -6179020956253823455
+      tmp_r11_c2: -8710631163520439701
+      tmp_r11_c3: -3120561078584799759
+      tmp_r11_c4: -1015412948729043213
+      tmp_r11_c5: -4156274932283779734
+      tmp_r11_c6: -3939023797859715201
+      tmp_r11_c7: 7566262848209174508
+      tmp_r1_c0: -1852094496220110339
+      tmp_r1_c1: 2530255315272476676
+      tmp_r1_c2: 7169956051997952
+      tmp_r1_c3: 4032937698257937198
+      tmp_r1_c4: 359689441058872602
+      tmp_r1_c5: -3318273089100561552
+      tmp_r1_c6: 8881255438981095109
+      tmp_r1_c7: -7483117873554935079
+      tmp_r2_c0: -2772426275939427627
+      tmp_r2_c1: -3915924147663875063
+      tmp_r2_c2: 937740346617309689
+      tmp_r2_c3: 7239818501505012255
+      tmp_r2_c4: 1680590547601242648
+      tmp_r2_c5: 7733872530210051951
+      tmp_r2_c6: 4404575869762128967
+      tmp_r2_c7: -3973092814348631401
+      tmp_r3_c0: -1085657040985262929
+      tmp_r3_c1: 5234400045616788055
+      tmp_r3_c2: -6445198986941988685
+      tmp_r3_c3: -2092988938388185856
+      tmp_r3_c4: 3111019099731759791
+      tmp_r3_c5: 3108004809855875599
+      tmp_r3_c6: 6962060980549112507
+      tmp_r3_c7: -7078959718600891666
+      tmp_r4_c0: -3399055261345588109
+      tmp_r4_c1: -7130424082888574835
+      tmp_r4_c2: -6683945400422232980
+      tmp_r4_c3: -728567251561518271
+      tmp_r4_c4: 8776622902021672472
+      tmp_r4_c5: -5349356579973484232
+      tmp_r4_c6: -7771006368195477681
+      tmp_r4_c7: 8245884082350738389
+      tmp_r5_c0: -4654592139410060677
+      tmp_r5_c1: 4347134283360130994
+      tmp_r5_c2: 5146569076063604608
+      tmp_r5_c3: 4068865942289294436
+      tmp_r5_c4: 5965689723283616588
+      tmp_r5_c5: -9160477782167336117
+      tmp_r5_c6: 7261953499592014409
+      tmp_r5_c7: -3988615581889016250
+      tmp_r6_c0: 3947922827962181540
+      tmp_r6_c1: -5001703299956001359
+      tmp_r6_c2: -3950437972367674577
+      tmp_r6_c3: 335746551374543257
+      tmp_r6_c4: -955386734131682623
+      tmp_r6_c5: -8337845369492530756
+      tmp_r6_c6: 6697444288792863468
+      tmp_r6_c7: -2349683873459608061
+      tmp_r7_c0: -4128669898577231623
+      tmp_r7_c1: -6604756543285232062
+      tmp_r7_c2: 5567044180891922414
+      tmp_r7_c3: -5757589191365588535
+      tmp_r7_c4: -4423615731405238461
+      tmp_r7_c5: 5655448231397438016
+      tmp_r7_c6: 2357864793414368576
+      tmp_r7_c7: 2465021974079038237
+      tmp_r8_c0: -8511596574605056658
+      tmp_r8_c1: -3771864105909300035
+      tmp_r8_c2: 795299718585466603
+      tmp_r8_c3: -5666821429898954884
+      tmp_r8_c4: -6603250128414697125
+      tmp_r8_c5: 6509581310264690521
+      tmp_r8_c6: -7447920798495962854
+      tmp_r8_c7: -3256731613379060241
+      tmp_r9_c0: -9004899705613432157
+      tmp_r9_c1: -7574743095015785386
+      tmp_r9_c2: 8635457833594553187
+      tmp_r9_c3: 2318785994951485768
+      tmp_r9_c4: -511348661906138263
+      tmp_r9_c5: -3735044024415120910
+      tmp_r9_c6: -5272595860470567465
+      tmp_r9_c7: -4046324645782652956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

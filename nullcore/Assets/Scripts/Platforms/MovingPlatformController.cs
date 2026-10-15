@@ -1,4 +1,6 @@
+using System.Collections.Generic;
 using UnityEngine;
+using Nullcore.Player;
 
 namespace Nullcore.Platforms
 {
@@ -9,6 +11,15 @@ namespace Nullcore.Platforms
         [SerializeField] private Transform pointB;
         [SerializeField] private float speed = 2f;
         [SerializeField] private bool active = true;
+
+        [Tooltip("When on, this platform and all its child objects ignore everything except the player " +
+                 "(boxes, NPCs, ground, etc. pass through it instead of being pushed or blocking it).")]
+        [SerializeField] private bool collideOnlyWithPlayer;
+
+        private readonly HashSet<Collider2D> ignored = new HashSet<Collider2D>();
+        private readonly Collider2D[] overlapResults = new Collider2D[128];
+        private Collider2D[] ownColliders;
+        private int ticksSinceCleanup;
 
         private Rigidbody2D rb;
         private Vector2 worldPointA;
@@ -36,10 +47,17 @@ namespace Nullcore.Platforms
             if (pointB != null) worldPointB = pointB.position;
             movingToB = true;
             currentTargetPos = worldPointB;
+
+            ownColliders = GetComponentsInChildren<Collider2D>(true);
         }
 
         private void FixedUpdate()
         {
+            if (collideOnlyWithPlayer)
+            {
+                IgnoreNonPlayerColliders();
+            }
+
             if (!active || pointA == null || pointB == null)
             {
                 frameDelta = Vector2.zero;
@@ -55,6 +73,65 @@ namespace Nullcore.Platforms
             {
                 movingToB = !movingToB;
                 currentTargetPos = movingToB ? worldPointB : worldPointA;
+            }
+        }
+
+        // Before the platform moves, find anything about to be in its way and tell the physics engine
+        // to ignore collisions (and trigger events) between it and every collider of this platform.
+        // Done a little ahead of time so nothing gets nudged on first contact.
+        private void IgnoreNonPlayerColliders()
+        {
+            if (ownColliders == null)
+            {
+                return;
+            }
+
+            bool any = false;
+            Bounds bounds = default;
+            foreach (var own in ownColliders)
+            {
+                if (own == null || !own.enabled)
+                {
+                    continue;
+                }
+                if (!any) { bounds = own.bounds; any = true; }
+                else bounds.Encapsulate(own.bounds);
+            }
+            if (!any)
+            {
+                return;
+            }
+
+            float margin = speed * Time.fixedDeltaTime * 2f + 0.5f;
+            int count = gameObject.scene.GetPhysicsScene2D().OverlapBox(bounds.center, bounds.size + Vector3.one * (margin * 2f), 0f,
+                new ContactFilter2D().NoFilter(), overlapResults);
+
+            for (int i = 0; i < count; i++)
+            {
+                var other = overlapResults[i];
+                if (other == null || ignored.Contains(other) || other.transform.IsChildOf(transform))
+                {
+                    continue;
+                }
+                if (other.GetComponentInParent<PlayerController>() != null)
+                {
+                    continue;
+                }
+
+                foreach (var own in ownColliders)
+                {
+                    if (own != null && own.enabled)
+                    {
+                        Physics2D.IgnoreCollision(own, other, true);
+                    }
+                }
+                ignored.Add(other);
+            }
+
+            if (++ticksSinceCleanup > 250)
+            {
+                ticksSinceCleanup = 0;
+                ignored.RemoveWhere(c => c == null);
             }
         }
 

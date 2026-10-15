@@ -1,0 +1,1267 @@
+fileFormatVersion: 2
+guid: a45a1ef591b04e74d97793f8cf42afc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1387170220787295991
+    second: lighting-2_0
+  - first:
+      213: -5586751594049154223
+    second: lighting-2_1
+  - first:
+      213: -5465325840735881779
+    second: lighting-2_2
+  - first:
+      213: 5627725147599738280
+    second: lighting-2_3
+  - first:
+      213: 2682136029364207243
+    second: lighting-2_4
+  - first:
+      213: 6952422870460901345
+    second: lighting-2_5
+  - first:
+      213: -4147206959073931724
+    second: lighting-2_6
+  - first:
+      213: -7584261362358592733
+    second: lighting-2_7
+  - first:
+      213: -3047827917910551248
+    second: lighting-2_8
+  - first:
+      213: -164160646764305794
+    second: lighting-2_9
+  - first:
+      213: -1317065792278268133
+    second: lighting-2_10
+  - first:
+      213: -5462816213802564766
+    second: lighting-2_11
+  - first:
+      213: 3706501330030584926
+    second: lighting-2_12
+  - first:
+      213: -5278624006422460028
+    second: lighting-2_13
+  - first:
+      213: 1111695813545718387
+    second: lighting-2_14
+  - first:
+      213: -8955347985508276044
+    second: lighting-2_15
+  - first:
+      213: -3623631535502508567
+    second: lighting-2_16
+  - first:
+      213: -3538632575696099881
+    second: lighting-2_17
+  - first:
+      213: 7791199281305994896
+    second: lighting-2_18
+  - first:
+      213: -2360081282764813472
+    second: lighting-2_19
+  - first:
+      213: 6515275817823328425
+    second: lighting-2_20
+  - first:
+      213: 264153667046086544
+    second: lighting-2_21
+  - first:
+      213: -8935731648665205440
+    second: lighting-2_22
+  - first:
+      213: -5523751501109758702
+    second: lighting-2_23
+  - first:
+      213: 6680993298753251276
+    second: lighting-2_24
+  - first:
+      213: 3090095826846488265
+    second: lighting-2_25
+  - first:
+      213: -942972226643639081
+    second: lighting-2_26
+  - first:
+      213: 5034290332895958009
+    second: lighting-2_27
+  - first:
+      213: -4305834920803699155
+    second: lighting-2_28
+  - first:
+      213: 8543201638293188
+    second: lighting-2_29
+  - first:
+      213: 5535850975359815212
+    second: lighting-2_30
+  - first:
+      213: -5693758174960624240
+    second: lighting-2_31
+  - first:
+      213: 7357700028001321725
+    second: lighting-2_32
+  - first:
+      213: -2841386567007779698
+    second: lighting-2_33
+  - first:
+      213: 1875761772140107132
+    second: lighting-2_34
+  - first:
+      213: -6231826774919278040
+    second: lighting-2_35
+  - first:
+      213: -8971810259834413862
+    second: lighting-2_36
+  - first:
+      213: -3010866428079734246
+    second: lighting-2_37
+  - first:
+      213: 3416668429163576154
+    second: lighting-2_38
+  - first:
+      213: -1725091862441744302
+    second: lighting-2_39
+  - first:
+      213: -7191957216600275525
+    second: lighting-2_40
+  - first:
+      213: -768509842565180182
+    second: lighting-2_41
+  - first:
+      213: -6307205857206231447
+    second: lighting-2_42
+  - first:
+      213: -713554302387722246
+    second: lighting-2_43
+  - first:
+      213: 900678926741525662
+    second: lighting-2_44
+  - first:
+      213: -7866434581039701834
+    second: lighting-2_45
+  - first:
+      213: 3677941755747243323
+    second: lighting-2_46
+  - first:
+      213: -1315421187079620217
+    second: HangingTubeLamp_Off
+  - first:
+      213: -8523290751990556066
+    second: HangingTubeLamp_On
+  - first:
+      213: 2806441375443491744
+    second: HangingTubeLamp_Broken
+  - first:
+      213: 1301761959169868394
+    second: HangingCageLamp_Off
+  - first:
+      213: -6583185622922899028
+    second: HangingCageLamp_On
+  - first:
+      213: 7384353276271732368
+    second: HangingCageLamp_Broken
+  - first:
+      213: 1657069751688571511
+    second: TwinSpotRailLamp_Off
+  - first:
+      213: 6753055316155120153
+    second: TwinSpotRailLamp_On
+  - first:
+      213: -8117444753741148262
+    second: TwinSpotRailLamp_Broken
+  - first:
+      213: 4977791126939624193
+    second: CeilingPanelLamp_Off
+  - first:
+      213: -4017350865451495026
+    second: CeilingPanelLamp_On
+  - first:
+      213: 6267923091901553077
+    second: CeilingPanelLamp_Broken
+  - first:
+      213: 8848100420477388660
+    second: OctagonWallLamp_Off
+  - first:
+      213: 8688938869166941063
+    second: OctagonWallLamp_On
+  - first:
+      213: 6699368192360484859
+    second: OctagonWallLamp_Broken
+  - first:
+      213: 3112739884064851829
+    second: TwinWallSpots_Off
+  - first:
+      213: -2012492932090364522
+    second: TwinWallSpots_On
+  - first:
+      213: -1658080068475271595
+    second: TwinWallSpots_Broken
+  - first:
+      213: 8594445730111369217
+    second: TripleWallLamp_Off
+  - first:
+      213: -8779073711766131441
+    second: TripleWallLamp_On
+  - first:
+      213: -7413147533997671287
+    second: TripleWallLamp_Broken
+  - first:
+      213: -2485276710789372746
+    second: WallWashLight_Off
+  - first:
+      213: -8027966019383320594
+    second: WallWashLight_On
+  - first:
+      213: -7999043935277146241
+    second: WallWashLight_Broken
+  - first:
+      213: -6294510010718901847
+    second: SquareWallLamp_Off
+  - first:
+      213: 355183161117400921
+    second: SquareWallLamp_On
+  - first:
+      213: -3763981399065946091
+    second: SquareWallLamp_Broken
+  - first:
+      213: -5706290700628154084
+    second: RoundPortLamp_Off
+  - first:
+      213: -5452064417665151940
+    second: RoundPortLamp_On
+  - first:
+      213: 4020136055287825680
+    second: RoundPortLamp_Broken
+  - first:
+      213: -6538671050528230008
+    second: BulkheadLamp_Off
+  - first:
+      213: 3246666768443309437
+    second: BulkheadLamp_On
+  - first:
+      213: -6071470245141451079
+    second: BulkheadLamp_Broken
+  - first:
+      213: 3520746574190642210
+    second: SegmentedStripLamp_Off
+  - first:
+      213: 880994873105715662
+    second: SegmentedStripLamp_On
+  - first:
+      213: -5626879240512420892
+    second: SegmentedStripLamp_Broken
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HangingTubeLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789b816566faebde0800000000000000
+      internalID: -1315421187079620217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingTubeLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a1b3a283037b980800000000000000
+      internalID: -8523290751990556066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingTubeLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab9442df8b72f620800000000000000
+      internalID: 2806441375443491744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingCageLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62cf66da99c01210800000000000000
+      internalID: 1301761959169868394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingCageLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1d83f1e83d3a4a0800000000000000
+      internalID: -6583185622922899028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingCageLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0962b284e2e7a7660800000000000000
+      internalID: 7384353276271732368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinSpotRailLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a217dd8281ff610800000000000000
+      internalID: 1657069751688571511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinSpotRailLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a3df3e70ca7bd50800000000000000
+      internalID: 6753055316155120153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinSpotRailLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f8669210b095f80800000000000000
+      internalID: -8117444753741148262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingPanelLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103e35f08aaa41540800000000000000
+      internalID: 4977791126939624193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingPanelLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81d7a63ca08f38c0800000000000000
+      internalID: -4017350865451495026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CeilingPanelLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9924cd7d22cf650800000000000000
+      internalID: 6267923091901553077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OctagonWallLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4770a830474caca70800000000000000
+      internalID: 8848100420477388660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OctagonWallLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783a7c39ddf459870800000000000000
+      internalID: 8688938869166941063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OctagonWallLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff823d40efe8fc50800000000000000
+      internalID: 6699368192360484859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinWallSpots_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57740ebbe6ca23b20800000000000000
+      internalID: 3112739884064851829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinWallSpots_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69df4c547503214e0800000000000000
+      internalID: -2012492932090364522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TwinWallSpots_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556406d66f05df8e0800000000000000
+      internalID: -1658080068475271595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleWallLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10039a03bda954770800000000000000
+      internalID: 8594445730111369217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleWallLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0da53109f67a2680800000000000000
+      internalID: -8779073711766131441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TripleWallLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c718828953f1990800000000000000
+      internalID: -7413147533997671287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallWashLight_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b429d4cff5828dd0800000000000000
+      internalID: -2485276710789372746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallWashLight_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef10c9707fe69090800000000000000
+      internalID: -8027966019383320594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallWashLight_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f101febefadf090800000000000000
+      internalID: -7999043935277146241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareWallLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9a5f7be7865a8a0800000000000000
+      internalID: -6294510010718901847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareWallLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f5a94043ddde400800000000000000
+      internalID: 355183161117400921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SquareWallLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5181f772cd6a3cbc0800000000000000
+      internalID: -3763981399065946091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundPortLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19a1fb47de2fc0b0800000000000000
+      internalID: -5706290700628154084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundPortLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c85846c406654b0800000000000000
+      internalID: -5452064417665151940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundPortLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015cb2451746ac730800000000000000
+      internalID: 4020136055287825680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885722aa259f145a0800000000000000
+      internalID: -6538671050528230008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7df02d693a7e0d20800000000000000
+      internalID: 3246666768443309437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be6df5eafdcdbba0800000000000000
+      internalID: -6071470245141451079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SegmentedStripLamp_Off
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2248ec20b543cd030800000000000000
+      internalID: 3520746574190642210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SegmentedStripLamp_On
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1186c5b2ce93c00800000000000000
+      internalID: 880994873105715662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SegmentedStripLamp_Broken
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3cc3ba42f49e1b0800000000000000
+      internalID: -5626879240512420892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BulkheadLamp_Broken: -6071470245141451079
+      BulkheadLamp_Off: -6538671050528230008
+      BulkheadLamp_On: 3246666768443309437
+      CeilingPanelLamp_Broken: 6267923091901553077
+      CeilingPanelLamp_Off: 4977791126939624193
+      CeilingPanelLamp_On: -4017350865451495026
+      HangingCageLamp_Broken: 7384353276271732368
+      HangingCageLamp_Off: 1301761959169868394
+      HangingCageLamp_On: -6583185622922899028
+      HangingTubeLamp_Broken: 2806441375443491744
+      HangingTubeLamp_Off: -1315421187079620217
+      HangingTubeLamp_On: -8523290751990556066
+      OctagonWallLamp_Broken: 6699368192360484859
+      OctagonWallLamp_Off: 8848100420477388660
+      OctagonWallLamp_On: 8688938869166941063
+      RoundPortLamp_Broken: 4020136055287825680
+      RoundPortLamp_Off: -5706290700628154084
+      RoundPortLamp_On: -5452064417665151940
+      SegmentedStripLamp_Broken: -5626879240512420892
+      SegmentedStripLamp_Off: 3520746574190642210
+      SegmentedStripLamp_On: 880994873105715662
+      SquareWallLamp_Broken: -3763981399065946091
+      SquareWallLamp_Off: -6294510010718901847
+      SquareWallLamp_On: 355183161117400921
+      TripleWallLamp_Broken: -7413147533997671287
+      TripleWallLamp_Off: 8594445730111369217
+      TripleWallLamp_On: -8779073711766131441
+      TwinSpotRailLamp_Broken: -8117444753741148262
+      TwinSpotRailLamp_Off: 1657069751688571511
+      TwinSpotRailLamp_On: 6753055316155120153
+      TwinWallSpots_Broken: -1658080068475271595
+      TwinWallSpots_Off: 3112739884064851829
+      TwinWallSpots_On: -2012492932090364522
+      WallWashLight_Broken: -7999043935277146241
+      WallWashLight_Off: -2485276710789372746
+      WallWashLight_On: -8027966019383320594
+      lighting-2_0: -1387170220787295991
+      lighting-2_1: -5586751594049154223
+      lighting-2_10: -1317065792278268133
+      lighting-2_11: -5462816213802564766
+      lighting-2_12: 3706501330030584926
+      lighting-2_13: -5278624006422460028
+      lighting-2_14: 1111695813545718387
+      lighting-2_15: -8955347985508276044
+      lighting-2_16: -3623631535502508567
+      lighting-2_17: -3538632575696099881
+      lighting-2_18: 7791199281305994896
+      lighting-2_19: -2360081282764813472
+      lighting-2_2: -5465325840735881779
+      lighting-2_20: 6515275817823328425
+      lighting-2_21: 264153667046086544
+      lighting-2_22: -8935731648665205440
+      lighting-2_23: -5523751501109758702
+      lighting-2_24: 6680993298753251276
+      lighting-2_25: 3090095826846488265
+      lighting-2_26: -942972226643639081
+      lighting-2_27: 5034290332895958009
+      lighting-2_28: -4305834920803699155
+      lighting-2_29: 8543201638293188
+      lighting-2_3: 5627725147599738280
+      lighting-2_30: 5535850975359815212
+      lighting-2_31: -5693758174960624240
+      lighting-2_32: 7357700028001321725
+      lighting-2_33: -2841386567007779698
+      lighting-2_34: 1875761772140107132
+      lighting-2_35: -6231826774919278040
+      lighting-2_36: -8971810259834413862
+      lighting-2_37: -3010866428079734246
+      lighting-2_38: 3416668429163576154
+      lighting-2_39: -1725091862441744302
+      lighting-2_4: 2682136029364207243
+      lighting-2_40: -7191957216600275525
+      lighting-2_41: -768509842565180182
+      lighting-2_42: -6307205857206231447
+      lighting-2_43: -713554302387722246
+      lighting-2_44: 900678926741525662
+      lighting-2_45: -7866434581039701834
+      lighting-2_46: 3677941755747243323
+      lighting-2_5: 6952422870460901345
+      lighting-2_6: -4147206959073931724
+      lighting-2_7: -7584261362358592733
+      lighting-2_8: -3047827917910551248
+      lighting-2_9: -164160646764305794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
