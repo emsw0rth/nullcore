@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Rendering.Universal;
 
 namespace Nullcore.Decorations
 {
@@ -8,6 +9,8 @@ namespace Nullcore.Decorations
         [SerializeField] private bool on = true;
         [SerializeField] private float frameDuration = 0.08f;
         [SerializeField] private Sprite[] animationFrames;
+        [Tooltip("Optional lights that are only lit while this decoration is on.")]
+        [SerializeField] private Light2D[] lights;
 
         private SpriteRenderer spriteRenderer;
         private int frameIndex;
@@ -23,6 +26,7 @@ namespace Nullcore.Decorations
                 {
                     ShowIdleFrame();
                 }
+                UpdateLights();
             }
         }
 
@@ -32,6 +36,28 @@ namespace Nullcore.Decorations
             if (!on)
             {
                 ShowIdleFrame();
+            }
+            UpdateLights();
+        }
+
+        private void OnValidate()
+        {
+            UpdateLights();
+        }
+
+        private void UpdateLights()
+        {
+            if (lights == null)
+            {
+                return;
+            }
+
+            foreach (var light in lights)
+            {
+                if (light != null)
+                {
+                    light.enabled = on;
+                }
             }
         }
 
@@ -62,6 +88,11 @@ namespace Nullcore.Decorations
         {
             frameIndex = 0;
             frameTimer = 0f;
+            if (spriteRenderer == null)
+            {
+                // Awake hasn't run yet when this is toggled while the object is still inactive.
+                spriteRenderer = GetComponent<SpriteRenderer>();
+            }
             if (animationFrames != null && animationFrames.Length > 0)
             {
                 spriteRenderer.sprite = animationFrames[0];

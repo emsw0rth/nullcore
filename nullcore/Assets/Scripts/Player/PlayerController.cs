@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using Nullcore.Core;
 using Nullcore.InputSystem;
 using Nullcore.Platforms;
 
@@ -42,6 +43,9 @@ namespace Nullcore.Player
         private float jumpAnimTimeRemaining;
         private Vector3 spawnPosition;
         private bool isMoving;
+        private float lastDeathTime = -999f;
+
+        private const float DeathCooldown = 0.25f;
 
         public bool IsRunning { get; private set; }
         public bool HasDoubleJumped => hasDoubleJumped;
@@ -61,9 +65,17 @@ namespace Nullcore.Player
 
         public void Respawn()
         {
-            if (audioSource != null && deathSound != null)
+            // Hazards can report the same death more than once (e.g. enter + stay in one frame, or
+            // two hazards at once), so only the first call in a short window counts as a death.
+            if (Time.time - lastDeathTime > DeathCooldown)
             {
-                audioSource.PlayOneShot(deathSound);
+                lastDeathTime = Time.time;
+                GameSession.LoseLife();
+
+                if (audioSource != null && deathSound != null)
+                {
+                    audioSource.PlayOneShot(deathSound);
+                }
             }
 
             transform.position = spawnPosition;

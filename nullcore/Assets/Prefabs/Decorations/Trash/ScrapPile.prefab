@@ -82,7 +82,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 228213180088432595, guid: 3877893444f4b6f47b16136afcb4cb6f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -171,7 +171,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nullcore.Decorations.Decoration
   collidable: 0
+  isStatic: 0
   friction: 0.5
+  shading: 1
 --- !u!50 &3680466051827860595
 Rigidbody2D:
   serializedVersion: 5

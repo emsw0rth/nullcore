@@ -15,6 +15,9 @@ namespace Nullcore.Decorations
                  "collider material can't provide this.)")]
         [SerializeField, Min(0f)] private float friction = 0.5f;
 
+        [Tooltip("Darkens the sprite(s): 1 = full brightness, 0 = black. Same as the background shading slider.")]
+        [SerializeField, Range(0f, 1f)] private float shading = 1f;
+
         private readonly ContactPoint2D[] contacts = new ContactPoint2D[16];
         private Rigidbody2D body;
 
@@ -44,14 +47,39 @@ namespace Nullcore.Decorations
             set => friction = Mathf.Max(0f, value);
         }
 
+        public float Shading
+        {
+            get => shading;
+            set
+            {
+                shading = Mathf.Clamp01(value);
+                ApplyShading();
+            }
+        }
+
         private void Awake()
         {
             Apply();
+            ApplyShading();
         }
 
         private void OnValidate()
         {
             Apply();
+            ApplyShading();
+        }
+
+        // Tints every sprite on the decoration (including child sprites) towards black, keeping alpha.
+        private void ApplyShading()
+        {
+            foreach (var sr in GetComponentsInChildren<SpriteRenderer>(true))
+            {
+                var color = sr.color;
+                if (!Mathf.Approximately(color.r, shading) || !Mathf.Approximately(color.g, shading) || !Mathf.Approximately(color.b, shading))
+                {
+                    sr.color = new Color(shading, shading, shading, color.a);
+                }
+            }
         }
 
         // Non-collidable decorations are pure background: no collider, no physics body, default layer.

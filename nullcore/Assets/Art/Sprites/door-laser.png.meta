@@ -1,0 +1,1583 @@
+fileFormatVersion: 2
+guid: cd7e668ce92ac604e97cc6a9ff3b33a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7935756747937688078
+    second: door-laser_0
+  - first:
+      213: 28856540413718502
+    second: door-laser_1
+  - first:
+      213: -3446974764188130821
+    second: door-laser_2
+  - first:
+      213: 3427562844826340536
+    second: door-laser_3
+  - first:
+      213: -807736223519307318
+    second: door-laser_4
+  - first:
+      213: -4463684219967350983
+    second: door-laser_5
+  - first:
+      213: 6839926388297991200
+    second: door-laser_6
+  - first:
+      213: -1955016244466826298
+    second: door-laser_7
+  - first:
+      213: -8521128056852091912
+    second: door-laser_8
+  - first:
+      213: 988952033996085720
+    second: door-laser_9
+  - first:
+      213: 1373465033466660326
+    second: door-laser_10
+  - first:
+      213: 3503972969734409555
+    second: door-laser_11
+  - first:
+      213: 3362644346673368627
+    second: door-laser_12
+  - first:
+      213: 7592311412647650126
+    second: door-laser_13
+  - first:
+      213: -8252944721046679004
+    second: door-laser_14
+  - first:
+      213: 2788729451370258700
+    second: door-laser_15
+  - first:
+      213: 4050248186947904290
+    second: door-laser_16
+  - first:
+      213: -1981807864379707861
+    second: door-laser_17
+  - first:
+      213: 8332174585498414795
+    second: door-laser_18
+  - first:
+      213: 3725195355066560404
+    second: door-laser_19
+  - first:
+      213: -6597062108984415781
+    second: door-laser_20
+  - first:
+      213: 8540924819554669279
+    second: door-laser_21
+  - first:
+      213: -4737351592066661160
+    second: door-laser_22
+  - first:
+      213: 3558506724276793473
+    second: door-laser_23
+  - first:
+      213: 2593060615785365711
+    second: door-laser_24
+  - first:
+      213: 4352066070942152526
+    second: door-laser_25
+  - first:
+      213: 1848330952364817051
+    second: door-laser_26
+  - first:
+      213: 3731917801840935247
+    second: door-laser_27
+  - first:
+      213: -6248694297196071490
+    second: door-laser_28
+  - first:
+      213: -4919901950080939843
+    second: door-laser_29
+  - first:
+      213: -7384116606436369973
+    second: door-laser_30
+  - first:
+      213: -5797065115911493784
+    second: door-laser_31
+  - first:
+      213: -2437360233082344023
+    second: door-laser_32
+  - first:
+      213: 1809325009520024743
+    second: door-laser_33
+  - first:
+      213: -1692319464316345507
+    second: door-laser_34
+  - first:
+      213: -3712237369260946945
+    second: door-laser_35
+  - first:
+      213: -8864510205143218703
+    second: door-laser_36
+  - first:
+      213: 61920187211646246
+    second: door-laser_37
+  - first:
+      213: -5247305910382171767
+    second: door-laser_38
+  - first:
+      213: -4952787275968678162
+    second: door-laser_39
+  - first:
+      213: -2679641643027341172
+    second: door-laser_40
+  - first:
+      213: -7332207885704769483
+    second: door-laser_41
+  - first:
+      213: -5258329724569018831
+    second: door-laser_42
+  - first:
+      213: -804585973758521397
+    second: door-laser_43
+  - first:
+      213: -9211068585499804799
+    second: door-laser_44
+  - first:
+      213: 6462029025040797835
+    second: door-laser_45
+  - first:
+      213: 8504876172785186887
+    second: door-laser_46
+  - first:
+      213: 2673653747543063986
+    second: door-laser_47
+  - first:
+      213: 1307352092214614166
+    second: DoorLaser_00
+  - first:
+      213: -3007744270872337160
+    second: DoorLaser_01
+  - first:
+      213: -7702577086536353962
+    second: DoorLaser_02
+  - first:
+      213: -9034675562213986827
+    second: DoorLaser_03
+  - first:
+      213: -1375294116258235835
+    second: DoorLaser_04
+  - first:
+      213: -5935673802558113906
+    second: DoorLaser_05
+  - first:
+      213: 1053462392705272760
+    second: DoorLaser_06
+  - first:
+      213: -8407750406672564888
+    second: DoorLaser_07
+  - first:
+      213: -3505844931264611985
+    second: DoorLaser_08
+  - first:
+      213: 7452295066465497306
+    second: DoorLaser_09
+  - first:
+      213: 7478387149014907632
+    second: DoorLaser_10
+  - first:
+      213: -3492320026737690244
+    second: DoorLaser_11
+  - first:
+      213: -2322609398349963450
+    second: DoorLaser_12
+  - first:
+      213: -6797335801007315063
+    second: DoorLaser_13
+  - first:
+      213: -3104271283102246534
+    second: DoorLaser_14
+  - first:
+      213: 4233018065875062164
+    second: DoorLaser_15
+  - first:
+      213: 7886489542094386155
+    second: DoorLaser_16
+  - first:
+      213: 8987534221008960317
+    second: DoorLaser_17
+  - first:
+      213: 3197158358761029666
+    second: DoorLaser_18
+  - first:
+      213: 1741195836243567920
+    second: DoorLaser_19
+  - first:
+      213: 857696065420536743
+    second: DoorLaser_20
+  - first:
+      213: 4163874599974513724
+    second: DoorLaser_21
+  - first:
+      213: -2643468388557026638
+    second: DoorLaser_22
+  - first:
+      213: 2010910378327488538
+    second: DoorLaser_23
+  - first:
+      213: -4975082183676380773
+    second: DoorLaser_24
+  - first:
+      213: 2829582498466012939
+    second: DoorLaser_25
+  - first:
+      213: -8604095569008051398
+    second: DoorLaser_26
+  - first:
+      213: -9189582425253700616
+    second: DoorLaser_27
+  - first:
+      213: 4199443187187263972
+    second: DoorLaser_28
+  - first:
+      213: -442954166257421006
+    second: DoorLaser_29
+  - first:
+      213: -4693258415689641345
+    second: DoorLaser_30
+  - first:
+      213: 4057682458659701946
+    second: DoorLaser_31
+  - first:
+      213: 611047584381527214
+    second: DoorLaser_32
+  - first:
+      213: -3952535722153524300
+    second: DoorLaser_33
+  - first:
+      213: -3653033522048647133
+    second: DoorLaser_34
+  - first:
+      213: -3279564258021756886
+    second: DoorLaser_35
+  - first:
+      213: -5726888400088818755
+    second: DoorLaser_36
+  - first:
+      213: -5026004568017486247
+    second: DoorLaser_37
+  - first:
+      213: -3538690930468973733
+    second: DoorLaser_38
+  - first:
+      213: -4328375339449308967
+    second: DoorLaser_39
+  - first:
+      213: -8265239592298587701
+    second: DoorLaser_40
+  - first:
+      213: 1634354273709453495
+    second: DoorLaser_41
+  - first:
+      213: -7855687894357900501
+    second: DoorLaser_42
+  - first:
+      213: -3189779268372374435
+    second: DoorLaser_43
+  - first:
+      213: -5508675981985226360
+    second: DoorLaser_44
+  - first:
+      213: -336297315052011367
+    second: DoorLaser_45
+  - first:
+      213: -8317061097935512966
+    second: DoorLaser_46
+  - first:
+      213: 5558406541587932039
+    second: DoorLaser_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoorLaser_00
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1304
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698d0dc1dc5a42210800000000000000
+      internalID: 1307352092214614166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_01
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1304
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4207775885246d0800000000000000
+      internalID: -3007744270872337160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_02
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1304
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657ffe523f2fa1590800000000000000
+      internalID: -7702577086536353962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_03
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1304
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd2555a1726e9280800000000000000
+      internalID: -9034675562213986827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_04
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1304
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a3eb2b949f9ece0800000000000000
+      internalID: -1375294116258235835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_05
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1304
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e877ee7002040ada0800000000000000
+      internalID: -5935673802558113906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_06
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1304
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb4e65f676ae9e00800000000000000
+      internalID: 1053462392705272760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_07
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1304
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86db2222d8ba15b80800000000000000
+      internalID: -8407750406672564888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_08
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1048
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f697e5a1c9cb85fc0800000000000000
+      internalID: -3505844931264611985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_09
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1048
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0721601eedb6760800000000000000
+      internalID: 7452295066465497306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1048
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa31e56d7198c760800000000000000
+      internalID: 7478387149014907632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_11
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1048
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7931545079c88fc0800000000000000
+      internalID: -3492320026737690244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_12
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1048
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fdd53de0f64cfd0800000000000000
+      internalID: -2322609398349963450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_13
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1048
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987e9e15a130ba1a0800000000000000
+      internalID: -6797335801007315063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_14
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1048
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a799e3417b96be4d0800000000000000
+      internalID: -3104271283102246534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_15
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1048
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d4b40e083beba30800000000000000
+      internalID: 4233018065875062164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 792
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be37e514470727d60800000000000000
+      internalID: 7886489542094386155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_17
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 792
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bf7e981c22abc70800000000000000
+      internalID: 8987534221008960317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 792
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2204f9886969e5c20800000000000000
+      internalID: 3197158358761029666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_19
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 792
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035efa74368f92810800000000000000
+      internalID: 1741195836243567920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_20
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 792
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab24a8f60627eb00800000000000000
+      internalID: 857696065420536743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_21
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 792
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ca0c433ed09c930800000000000000
+      internalID: 4163874599974513724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_22
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 792
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba851d9183805bd0800000000000000
+      internalID: -2643468388557026638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_23
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 792
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a183b57b55038eb10800000000000000
+      internalID: 2010910378327488538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 536
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b993891fc15f4fab0800000000000000
+      internalID: -4975082183676380773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_25
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 536
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f9ab36a42b44720800000000000000
+      internalID: 2829582498466012939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 536
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b33cb9aac189880800000000000000
+      internalID: -8604095569008051398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_27
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 536
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb9494097b087080800000000000000
+      internalID: -9189582425253700616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_28
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 536
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e92bb2445b674a30800000000000000
+      internalID: 4199443187187263972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_29
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 536
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235727c588f4ad9f0800000000000000
+      internalID: -442954166257421006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_30
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 536
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72d4bd36523edeb0800000000000000
+      internalID: -4693258415689641345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_31
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 536
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4ceb792b8cf4830800000000000000
+      internalID: 4057682458659701946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 280
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4ebef5a80ea7800800000000000000
+      internalID: 611047584381527214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 280
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b34ffeb3b5c529c0800000000000000
+      internalID: -3952535722153524300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_34
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 280
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32042b5cd51dd4dc0800000000000000
+      internalID: -3653033522048647133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_35
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 280
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20bb86eea5ac72d0800000000000000
+      internalID: -3279564258021756886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_36
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 280
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb966ca7510680b0800000000000000
+      internalID: -5726888400088818755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_37
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 280
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eb3db697b004ab0800000000000000
+      internalID: -5026004568017486247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_38
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 280
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b531087f85b04eec0800000000000000
+      internalID: -3538690930468973733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_39
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 280
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8209dbf858ee3c0800000000000000
+      internalID: -4328375339449308967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc95c85c168fb4d80800000000000000
+      internalID: -8265239592298587701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_41
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 24
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0f7918d846ea610800000000000000
+      internalID: 1634354273709453495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_42
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 24
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2306763b7dfaf290800000000000000
+      internalID: -7855687894357900501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_43
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 24
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c52c4d7a0abb3d0800000000000000
+      internalID: -3189779268372374435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_44
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 24
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8816b0f61604d83b0800000000000000
+      internalID: -5508675981985226360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_45
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 24
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990486daf5b355bf0800000000000000
+      internalID: -336297315052011367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_46
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 24
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a55524ffcd39c80800000000000000
+      internalID: -8317061097935512966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorLaser_47
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 24
+        width: 56
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7836e84cc4d632d40800000000000000
+      internalID: 5558406541587932039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DoorLaser_00: 1307352092214614166
+      DoorLaser_01: -3007744270872337160
+      DoorLaser_02: -7702577086536353962
+      DoorLaser_03: -9034675562213986827
+      DoorLaser_04: -1375294116258235835
+      DoorLaser_05: -5935673802558113906
+      DoorLaser_06: 1053462392705272760
+      DoorLaser_07: -8407750406672564888
+      DoorLaser_08: -3505844931264611985
+      DoorLaser_09: 7452295066465497306
+      DoorLaser_10: 7478387149014907632
+      DoorLaser_11: -3492320026737690244
+      DoorLaser_12: -2322609398349963450
+      DoorLaser_13: -6797335801007315063
+      DoorLaser_14: -3104271283102246534
+      DoorLaser_15: 4233018065875062164
+      DoorLaser_16: 7886489542094386155
+      DoorLaser_17: 8987534221008960317
+      DoorLaser_18: 3197158358761029666
+      DoorLaser_19: 1741195836243567920
+      DoorLaser_20: 857696065420536743
+      DoorLaser_21: 4163874599974513724
+      DoorLaser_22: -2643468388557026638
+      DoorLaser_23: 2010910378327488538
+      DoorLaser_24: -4975082183676380773
+      DoorLaser_25: 2829582498466012939
+      DoorLaser_26: -8604095569008051398
+      DoorLaser_27: -9189582425253700616
+      DoorLaser_28: 4199443187187263972
+      DoorLaser_29: -442954166257421006
+      DoorLaser_30: -4693258415689641345
+      DoorLaser_31: 4057682458659701946
+      DoorLaser_32: 611047584381527214
+      DoorLaser_33: -3952535722153524300
+      DoorLaser_34: -3653033522048647133
+      DoorLaser_35: -3279564258021756886
+      DoorLaser_36: -5726888400088818755
+      DoorLaser_37: -5026004568017486247
+      DoorLaser_38: -3538690930468973733
+      DoorLaser_39: -4328375339449308967
+      DoorLaser_40: -8265239592298587701
+      DoorLaser_41: 1634354273709453495
+      DoorLaser_42: -7855687894357900501
+      DoorLaser_43: -3189779268372374435
+      DoorLaser_44: -5508675981985226360
+      DoorLaser_45: -336297315052011367
+      DoorLaser_46: -8317061097935512966
+      DoorLaser_47: 5558406541587932039
+      door-laser_0: 7935756747937688078
+      door-laser_1: 28856540413718502
+      door-laser_10: 1373465033466660326
+      door-laser_11: 3503972969734409555
+      door-laser_12: 3362644346673368627
+      door-laser_13: 7592311412647650126
+      door-laser_14: -8252944721046679004
+      door-laser_15: 2788729451370258700
+      door-laser_16: 4050248186947904290
+      door-laser_17: -1981807864379707861
+      door-laser_18: 8332174585498414795
+      door-laser_19: 3725195355066560404
+      door-laser_2: -3446974764188130821
+      door-laser_20: -6597062108984415781
+      door-laser_21: 8540924819554669279
+      door-laser_22: -4737351592066661160
+      door-laser_23: 3558506724276793473
+      door-laser_24: 2593060615785365711
+      door-laser_25: 4352066070942152526
+      door-laser_26: 1848330952364817051
+      door-laser_27: 3731917801840935247
+      door-laser_28: -6248694297196071490
+      door-laser_29: -4919901950080939843
+      door-laser_3: 3427562844826340536
+      door-laser_30: -7384116606436369973
+      door-laser_31: -5797065115911493784
+      door-laser_32: -2437360233082344023
+      door-laser_33: 1809325009520024743
+      door-laser_34: -1692319464316345507
+      door-laser_35: -3712237369260946945
+      door-laser_36: -8864510205143218703
+      door-laser_37: 61920187211646246
+      door-laser_38: -5247305910382171767
+      door-laser_39: -4952787275968678162
+      door-laser_4: -807736223519307318
+      door-laser_40: -2679641643027341172
+      door-laser_41: -7332207885704769483
+      door-laser_42: -5258329724569018831
+      door-laser_43: -804585973758521397
+      door-laser_44: -9211068585499804799
+      door-laser_45: 6462029025040797835
+      door-laser_46: 8504876172785186887
+      door-laser_47: 2673653747543063986
+      door-laser_5: -4463684219967350983
+      door-laser_6: 6839926388297991200
+      door-laser_7: -1955016244466826298
+      door-laser_8: -8521128056852091912
+      door-laser_9: 988952033996085720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

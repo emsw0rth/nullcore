@@ -3,14 +3,12 @@ using UnityEngine;
 namespace Nullcore.Interactables
 {
     [RequireComponent(typeof(Collider2D))]
-    [RequireComponent(typeof(SpriteRenderer))]
     public class DoorController : MonoBehaviour
     {
-        [SerializeField] private Sprite closedSprite;
-        [SerializeField] private Sprite openSprite;
+        [Tooltip("The laser barrier. Shown while the door is closed, hidden while it is open.")]
+        [SerializeField] private GameObject laserObject;
         [SerializeField] private bool on = false;
 
-        private SpriteRenderer spriteRenderer;
         private Collider2D col;
 
         public bool On
@@ -25,17 +23,12 @@ namespace Nullcore.Interactables
 
         private void Awake()
         {
-            spriteRenderer = GetComponent<SpriteRenderer>();
             col = GetComponent<Collider2D>();
             UpdateVisual();
         }
 
         private void OnValidate()
         {
-            if (spriteRenderer == null)
-            {
-                spriteRenderer = GetComponent<SpriteRenderer>();
-            }
             if (col == null)
             {
                 col = GetComponent<Collider2D>();
@@ -50,9 +43,9 @@ namespace Nullcore.Interactables
 
         private void UpdateVisual()
         {
-            if (spriteRenderer != null)
+            if (laserObject != null)
             {
-                spriteRenderer.sprite = on ? openSprite : closedSprite;
+                laserObject.SetActive(!on);
             }
             if (col != null)
             {

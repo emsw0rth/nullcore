@@ -47,6 +47,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nullcore.Backgrounds.BackgroundController
   shading: 1
+  lightable: 1
 --- !u!1971053207 &5884865322765951099
 SpriteShapeRenderer:
   serializedVersion: 2

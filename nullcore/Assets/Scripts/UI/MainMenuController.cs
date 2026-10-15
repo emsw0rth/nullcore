@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Nullcore.Core;
 
 namespace Nullcore.UI
 {
@@ -11,6 +12,7 @@ namespace Nullcore.UI
 
         public void OnStartClicked()
         {
+            GameSession.ResetLives();
             SceneManager.LoadScene(firstLevelSceneName);
         }
 
