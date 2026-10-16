@@ -12,7 +12,8 @@ namespace Nullcore.UI
 
         public void OnStartClicked()
         {
-            GameSession.ResetLives();
+            GameSession.ResetExtraLives();
+            GameSession.ResetLifePoints();
             SceneManager.LoadScene(firstLevelSceneName);
         }
 

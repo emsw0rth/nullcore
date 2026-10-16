@@ -130,7 +130,13 @@ namespace Nullcore.Robots
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            other.GetComponent<PlayerController>()?.Respawn();
+            other.GetComponent<PlayerController>()?.TakeDamage();
+        }
+
+        // Keeps hurting a player who stays in contact once their invulnerability has run out.
+        private void OnTriggerStay2D(Collider2D other)
+        {
+            other.GetComponent<PlayerController>()?.TakeDamage();
         }
 
         private void OnDrawGizmosSelected()

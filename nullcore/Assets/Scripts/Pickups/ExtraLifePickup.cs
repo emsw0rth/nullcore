@@ -17,7 +17,7 @@ namespace Nullcore.Pickups
             }
 
             collected = true;
-            GameSession.GainLife();
+            GameSession.GainExtraLife();
             Destroy(gameObject);
         }
     }

@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 2814908136735030297}
   - component: {fileID: 901396725695545462}
   - component: {fileID: 8751086685238137008}
+  - component: {fileID: 6786658095809182155}
+  - component: {fileID: 6480520290684568314}
   m_Layer: 8
   m_Name: RetractableSpikeTrap
   m_TagString: Untagged
@@ -106,6 +108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8691156fcb98431448557f6b4be6041c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nullcore.Hazards.RetractableSpikeTrap
+  active: 1
   idleTime: 2
   armedTime: 2
   frameDuration: 0.08
@@ -114,6 +117,16 @@ MonoBehaviour:
   - {fileID: -8475113160563856101, guid: 093f074f2b313b443bedfc116ffa7231, type: 3}
   - {fileID: -235781058010494810, guid: 093f074f2b313b443bedfc116ffa7231, type: 3}
   - {fileID: -2599175869119103343, guid: 093f074f2b313b443bedfc116ffa7231, type: 3}
+  spikeBody: {fileID: 6786658095809182155}
+  killZone: {fileID: 6480520290684568314}
+  retractedTopY: -0.227
+  popOutTipY:
+  - -0.023
+  - 0.141
+  - 0.367
+  spikeWidth: 1
+  killZoneWidth: 0.9
+  overlapIntoFloor: 0.05
 --- !u!60 &8751086685238137008
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -165,3 +178,95 @@ PolygonCollider2D:
       - {x: 0.5, y: -0.2265625}
       - {x: -0.5, y: -0.2265625}
   m_UseDelaunayMesh: 1
+--- !u!61 &6786658095809182155
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7896993073028051154}
+  m_Enabled: 0
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!61 &6480520290684568314
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7896993073028051154}
+  m_Enabled: 0
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0

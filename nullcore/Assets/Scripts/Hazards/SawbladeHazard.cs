@@ -15,7 +15,13 @@ namespace Nullcore.Hazards
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            other.GetComponent<PlayerController>()?.Respawn();
+            other.GetComponent<PlayerController>()?.TakeDamage();
+        }
+
+        // Keeps hurting a player who stays in the blade once their invulnerability has run out.
+        private void OnTriggerStay2D(Collider2D other)
+        {
+            other.GetComponent<PlayerController>()?.TakeDamage();
         }
     }
 }

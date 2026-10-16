@@ -22,8 +22,23 @@ namespace Nullcore.Hazards
         [SerializeField] private Sprite retractedSprite;
         [SerializeField] private Sprite[] popOutFrames;
 
+        [Header("Extended spikes")]
+        [Tooltip("Solid body that grows with the spikes, so anything standing on the trap is pushed up " +
+                 "with them instead of sinking into the floor.")]
+        [SerializeField] private BoxCollider2D spikeBody;
+        [Tooltip("Kills the player while the spikes are out.")]
+        [SerializeField] private BoxCollider2D killZone;
+        [Tooltip("Local Y of the top of the flat, retracted trap (the solid floor the trap always keeps).")]
+        [SerializeField] private float retractedTopY = -0.227f;
+        [Tooltip("Local Y of the spike tips for each pop-out frame (same order as Pop Out Frames).")]
+        [SerializeField] private float[] popOutTipY;
+        [SerializeField] private float spikeWidth = 1f;
+        [SerializeField] private float killZoneWidth = 0.9f;
+        [Tooltip("How far the spike body / kill zone reach down into the floor, so there is no seam.")]
+        [SerializeField] private float overlapIntoFloor = 0.05f;
+
         private SpriteRenderer spriteRenderer;
-        private Collider2D col;
+        private bool initialized;
         private State state;
         private float timer;
         private int frameIndex;
@@ -36,8 +51,13 @@ namespace Nullcore.Hazards
 
         private void Awake()
         {
+            Initialize();
+        }
+
+        private void Initialize()
+        {
             spriteRenderer = GetComponent<SpriteRenderer>();
-            col = GetComponent<Collider2D>();
+            initialized = true;
             EnterIdle();
         }
 
@@ -48,6 +68,17 @@ namespace Nullcore.Hazards
 
         private void Update()
         {
+            Advance(Time.deltaTime);
+        }
+
+        // Steps the trap's state machine forward by the given time.
+        public void Advance(float deltaTime)
+        {
+            if (!initialized)
+            {
+                Initialize();
+            }
+
             if (!active)
             {
                 if (state != State.Idle)
@@ -57,7 +88,7 @@ namespace Nullcore.Hazards
                 return;
             }
 
-            timer -= Time.deltaTime;
+            timer -= deltaTime;
             if (timer > 0f)
             {
                 return;
@@ -83,18 +114,18 @@ namespace Nullcore.Hazards
         private void EnterIdle()
         {
             state = State.Idle;
-            col.isTrigger = false; // retracted and flat - safe to walk on
             frameIndex = -1;
             spriteRenderer.sprite = retractedSprite;
+            UpdateSpikeColliders();
             timer = idleTime;
         }
 
         private void EnterPoppingOut()
         {
             state = State.PoppingOut;
-            col.isTrigger = true; // spikes emerging - no longer solid ground
             frameIndex = 0;
             spriteRenderer.sprite = popOutFrames[frameIndex];
+            UpdateSpikeColliders();
             timer = frameDuration;
         }
 
@@ -107,13 +138,16 @@ namespace Nullcore.Hazards
                 return;
             }
             spriteRenderer.sprite = popOutFrames[frameIndex];
+            UpdateSpikeColliders();
             timer = frameDuration;
         }
 
         private void EnterArmed()
         {
             state = State.Armed;
-            spriteRenderer.sprite = popOutFrames[popOutFrames.Length - 1];
+            frameIndex = popOutFrames.Length - 1;
+            spriteRenderer.sprite = popOutFrames[frameIndex];
+            UpdateSpikeColliders();
             timer = armedTime;
         }
 
@@ -133,17 +167,52 @@ namespace Nullcore.Hazards
                 return;
             }
             spriteRenderer.sprite = popOutFrames[frameIndex];
+            UpdateSpikeColliders();
             timer = frameDuration;
+        }
+
+        // The trap's own collider is the solid floor and stays solid in every state, so nothing standing
+        // on it can fall through. While the spikes are out, spikeBody grows up with the spike tips (which
+        // lifts anything on top of the trap) and killZone covers the spikes.
+        private void UpdateSpikeColliders()
+        {
+            bool extended = frameIndex >= 0 && popOutTipY != null && frameIndex < popOutTipY.Length;
+
+            if (spikeBody != null)
+            {
+                spikeBody.enabled = extended;
+                if (extended)
+                {
+                    SetBox(spikeBody, spikeWidth, popOutTipY[frameIndex]);
+                }
+            }
+
+            if (killZone != null)
+            {
+                killZone.enabled = extended;
+                if (extended)
+                {
+                    SetBox(killZone, killZoneWidth, popOutTipY[frameIndex]);
+                }
+            }
+        }
+
+        private void SetBox(BoxCollider2D box, float width, float tipY)
+        {
+            float bottom = retractedTopY - overlapIntoFloor;
+            float height = Mathf.Max(0.01f, tipY - bottom);
+            box.size = new Vector2(width, height);
+            box.offset = new Vector2(0f, bottom + height * 0.5f);
         }
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            other.GetComponent<PlayerController>()?.Respawn();
+            other.GetComponent<PlayerController>()?.TakeDamage();
         }
 
         private void OnTriggerStay2D(Collider2D other)
         {
-            other.GetComponent<PlayerController>()?.Respawn();
+            other.GetComponent<PlayerController>()?.TakeDamage();
         }
     }
 }

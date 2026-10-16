@@ -112,7 +112,7 @@ namespace Nullcore.Robots
             var player = other.GetComponent<PlayerController>();
             if (player != null)
             {
-                player.Respawn();
+                player.TakeDamage();
                 Destroy(gameObject);
                 return;
             }

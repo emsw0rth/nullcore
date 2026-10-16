@@ -21,6 +21,13 @@ namespace Nullcore.Player
         [SerializeField] private float jumpAnimDuration = 0.25f;
         [SerializeField] private AudioClip deathSound;
 
+        [Header("Damage")]
+        [Tooltip("Seconds the player can't be hurt again after taking damage or respawning.")]
+        [SerializeField] private float invulnerabilityDuration = 1.5f;
+        [Tooltip("Upward speed the player is thrown at when hurt without dying.")]
+        [SerializeField] private float hurtBounceSpeed = 8f;
+        [SerializeField] private float blinkInterval = 0.1f;
+
         [Header("State (read-only)")]
         [SerializeField] private bool isGrounded;
         [SerializeField] private bool hasDoubleJumped;
@@ -44,10 +51,12 @@ namespace Nullcore.Player
         private Vector3 spawnPosition;
         private bool isMoving;
         private float lastDeathTime = -999f;
+        private float invulnerableUntil;
 
         private const float DeathCooldown = 0.25f;
 
         public bool IsRunning { get; private set; }
+        public bool IsInvulnerable => Time.time < invulnerableUntil;
         public bool HasDoubleJumped => hasDoubleJumped;
         public bool CanDash => canDash;
         public bool IsGrounded => isGrounded;
@@ -63,6 +72,27 @@ namespace Nullcore.Player
             spawnPosition = transform.position;
         }
 
+        // A hit from a hazard: costs one life point. The player is thrown up and briefly invulnerable.
+        // Losing the last life point is a death (see Respawn).
+        public void TakeDamage()
+        {
+            if (IsInvulnerable)
+            {
+                return;
+            }
+
+            if (GameSession.LoseLifePoint())
+            {
+                Respawn();
+                return;
+            }
+
+            invulnerableUntil = Time.time + invulnerabilityDuration;
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, hurtBounceSpeed);
+            isGrounded = false;
+        }
+
+        // Instant death: costs an extra life, refills every life point and puts the player back at the spawn.
         public void Respawn()
         {
             // Hazards can report the same death more than once (e.g. enter + stay in one frame, or
@@ -70,7 +100,8 @@ namespace Nullcore.Player
             if (Time.time - lastDeathTime > DeathCooldown)
             {
                 lastDeathTime = Time.time;
-                GameSession.LoseLife();
+                GameSession.LoseExtraLife();
+                GameSession.RestoreAllLifePoints();
 
                 if (audioSource != null && deathSound != null)
                 {
@@ -78,6 +109,7 @@ namespace Nullcore.Player
                 }
             }
 
+            invulnerableUntil = Time.time + invulnerabilityDuration;
             transform.position = spawnPosition;
             rb.linearVelocity = Vector2.zero;
             isDashing = false;
@@ -87,6 +119,8 @@ namespace Nullcore.Player
 
         private void Update()
         {
+            UpdateBlink();
+
             var keyboard = Keyboard.current;
             if (keyboard == null)
             {
@@ -234,6 +268,24 @@ namespace Nullcore.Player
                     motionState = moveInput == 0f ? 0 : (IsRunning ? 2 : 1);
                 }
                 animator.SetInteger(MotionStateHash, motionState);
+            }
+        }
+
+        // Flickers the sprite while the player is invulnerable.
+        private void UpdateBlink()
+        {
+            if (spriteRenderer == null)
+            {
+                return;
+            }
+
+            bool faded = IsInvulnerable && blinkInterval > 0f && Mathf.FloorToInt(Time.time / blinkInterval) % 2 == 0;
+            var color = spriteRenderer.color;
+            float alpha = faded ? 0.3f : 1f;
+            if (!Mathf.Approximately(color.a, alpha))
+            {
+                color.a = alpha;
+                spriteRenderer.color = color;
             }
         }
 
