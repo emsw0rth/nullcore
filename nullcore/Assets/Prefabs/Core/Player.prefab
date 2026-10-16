@@ -120,7 +120,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -8745884617702900172, guid: 3088c44caf751084fa570491dff94769, type: 3}
+  m_Sprite: {fileID: 4687105060926057572, guid: fdd2f25e7e9e5534e9706c8e9c98aa1a, type: 3}
   m_Color: {r: 0.2, g: 0.85, b: 0.9, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -170,8 +170,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 083fa18e412b3a443ba960b52406add4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nullcore.Player.PlayerController
-  walkSpeed: 5
-  runSpeed: 9
+  walkSpeed: 3.5
+  runSpeed: 6.5
   jumpForce: 14
   groundCheck: {fileID: 7733552549999185398}
   groundLayer:
@@ -181,8 +181,11 @@ MonoBehaviour:
   dashSpeed: 18
   dashDuration: 0.2
   dashCooldown: 1.5
-  jumpAnimDuration: 0.25
+  jumpAnimDuration: 0.6956522
   deathSound: {fileID: 8300000, guid: d17b719ae354a834a8b9dc8141109244, type: 3}
+  invulnerabilityDuration: 1.5
+  hurtBounceSpeed: 8
+  blinkInterval: 0.1
   isGrounded: 0
   hasDoubleJumped: 0
   runToggled: 0
@@ -262,8 +265,8 @@ PolygonCollider2D:
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    pivot: {x: 0.5, y: 0.63671875}
+    oldSize: {x: 0.82051283, y: 0.82051283}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0

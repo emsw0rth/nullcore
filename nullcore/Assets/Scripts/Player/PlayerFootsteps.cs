@@ -1,4 +1,5 @@
 using UnityEngine;
+using Nullcore.Core;
 
 namespace Nullcore.Player
 {
@@ -61,10 +62,7 @@ namespace Nullcore.Player
 
             AudioClip clip = clips[stepIndex % clips.Length];
             stepIndex++;
-            if (clip != null)
-            {
-                audioSource.PlayOneShot(clip);
-            }
+            GameAudioSettings.PlaySfx(audioSource, clip);
         }
     }
 }

@@ -37,6 +37,7 @@ namespace Nullcore.Player
         [SerializeField] private bool canDash = true;
 
         private static readonly int MotionStateHash = Animator.StringToHash("MotionState");
+        private static readonly int JumpStateHash = Animator.StringToHash("Jump");
 
         private Rigidbody2D rb;
         private PlayerAbilities abilities;
@@ -103,10 +104,7 @@ namespace Nullcore.Player
                 GameSession.LoseExtraLife();
                 GameSession.RestoreAllLifePoints();
 
-                if (audioSource != null && deathSound != null)
-                {
-                    audioSource.PlayOneShot(deathSound);
-                }
+                GameAudioSettings.PlaySfx(audioSource, deathSound);
             }
 
             invulnerableUntil = Time.time + invulnerabilityDuration;
@@ -294,6 +292,13 @@ namespace Nullcore.Player
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             isGrounded = false;
             jumpAnimTimeRemaining = jumpAnimDuration;
+
+            // The jump animation is a full take-off to landing sequence, so a double jump has to
+            // restart it rather than carry on from wherever the first jump's animation had got to.
+            if (animator != null)
+            {
+                animator.Play(JumpStateHash, 0, 0f);
+            }
         }
 
         private void OnDrawGizmosSelected()

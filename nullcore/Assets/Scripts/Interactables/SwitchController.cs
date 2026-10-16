@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.InputSystem;
+using Nullcore.Core;
 using Nullcore.InputSystem;
 using Nullcore.Player;
 
@@ -108,11 +109,7 @@ namespace Nullcore.Interactables
             {
                 return;
             }
-            AudioClip clip = on ? onSound : offSound;
-            if (clip != null)
-            {
-                audioSource.PlayOneShot(clip);
-            }
+            GameAudioSettings.PlaySfx(audioSource, on ? onSound : offSound);
         }
     }
 }

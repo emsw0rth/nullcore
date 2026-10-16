@@ -1,4 +1,5 @@
 using UnityEngine;
+using Nullcore.Core;
 using Nullcore.Player;
 
 namespace Nullcore.Teleporters
@@ -68,7 +69,7 @@ namespace Nullcore.Teleporters
 
             float distance = Vector2.Distance(transform.position, player.position);
             float t = Mathf.InverseLerp(maxDistance, minDistance, distance);
-            audioSource.volume = Mathf.Clamp01(t) * maxVolume;
+            audioSource.volume = Mathf.Clamp01(t) * maxVolume * GameAudioSettings.SfxVolume;
         }
     }
 }
