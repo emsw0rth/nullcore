@@ -72,7 +72,12 @@ namespace Nullcore.Robots
             // a separate, broader mask than the ground/edge checks below. Triggers (ability pickups,
             // switch/teleporter detection zones, etc.) must be excluded explicitly - Physics2D.Raycast
             // hits them by default, which would otherwise register as a false "wall ahead".
-            if (Cast(wallOrigin, Vector2.right * direction, wallCheckDistance, obstacleLayer))
+            // With a body collider, sweep the whole body forward so low obstacles (a pipe, a crate) count as
+            // walls too. A single ray at one height passes right over them and the robot gets stuck.
+            bool blocked = bodyCollider != null
+                ? RobotSensors.BodyBlocked(bodyCollider, direction, wallCheckDistance, obstacleLayer)
+                : Cast(wallOrigin, Vector2.right * direction, wallCheckDistance, obstacleLayer);
+            if (blocked)
             {
                 return true;
             }

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace Nullcore.Core
 {
@@ -21,6 +22,7 @@ namespace Nullcore.Core
         public static event System.Action LifePointsChanged;
 
         private static float startTime;
+        private static bool keepTimerOnNextStart;
 
         [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
         private static void ResetOnGameStart()
@@ -29,6 +31,7 @@ namespace Nullcore.Core
             ElapsedTime = 0f;
             NextLevelSceneName = string.Empty;
             startTime = 0f;
+            keepTimerOnNextStart = false;
             ExtraLives = StartingExtraLives;
             MaxLifePoints = StartingMaxLifePoints;
             LifePoints = StartingMaxLifePoints;
@@ -111,8 +114,28 @@ namespace Nullcore.Core
 
         public static void StartLevel(string levelName)
         {
+            // Restarting the level after a death keeps the clock running, so the final time includes the retries.
+            bool restartOfSameLevel = keepTimerOnNextStart && levelName == LevelName;
+            keepTimerOnNextStart = false;
+
             LevelName = levelName;
-            startTime = Time.time;
+            if (!restartOfSameLevel)
+            {
+                startTime = Time.time;
+            }
+        }
+
+        // Reloads the current level from scratch (used when the player dies). Extra lives, life points,
+        // learned abilities and the level timer live in static state, so they carry over the reload.
+        public static void RestartLevel()
+        {
+            keepTimerOnNextStart = true;
+            if (!Application.isPlaying)
+            {
+                return;
+            }
+
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
 
         public static float StopTimer()

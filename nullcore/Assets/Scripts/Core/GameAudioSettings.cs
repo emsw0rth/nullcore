@@ -46,5 +46,26 @@ namespace Nullcore.Core
                 source.PlayOneShot(clip, SfxVolume);
             }
         }
+
+        // For a sound that has to outlive the scene it was triggered in (e.g. the death sound right
+        // before the level reloads). Plays from its own object that survives scene loads, then cleans itself up.
+        public static void PlaySfxPersistent(AudioClip clip)
+        {
+            if (clip == null || !Application.isPlaying)
+            {
+                return;
+            }
+
+            var go = new GameObject("PersistentSfx");
+            Object.DontDestroyOnLoad(go);
+
+            var source = go.AddComponent<AudioSource>();
+            source.spatialBlend = 0f;
+            source.volume = SfxVolume;
+            source.clip = clip;
+            source.Play();
+
+            Object.Destroy(go, clip.length + 0.1f);
+        }
     }
 }

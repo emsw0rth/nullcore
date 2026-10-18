@@ -49,7 +49,6 @@ namespace Nullcore.Player
         private float dashTimeRemaining;
         private float dashCooldownRemaining;
         private float jumpAnimTimeRemaining;
-        private Vector3 spawnPosition;
         private bool isMoving;
         private float lastDeathTime = -999f;
         private float invulnerableUntil;
@@ -70,7 +69,6 @@ namespace Nullcore.Player
             spriteRenderer = GetComponent<SpriteRenderer>();
             animator = GetComponent<Animator>();
             audioSource = GetComponent<AudioSource>();
-            spawnPosition = transform.position;
         }
 
         // A hit from a hazard: costs one life point. The player is thrown up and briefly invulnerable.
@@ -93,26 +91,25 @@ namespace Nullcore.Player
             isGrounded = false;
         }
 
-        // Instant death: costs an extra life, refills every life point and puts the player back at the spawn.
+        // Instant death: costs an extra life, refills every life point and restarts the whole level, so
+        // the player, pickups, enemies, doors, switches and platforms all start over.
         public void Respawn()
         {
             // Hazards can report the same death more than once (e.g. enter + stay in one frame, or
             // two hazards at once), so only the first call in a short window counts as a death.
-            if (Time.time - lastDeathTime > DeathCooldown)
+            if (Time.time - lastDeathTime <= DeathCooldown)
             {
-                lastDeathTime = Time.time;
-                GameSession.LoseExtraLife();
-                GameSession.RestoreAllLifePoints();
-
-                GameAudioSettings.PlaySfx(audioSource, deathSound);
+                return;
             }
+            lastDeathTime = Time.time;
 
-            invulnerableUntil = Time.time + invulnerabilityDuration;
-            transform.position = spawnPosition;
-            rb.linearVelocity = Vector2.zero;
-            isDashing = false;
-            isGrounded = false;
-            hasDoubleJumped = false;
+            GameSession.LoseExtraLife();
+            GameSession.RestoreAllLifePoints();
+
+            // The level is about to be unloaded, which would cut off a sound played from this object.
+            GameAudioSettings.PlaySfxPersistent(deathSound);
+
+            GameSession.RestartLevel();
         }
 
         private void Update()
