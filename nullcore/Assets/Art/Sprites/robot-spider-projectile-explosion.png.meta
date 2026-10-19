@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: f0682f5895bcd7845aba8ceb6c0d624d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3919807755977442663
+    second: robot-spider-projectile-explosion_0
+  - first:
+      213: -4948038468772365526
+    second: robot-spider-projectile-explosion_1
+  - first:
+      213: -1864354019414007742
+    second: robot-spider-projectile-explosion_2
+  - first:
+      213: -4288124891251437353
+    second: robot-spider-projectile-explosion_3
+  - first:
+      213: 5964423773124022653
+    second: robot-spider-projectile-explosion_4
+  - first:
+      213: 1580581353368838329
+    second: robot-spider-projectile-explosion_5
+  - first:
+      213: -5283832190011085811
+    second: robot-spider-projectile-explosion_6
+  - first:
+      213: -2163024795548060818
+    second: robot-spider-projectile-explosion_7
+  - first:
+      213: 3050454086787312444
+    second: robot-spider-projectile-explosion_8
+  - first:
+      213: 7971401409581906929
+    second: robot-spider-projectile-explosion_9
+  - first:
+      213: 5286596229971720342
+    second: robot-spider-projectile-explosion_10
+  - first:
+      213: 8202893567326698807
+    second: robot-spider-projectile-explosion_11
+  - first:
+      213: 1136401889770374753
+    second: robot-spider-projectile-explosion_12
+  - first:
+      213: 2848219608976547911
+    second: robot-spider-projectile-explosion_13
+  - first:
+      213: 4203695093403709246
+    second: robot-spider-projectile-explosion_14
+  - first:
+      213: 7722713401311394340
+    second: robot-spider-projectile-explosion_15
+  - first:
+      213: 5780642722207520942
+    second: robot-spider-projectile-explosion_16
+  - first:
+      213: 4506388164886660442
+    second: robot-spider-projectile-explosion_17
+  - first:
+      213: -4571149578910499782
+    second: robot-spider-projectile-explosion_18
+  - first:
+      213: 1837327907483841124
+    second: robot-spider-projectile-explosion_19
+  - first:
+      213: -3944165699786181274
+    second: robot-spider-projectile-explosion_20
+  - first:
+      213: 2226720688732987044
+    second: robot-spider-projectile-explosion_21
+  - first:
+      213: -4762948043602911350
+    second: robot-spider-projectile-explosion_22
+  - first:
+      213: -7039547715666972257
+    second: robot-spider-projectile-explosion_23
+  - first:
+      213: 5481657635929346888
+    second: robot-spider-projectile-explosion_24
+  - first:
+      213: 8210466706981871103
+    second: robot-spider-projectile-explosion_25
+  - first:
+      213: -7595440698666561118
+    second: robot-spider-projectile-explosion_26
+  - first:
+      213: -5622877032451344331
+    second: robot-spider-projectile-explosion_27
+  - first:
+      213: 7412158483421729274
+    second: robot-spider-projectile-explosion_28
+  - first:
+      213: 6899477867002527488
+    second: robot-spider-projectile-explosion_29
+  - first:
+      213: 8964731507278113525
+    second: robot-spider-projectile-explosion_30
+  - first:
+      213: -2344313972110991460
+    second: robot-spider-projectile-explosion_31
+  - first:
+      213: -2455988717314984140
+    second: robot-spider-projectile-explosion_32
+  - first:
+      213: 5270869127216742688
+    second: robot-spider-projectile-explosion_33
+  - first:
+      213: 2937512434749447671
+    second: robot-spider-projectile-explosion_34
+  - first:
+      213: 4733196273641960011
+    second: robot-spider-projectile-explosion_35
+  - first:
+      213: 1982504562979600317
+    second: robot-spider-projectile-explosion_36
+  - first:
+      213: -3353674248771489165
+    second: robot-spider-projectile-explosion_37
+  - first:
+      213: 1061182513557749366
+    second: robot-spider-projectile-explosion_38
+  - first:
+      213: -2407909487404326655
+    second: robot-spider-projectile-explosion_39
+  - first:
+      213: 3052961769204472962
+    second: robot-spider-projectile-explosion_40
+  - first:
+      213: -1850474748407783324
+    second: robot-spider-projectile-explosion_41
+  - first:
+      213: -9218763713502190229
+    second: robot-spider-projectile-explosion_42
+  - first:
+      213: -4494979637920012330
+    second: robot-spider-projectile-explosion_43
+  - first:
+      213: 866320310243446978
+    second: robot-spider-projectile-explosion_44
+  - first:
+      213: -4354992120673752793
+    second: robot-spider-projectile-explosion_45
+  - first:
+      213: -648923817207039509
+    second: robot-spider-projectile-explosion_46
+  - first:
+      213: -6341021940720797775
+    second: robot-spider-projectile-explosion_47
+  - first:
+      213: 7403820177337454425
+    second: robot-spider-projectile-explosion_48
+  - first:
+      213: -6860675723926486487
+    second: robot-spider-projectile-explosion_49
+  - first:
+      213: -3825199932626786790
+    second: robot-spider-projectile-explosion_50
+  - first:
+      213: -6094508495521946205
+    second: robot-spider-projectile-explosion_51
+  - first:
+      213: -3490324067393635753
+    second: robot-spider-projectile-explosion_52
+  - first:
+      213: 90809321849621485
+    second: robot-spider-projectile-explosion_53
+  - first:
+      213: 2927876909211592617
+    second: robot-spider-projectile-explosion_54
+  - first:
+      213: 8215818076892314913
+    second: robot-spider-projectile-explosion_55
+  - first:
+      213: -1200280320571398035
+    second: robot-spider-projectile-explosion_56
+  - first:
+      213: -6546330034305988474
+    second: robot-spider-projectile-explosion_57
+  - first:
+      213: 6768015226487250344
+    second: robot-spider-projectile-explosion_58
+  - first:
+      213: 7808684278880415560
+    second: robot-spider-projectile-explosion_59
+  - first:
+      213: -7126466316202439299
+    second: robot-spider-projectile-explosion_60
+  - first:
+      213: -1595392880694054091
+    second: robot-spider-projectile-explosion_61
+  - first:
+      213: 2337630013089358103
+    second: robot-spider-projectile-explosion_62
+  - first:
+      213: -3357325570983073599
+    second: robot-spider-projectile-explosion_63
+  - first:
+      213: 511909796602470034
+    second: robot-spider-projectile-explosion_64
+  - first:
+      213: 8193482022120337353
+    second: robot-spider-projectile-explosion_65
+  - first:
+      213: -3510119524890173281
+    second: robot-spider-projectile-explosion_66
+  - first:
+      213: -709963426416292550
+    second: robot-spider-projectile-explosion_67
+  - first:
+      213: -6558499958773090436
+    second: robot-spider-projectile-explosion_68
+  - first:
+      213: 858768725482447978
+    second: robot-spider-projectile-explosion_69
+  - first:
+      213: -5374383537540330429
+    second: robot-spider-projectile-explosion_70
+  - first:
+      213: 8919767573540925726
+    second: robot-spider-projectile-explosion_71
+  - first:
+      213: 8898001736827480271
+    second: robot-spider-projectile-explosion_72
+  - first:
+      213: -4775109234031950925
+    second: robot-spider-projectile-explosion_73
+  - first:
+      213: -101617302336290708
+    second: robot-spider-projectile-explosion_74
+  - first:
+      213: -8918337827611379516
+    second: robot-spider-projectile-explosion_75
+  - first:
+      213: -3903560716800300823
+    second: robot-spider-projectile-explosion_76
+  - first:
+      213: -108287058264584108
+    second: robot-spider-projectile-explosion_77
+  - first:
+      213: 2560148963466633959
+    second: robot-spider-projectile-explosion_78
+  - first:
+      213: 2489489385869258660
+    second: robot-spider-projectile-explosion_79
+  - first:
+      213: 6261701900037236849
+    second: robot-spider-projectile-explosion_80
+  - first:
+      213: -4607793399724913259
+    second: robot-spider-projectile-explosion_81
+  - first:
+      213: 2341249369596211890
+    second: robot-spider-projectile-explosion_82
+  - first:
+      213: 1586340235131211447
+    second: robot-spider-projectile-explosion_83
+  - first:
+      213: -3313477891968646138
+    second: robot-spider-projectile-explosion_84
+  - first:
+      213: 658418137497714788
+    second: robot-spider-projectile-explosion_85
+  - first:
+      213: 1411748433009996261
+    second: robot-spider-projectile-explosion_86
+  - first:
+      213: -7971844822047832182
+    second: robot-spider-projectile-explosion_87
+  - first:
+      213: 9092778816628442117
+    second: robot-spider-projectile-explosion_88
+  - first:
+      213: 8324263921779013652
+    second: robot-spider-projectile-explosion_89
+  - first:
+      213: 89199015486076655
+    second: robot-spider-projectile-explosion_90
+  - first:
+      213: -8973492271762680331
+    second: robot-spider-projectile-explosion_91
+  - first:
+      213: -4807259855984131071
+    second: robot-spider-projectile-explosion_92
+  - first:
+      213: 7900343163770656463
+    second: robot-spider-projectile-explosion_93
+  - first:
+      213: -3615374591324465044
+    second: robot-spider-projectile-explosion_94
+  - first:
+      213: -2414671638155997838
+    second: robot-spider-projectile-explosion_95
+  - first:
+      213: -8870231223110901679
+    second: robot-spider-projectile-explosion_96
+  - first:
+      213: 5162791142601871861
+    second: robot-spider-projectile-explosion_97
+  - first:
+      213: 852767935301738406
+    second: robot-spider-projectile-explosion_98
+  - first:
+      213: 8208123508299834283
+    second: robot-spider-projectile-explosion_99
+  - first:
+      213: 8056386585325591271
+    second: robot-spider-projectile-explosion_100
+  - first:
+      213: -6308135897629748563
+    second: robot-spider-projectile-explosion_101
+  - first:
+      213: 5322922534386755955
+    second: robot-spider-projectile-explosion_102
+  - first:
+      213: -8459244803313614047
+    second: robot-spider-projectile-explosion_103
+  - first:
+      213: -7433402727150128589
+    second: robot-spider-projectile-explosion_104
+  - first:
+      213: 5012060478518822249
+    second: robot-spider-projectile-explosion_105
+  - first:
+      213: 5441490177194341579
+    second: robot-spider-projectile-explosion_106
+  - first:
+      213: 2702407521429849103
+    second: robot-spider-projectile-explosion_107
+  - first:
+      213: 8840900472439723303
+    second: spider_explosion_00
+  - first:
+      213: 1571095549415782854
+    second: spider_explosion_01
+  - first:
+      213: 2334174711610647593
+    second: spider_explosion_02
+  - first:
+      213: -4882946513343508672
+    second: spider_explosion_03
+  - first:
+      213: 5686703843959287792
+    second: spider_explosion_04
+  - first:
+      213: 3613158479732617192
+    second: spider_explosion_05
+  - first:
+      213: 8310647376025974786
+    second: spider_explosion_06
+  - first:
+      213: 2810600494304815828
+    second: spider_explosion_07
+  - first:
+      213: 2510353652281084071
+    second: spider_explosion_08
+  - first:
+      213: 7573021452929083684
+    second: spider_explosion_09
+  - first:
+      213: -5514870780306221585
+    second: spider_explosion_10
+  - first:
+      213: 3362468115606740058
+    second: spider_explosion_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spider_explosion_00
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 699
+        width: 362
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7255a5a732031ba70800000000000000
+      internalID: 8840900472439723303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_explosion_01
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 696
+        width: 362
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9ff130417adc510800000000000000
+      internalID: 1571095549415782854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_explosion_02
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 685
+        width: 362
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924a0418887a46020800000000000000
+      internalID: 2334174711610647593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_explosion_03
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 690
+        width: 362
+        height: 364
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f8dee540a4c3cb0800000000000000
+      internalID: -4882946513343508672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_explosion_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 362
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffaa02440b3bee40800000000000000
+      internalID: 5686703843959287792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_explosion_05
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 335
+        width: 362
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef27a57e74842230800000000000000
+      internalID: 3613158479732617192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_explosion_06
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 321
+        width: 362
+        height: 363
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2087f8db1c9555370800000000000000
+      internalID: 8310647376025974786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_explosion_07
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 330
+        width: 362
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da63942242410720800000000000000
+      internalID: 2810600494304815828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_explosion_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 362
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a881d8a85196d220800000000000000
+      internalID: 2510353652281084071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_explosion_09
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 362
+        height: 334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429204a43e6c81960800000000000000
+      internalID: 7573021452929083684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_explosion_10
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 362
+        height: 321
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe59aad8e3e3773b0800000000000000
+      internalID: -5514870780306221585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_explosion_11
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 362
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c115f9fe2e9ae20800000000000000
+      internalID: 3362468115606740058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0782fe916ae9b8b44a0e66df467b15a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      robot-spider-projectile-explosion_0: -3919807755977442663
+      robot-spider-projectile-explosion_1: -4948038468772365526
+      robot-spider-projectile-explosion_10: 5286596229971720342
+      robot-spider-projectile-explosion_100: 8056386585325591271
+      robot-spider-projectile-explosion_101: -6308135897629748563
+      robot-spider-projectile-explosion_102: 5322922534386755955
+      robot-spider-projectile-explosion_103: -8459244803313614047
+      robot-spider-projectile-explosion_104: -7433402727150128589
+      robot-spider-projectile-explosion_105: 5012060478518822249
+      robot-spider-projectile-explosion_106: 5441490177194341579
+      robot-spider-projectile-explosion_107: 2702407521429849103
+      robot-spider-projectile-explosion_11: 8202893567326698807
+      robot-spider-projectile-explosion_12: 1136401889770374753
+      robot-spider-projectile-explosion_13: 2848219608976547911
+      robot-spider-projectile-explosion_14: 4203695093403709246
+      robot-spider-projectile-explosion_15: 7722713401311394340
+      robot-spider-projectile-explosion_16: 5780642722207520942
+      robot-spider-projectile-explosion_17: 4506388164886660442
+      robot-spider-projectile-explosion_18: -4571149578910499782
+      robot-spider-projectile-explosion_19: 1837327907483841124
+      robot-spider-projectile-explosion_2: -1864354019414007742
+      robot-spider-projectile-explosion_20: -3944165699786181274
+      robot-spider-projectile-explosion_21: 2226720688732987044
+      robot-spider-projectile-explosion_22: -4762948043602911350
+      robot-spider-projectile-explosion_23: -7039547715666972257
+      robot-spider-projectile-explosion_24: 5481657635929346888
+      robot-spider-projectile-explosion_25: 8210466706981871103
+      robot-spider-projectile-explosion_26: -7595440698666561118
+      robot-spider-projectile-explosion_27: -5622877032451344331
+      robot-spider-projectile-explosion_28: 7412158483421729274
+      robot-spider-projectile-explosion_29: 6899477867002527488
+      robot-spider-projectile-explosion_3: -4288124891251437353
+      robot-spider-projectile-explosion_30: 8964731507278113525
+      robot-spider-projectile-explosion_31: -2344313972110991460
+      robot-spider-projectile-explosion_32: -2455988717314984140
+      robot-spider-projectile-explosion_33: 5270869127216742688
+      robot-spider-projectile-explosion_34: 2937512434749447671
+      robot-spider-projectile-explosion_35: 4733196273641960011
+      robot-spider-projectile-explosion_36: 1982504562979600317
+      robot-spider-projectile-explosion_37: -3353674248771489165
+      robot-spider-projectile-explosion_38: 1061182513557749366
+      robot-spider-projectile-explosion_39: -2407909487404326655
+      robot-spider-projectile-explosion_4: 5964423773124022653
+      robot-spider-projectile-explosion_40: 3052961769204472962
+      robot-spider-projectile-explosion_41: -1850474748407783324
+      robot-spider-projectile-explosion_42: -9218763713502190229
+      robot-spider-projectile-explosion_43: -4494979637920012330
+      robot-spider-projectile-explosion_44: 866320310243446978
+      robot-spider-projectile-explosion_45: -4354992120673752793
+      robot-spider-projectile-explosion_46: -648923817207039509
+      robot-spider-projectile-explosion_47: -6341021940720797775
+      robot-spider-projectile-explosion_48: 7403820177337454425
+      robot-spider-projectile-explosion_49: -6860675723926486487
+      robot-spider-projectile-explosion_5: 1580581353368838329
+      robot-spider-projectile-explosion_50: -3825199932626786790
+      robot-spider-projectile-explosion_51: -6094508495521946205
+      robot-spider-projectile-explosion_52: -3490324067393635753
+      robot-spider-projectile-explosion_53: 90809321849621485
+      robot-spider-projectile-explosion_54: 2927876909211592617
+      robot-spider-projectile-explosion_55: 8215818076892314913
+      robot-spider-projectile-explosion_56: -1200280320571398035
+      robot-spider-projectile-explosion_57: -6546330034305988474
+      robot-spider-projectile-explosion_58: 6768015226487250344
+      robot-spider-projectile-explosion_59: 7808684278880415560
+      robot-spider-projectile-explosion_6: -5283832190011085811
+      robot-spider-projectile-explosion_60: -7126466316202439299
+      robot-spider-projectile-explosion_61: -1595392880694054091
+      robot-spider-projectile-explosion_62: 2337630013089358103
+      robot-spider-projectile-explosion_63: -3357325570983073599
+      robot-spider-projectile-explosion_64: 511909796602470034
+      robot-spider-projectile-explosion_65: 8193482022120337353
+      robot-spider-projectile-explosion_66: -3510119524890173281
+      robot-spider-projectile-explosion_67: -709963426416292550
+      robot-spider-projectile-explosion_68: -6558499958773090436
+      robot-spider-projectile-explosion_69: 858768725482447978
+      robot-spider-projectile-explosion_7: -2163024795548060818
+      robot-spider-projectile-explosion_70: -5374383537540330429
+      robot-spider-projectile-explosion_71: 8919767573540925726
+      robot-spider-projectile-explosion_72: 8898001736827480271
+      robot-spider-projectile-explosion_73: -4775109234031950925
+      robot-spider-projectile-explosion_74: -101617302336290708
+      robot-spider-projectile-explosion_75: -8918337827611379516
+      robot-spider-projectile-explosion_76: -3903560716800300823
+      robot-spider-projectile-explosion_77: -108287058264584108
+      robot-spider-projectile-explosion_78: 2560148963466633959
+      robot-spider-projectile-explosion_79: 2489489385869258660
+      robot-spider-projectile-explosion_8: 3050454086787312444
+      robot-spider-projectile-explosion_80: 6261701900037236849
+      robot-spider-projectile-explosion_81: -4607793399724913259
+      robot-spider-projectile-explosion_82: 2341249369596211890
+      robot-spider-projectile-explosion_83: 1586340235131211447
+      robot-spider-projectile-explosion_84: -3313477891968646138
+      robot-spider-projectile-explosion_85: 658418137497714788
+      robot-spider-projectile-explosion_86: 1411748433009996261
+      robot-spider-projectile-explosion_87: -7971844822047832182
+      robot-spider-projectile-explosion_88: 9092778816628442117
+      robot-spider-projectile-explosion_89: 8324263921779013652
+      robot-spider-projectile-explosion_9: 7971401409581906929
+      robot-spider-projectile-explosion_90: 89199015486076655
+      robot-spider-projectile-explosion_91: -8973492271762680331
+      robot-spider-projectile-explosion_92: -4807259855984131071
+      robot-spider-projectile-explosion_93: 7900343163770656463
+      robot-spider-projectile-explosion_94: -3615374591324465044
+      robot-spider-projectile-explosion_95: -2414671638155997838
+      robot-spider-projectile-explosion_96: -8870231223110901679
+      robot-spider-projectile-explosion_97: 5162791142601871861
+      robot-spider-projectile-explosion_98: 852767935301738406
+      robot-spider-projectile-explosion_99: 8208123508299834283
+      spider_explosion_00: 8840900472439723303
+      spider_explosion_01: 1571095549415782854
+      spider_explosion_02: 2334174711610647593
+      spider_explosion_03: -4882946513343508672
+      spider_explosion_04: 5686703843959287792
+      spider_explosion_05: 3613158479732617192
+      spider_explosion_06: 8310647376025974786
+      spider_explosion_07: 2810600494304815828
+      spider_explosion_08: 2510353652281084071
+      spider_explosion_09: 7573021452929083684
+      spider_explosion_10: -5514870780306221585
+      spider_explosion_11: 3362468115606740058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

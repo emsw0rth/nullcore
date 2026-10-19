@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: e453b3408dc6a9c4785e3439cada2210
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1430728062897952243
+    second: robot-spider-firing-effect_0
+  - first:
+      213: -1911984024458074460
+    second: robot-spider-firing-effect_1
+  - first:
+      213: 7182562338124615847
+    second: robot-spider-firing-effect_2
+  - first:
+      213: 2422290317130395893
+    second: robot-spider-firing-effect_3
+  - first:
+      213: -3899584469271831857
+    second: robot-spider-firing-effect_4
+  - first:
+      213: -7267739820426689944
+    second: robot-spider-firing-effect_5
+  - first:
+      213: 7328545018671329881
+    second: robot-spider-firing-effect_6
+  - first:
+      213: 3868805523415332939
+    second: robot-spider-firing-effect_7
+  - first:
+      213: 4204159363711391804
+    second: robot-spider-firing-effect_8
+  - first:
+      213: 1586168447462397760
+    second: robot-spider-firing-effect_9
+  - first:
+      213: -1604049575528061325
+    second: robot-spider-firing-effect_10
+  - first:
+      213: 2235401611444047671
+    second: robot-spider-firing-effect_11
+  - first:
+      213: 4833083246134225382
+    second: robot-spider-firing-effect_12
+  - first:
+      213: -5230007385971771422
+    second: robot-spider-firing-effect_13
+  - first:
+      213: -765882329253731192
+    second: robot-spider-firing-effect_14
+  - first:
+      213: -551795406231695964
+    second: robot-spider-firing-effect_15
+  - first:
+      213: 6798812125865853967
+    second: robot-spider-firing-effect_16
+  - first:
+      213: -3205611826074320151
+    second: robot-spider-firing-effect_17
+  - first:
+      213: 287588072300427290
+    second: robot-spider-firing-effect_18
+  - first:
+      213: 7714183545178551407
+    second: robot-spider-firing-effect_19
+  - first:
+      213: -3233771572228524772
+    second: robot-spider-firing-effect_20
+  - first:
+      213: -5698802549544469275
+    second: robot-spider-firing-effect_21
+  - first:
+      213: -8219211922383981470
+    second: robot-spider-firing-effect_22
+  - first:
+      213: 4954013826876680276
+    second: robot-spider-firing-effect_23
+  - first:
+      213: 977585497524144856
+    second: robot-spider-firing-effect_24
+  - first:
+      213: 928357674042175991
+    second: robot-spider-firing-effect_25
+  - first:
+      213: -6986940364405768659
+    second: robot-spider-firing-effect_26
+  - first:
+      213: -4470942117167231547
+    second: robot-spider-firing-effect_27
+  - first:
+      213: -8145897941861358721
+    second: robot-spider-firing-effect_28
+  - first:
+      213: -1701825734048681367
+    second: robot-spider-firing-effect_29
+  - first:
+      213: 7954746688188555838
+    second: robot-spider-firing-effect_30
+  - first:
+      213: 5607801518072583505
+    second: robot-spider-firing-effect_31
+  - first:
+      213: 413824279911688587
+    second: robot-spider-firing-effect_32
+  - first:
+      213: 4495221814352497607
+    second: robot-spider-firing-effect_33
+  - first:
+      213: 635029217460009521
+    second: robot-spider-firing-effect_34
+  - first:
+      213: -4512504317907760309
+    second: robot-spider-firing-effect_35
+  - first:
+      213: -3869315884505657649
+    second: robot-spider-firing-effect_36
+  - first:
+      213: 3429178106684870107
+    second: robot-spider-firing-effect_37
+  - first:
+      213: 3995268873758776132
+    second: robot-spider-firing-effect_38
+  - first:
+      213: -5333253386266809644
+    second: robot-spider-firing-effect_39
+  - first:
+      213: 9020572280564792544
+    second: robot-spider-firing-effect_40
+  - first:
+      213: -9096720178769047700
+    second: robot-spider-firing-effect_41
+  - first:
+      213: 8127277651774548486
+    second: robot-spider-firing-effect_42
+  - first:
+      213: 3217823203657605679
+    second: robot-spider-firing-effect_43
+  - first:
+      213: -9208183304161938285
+    second: robot-spider-firing-effect_44
+  - first:
+      213: 6218894997789524104
+    second: robot-spider-firing-effect_45
+  - first:
+      213: -5090383354550320907
+    second: robot-spider-firing-effect_46
+  - first:
+      213: -2360356868639041207
+    second: robot-spider-firing-effect_47
+  - first:
+      213: 8250022640267460682
+    second: robot-spider-firing-effect_48
+  - first:
+      213: 72419513950704847
+    second: robot-spider-firing-effect_49
+  - first:
+      213: -2243390612671893285
+    second: robot-spider-firing-effect_50
+  - first:
+      213: -1372495717222849265
+    second: robot-spider-firing-effect_51
+  - first:
+      213: 1075504758375353007
+    second: robot-spider-firing-effect_52
+  - first:
+      213: 597114272558837049
+    second: robot-spider-firing-effect_53
+  - first:
+      213: 281221783444690372
+    second: robot-spider-firing-effect_54
+  - first:
+      213: -3395039204066838242
+    second: robot-spider-firing-effect_55
+  - first:
+      213: 7547009419551610710
+    second: robot-spider-firing-effect_56
+  - first:
+      213: -787471286507314312
+    second: robot-spider-firing-effect_57
+  - first:
+      213: -8999554604961672914
+    second: robot-spider-firing-effect_58
+  - first:
+      213: 3964414138735843815
+    second: robot-spider-firing-effect_59
+  - first:
+      213: 7762902508941453592
+    second: robot-spider-firing-effect_60
+  - first:
+      213: 8633221085385561042
+    second: spider_fire_fx_00
+  - first:
+      213: -2490818104701869102
+    second: spider_fire_fx_01
+  - first:
+      213: -2736159337770116052
+    second: spider_fire_fx_02
+  - first:
+      213: -5740423098062355852
+    second: spider_fire_fx_03
+  - first:
+      213: 1145228926400609883
+    second: spider_fire_fx_04
+  - first:
+      213: 1968375695471165023
+    second: spider_fire_fx_05
+  - first:
+      213: -9166007125201539715
+    second: spider_fire_fx_06
+  - first:
+      213: 1507269920997120263
+    second: spider_fire_fx_07
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spider_fire_fx_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d391dd16dc5fc770800000000000000
+      internalID: 8633221085385561042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_fire_fx_01
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d322257126de6dd0800000000000000
+      internalID: -2490818104701869102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_fire_fx_02
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c185f3495370ad0800000000000000
+      internalID: -2736159337770116052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_fire_fx_03
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472cb8b3b9be550b0800000000000000
+      internalID: -5740423098062355852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_fire_fx_04
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e3c9014aba4ef00800000000000000
+      internalID: 1145228926400609883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_fire_fx_05
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e32112443115b10800000000000000
+      internalID: 1968375695471165023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_fire_fx_06
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7da9ad451dcbc080800000000000000
+      internalID: -9166007125201539715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_fire_fx_07
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7091aadd106eae410800000000000000
+      internalID: 1507269920997120263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      robot-spider-firing-effect_0: 1430728062897952243
+      robot-spider-firing-effect_1: -1911984024458074460
+      robot-spider-firing-effect_10: -1604049575528061325
+      robot-spider-firing-effect_11: 2235401611444047671
+      robot-spider-firing-effect_12: 4833083246134225382
+      robot-spider-firing-effect_13: -5230007385971771422
+      robot-spider-firing-effect_14: -765882329253731192
+      robot-spider-firing-effect_15: -551795406231695964
+      robot-spider-firing-effect_16: 6798812125865853967
+      robot-spider-firing-effect_17: -3205611826074320151
+      robot-spider-firing-effect_18: 287588072300427290
+      robot-spider-firing-effect_19: 7714183545178551407
+      robot-spider-firing-effect_2: 7182562338124615847
+      robot-spider-firing-effect_20: -3233771572228524772
+      robot-spider-firing-effect_21: -5698802549544469275
+      robot-spider-firing-effect_22: -8219211922383981470
+      robot-spider-firing-effect_23: 4954013826876680276
+      robot-spider-firing-effect_24: 977585497524144856
+      robot-spider-firing-effect_25: 928357674042175991
+      robot-spider-firing-effect_26: -6986940364405768659
+      robot-spider-firing-effect_27: -4470942117167231547
+      robot-spider-firing-effect_28: -8145897941861358721
+      robot-spider-firing-effect_29: -1701825734048681367
+      robot-spider-firing-effect_3: 2422290317130395893
+      robot-spider-firing-effect_30: 7954746688188555838
+      robot-spider-firing-effect_31: 5607801518072583505
+      robot-spider-firing-effect_32: 413824279911688587
+      robot-spider-firing-effect_33: 4495221814352497607
+      robot-spider-firing-effect_34: 635029217460009521
+      robot-spider-firing-effect_35: -4512504317907760309
+      robot-spider-firing-effect_36: -3869315884505657649
+      robot-spider-firing-effect_37: 3429178106684870107
+      robot-spider-firing-effect_38: 3995268873758776132
+      robot-spider-firing-effect_39: -5333253386266809644
+      robot-spider-firing-effect_4: -3899584469271831857
+      robot-spider-firing-effect_40: 9020572280564792544
+      robot-spider-firing-effect_41: -9096720178769047700
+      robot-spider-firing-effect_42: 8127277651774548486
+      robot-spider-firing-effect_43: 3217823203657605679
+      robot-spider-firing-effect_44: -9208183304161938285
+      robot-spider-firing-effect_45: 6218894997789524104
+      robot-spider-firing-effect_46: -5090383354550320907
+      robot-spider-firing-effect_47: -2360356868639041207
+      robot-spider-firing-effect_48: 8250022640267460682
+      robot-spider-firing-effect_49: 72419513950704847
+      robot-spider-firing-effect_5: -7267739820426689944
+      robot-spider-firing-effect_50: -2243390612671893285
+      robot-spider-firing-effect_51: -1372495717222849265
+      robot-spider-firing-effect_52: 1075504758375353007
+      robot-spider-firing-effect_53: 597114272558837049
+      robot-spider-firing-effect_54: 281221783444690372
+      robot-spider-firing-effect_55: -3395039204066838242
+      robot-spider-firing-effect_56: 7547009419551610710
+      robot-spider-firing-effect_57: -787471286507314312
+      robot-spider-firing-effect_58: -8999554604961672914
+      robot-spider-firing-effect_59: 3964414138735843815
+      robot-spider-firing-effect_6: 7328545018671329881
+      robot-spider-firing-effect_60: 7762902508941453592
+      robot-spider-firing-effect_7: 3868805523415332939
+      robot-spider-firing-effect_8: 4204159363711391804
+      robot-spider-firing-effect_9: 1586168447462397760
+      spider_fire_fx_00: 8633221085385561042
+      spider_fire_fx_01: -2490818104701869102
+      spider_fire_fx_02: -2736159337770116052
+      spider_fire_fx_03: -5740423098062355852
+      spider_fire_fx_04: 1145228926400609883
+      spider_fire_fx_05: 1968375695471165023
+      spider_fire_fx_06: -9166007125201539715
+      spider_fire_fx_07: 1507269920997120263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

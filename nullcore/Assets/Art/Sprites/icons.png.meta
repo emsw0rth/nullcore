@@ -44,6 +44,9 @@ TextureImporter:
   - first:
       213: -8800919606296751000
     second: Icon_ElectricalHeart
+  - first:
+      213: 6490676693888623006
+    second: Icon_HeartPlus
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -150,6 +153,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -384,6 +400,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Icon_HeartPlus
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 910
+        width: 110
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9163236014831a50800000000000000
+      internalID: 6490676693888623006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -405,6 +443,7 @@ TextureImporter:
       Icon_BatteryRight: 5990702929046793047
       Icon_ElectricalHeart: -8800919606296751000
       Icon_Heart: -4689701620175748947
+      Icon_HeartPlus: 6490676693888623006
       Icon_RobotFace: -8778895108839142124
       Icon_RobotFaceHeart: 420852945236085566
       Icon_RobotFaceHeartBordered: 2389560290458613356

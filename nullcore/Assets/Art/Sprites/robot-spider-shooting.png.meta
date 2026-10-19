@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 6ae8aba7f15e20c49b4d5f4a14888511
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5798187607325338582
+    second: robot-spider-shooting_0
+  - first:
+      213: 50387318621933476
+    second: robot-spider-shooting_1
+  - first:
+      213: -9100835636742738132
+    second: robot-spider-shooting_2
+  - first:
+      213: -6333102048696310950
+    second: robot-spider-shooting_3
+  - first:
+      213: 8245249284531476878
+    second: robot-spider-shooting_4
+  - first:
+      213: -4950222925515067413
+    second: robot-spider-shooting_5
+  - first:
+      213: -9020312067899814755
+    second: robot-spider-shooting_6
+  - first:
+      213: 4875049238331681803
+    second: robot-spider-shooting_7
+  - first:
+      213: -1419852272091978129
+    second: robot-spider-shooting_8
+  - first:
+      213: -1345810202463215467
+    second: robot-spider-shooting_9
+  - first:
+      213: 461407153052893137
+    second: robot-spider-shooting_10
+  - first:
+      213: 8664910305374052350
+    second: robot-spider-shooting_11
+  - first:
+      213: 5431197639929482001
+    second: robot-spider-shooting_12
+  - first:
+      213: 5780615497559652293
+    second: robot-spider-shooting_13
+  - first:
+      213: -8527470817556664536
+    second: robot-spider-shooting_14
+  - first:
+      213: -2211256555123477985
+    second: robot-spider-shooting_15
+  - first:
+      213: -7601701896402122894
+    second: robot-spider-shooting_16
+  - first:
+      213: 2490202802501493850
+    second: robot-spider-shooting_17
+  - first:
+      213: -6513657414633015778
+    second: spider_shoot_left_00
+  - first:
+      213: 7238852667229771134
+    second: spider_shoot_left_01
+  - first:
+      213: -3520797821113247224
+    second: spider_shoot_left_02
+  - first:
+      213: -3956407362566491662
+    second: spider_shoot_left_03
+  - first:
+      213: 9117175629753076032
+    second: spider_shoot_left_04
+  - first:
+      213: 3196008264002574987
+    second: spider_shoot_left_05
+  - first:
+      213: 852179459747553723
+    second: spider_shoot_left_06
+  - first:
+      213: -2546869576887047856
+    second: spider_shoot_left_07
+  - first:
+      213: -63106471010189365
+    second: spider_shoot_left_08
+  - first:
+      213: 7182709440386337309
+    second: spider_shoot_right_00
+  - first:
+      213: -7428805655039200127
+    second: spider_shoot_right_01
+  - first:
+      213: 8456232621100011677
+    second: spider_shoot_right_02
+  - first:
+      213: 3572071132271944587
+    second: spider_shoot_right_03
+  - first:
+      213: -3628094785266753937
+    second: spider_shoot_right_04
+  - first:
+      213: 4216707586877904740
+    second: spider_shoot_right_05
+  - first:
+      213: 2809126006947637462
+    second: spider_shoot_right_06
+  - first:
+      213: -721453234146207525
+    second: spider_shoot_right_07
+  - first:
+      213: -8011732464756230778
+    second: spider_shoot_right_08
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spider_shoot_left_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16b53c9717da95a0800000000000000
+      internalID: -6513657414633015778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_left_01
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e759e93d522957460800000000000000
+      internalID: 7238852667229771134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_left_02
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a5392290d932fc0800000000000000
+      internalID: -3520797821113247224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_left_03
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1fb7737740819c0800000000000000
+      internalID: -3956407362566491662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_left_04
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049c74e2ee6b68e70800000000000000
+      internalID: 9117175629753076032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_left_05
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a161b35908a5c20800000000000000
+      internalID: 3196008264002574987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_left_06
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1232f14bc83db00800000000000000
+      internalID: 852179459747553723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_left_07
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059e56c1d93b7acd0800000000000000
+      internalID: -2546869576887047856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_left_08
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb86cbffccf1ff0800000000000000
+      internalID: -63106471010189365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_right_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a821f2e2c1ea360800000000000000
+      internalID: 7182709440386337309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_right_01
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184b9f1cd9497e890800000000000000
+      internalID: -7428805655039200127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_right_02
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d909cbe04c29a5570800000000000000
+      internalID: 8456232621100011677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_right_03
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b832f77e4cb829130800000000000000
+      internalID: 3572071132271944587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_right_04
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e5ab8e30b66adc0800000000000000
+      internalID: -3628094785266753937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_right_05
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4675d8d8531c48a30800000000000000
+      internalID: 4216707586877904740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_right_06
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8ec6d48350cf620800000000000000
+      internalID: 2809126006947637462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_right_07
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd898a02b12ecf5f0800000000000000
+      internalID: -721453234146207525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider_shoot_right_08
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6857db275cb90d090800000000000000
+      internalID: -8011732464756230778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      robot-spider-shooting_0: 5798187607325338582
+      robot-spider-shooting_1: 50387318621933476
+      robot-spider-shooting_10: 461407153052893137
+      robot-spider-shooting_11: 8664910305374052350
+      robot-spider-shooting_12: 5431197639929482001
+      robot-spider-shooting_13: 5780615497559652293
+      robot-spider-shooting_14: -8527470817556664536
+      robot-spider-shooting_15: -2211256555123477985
+      robot-spider-shooting_16: -7601701896402122894
+      robot-spider-shooting_17: 2490202802501493850
+      robot-spider-shooting_2: -9100835636742738132
+      robot-spider-shooting_3: -6333102048696310950
+      robot-spider-shooting_4: 8245249284531476878
+      robot-spider-shooting_5: -4950222925515067413
+      robot-spider-shooting_6: -9020312067899814755
+      robot-spider-shooting_7: 4875049238331681803
+      robot-spider-shooting_8: -1419852272091978129
+      robot-spider-shooting_9: -1345810202463215467
+      spider_shoot_left_00: -6513657414633015778
+      spider_shoot_left_01: 7238852667229771134
+      spider_shoot_left_02: -3520797821113247224
+      spider_shoot_left_03: -3956407362566491662
+      spider_shoot_left_04: 9117175629753076032
+      spider_shoot_left_05: 3196008264002574987
+      spider_shoot_left_06: 852179459747553723
+      spider_shoot_left_07: -2546869576887047856
+      spider_shoot_left_08: -63106471010189365
+      spider_shoot_right_00: 7182709440386337309
+      spider_shoot_right_01: -7428805655039200127
+      spider_shoot_right_02: 8456232621100011677
+      spider_shoot_right_03: 3572071132271944587
+      spider_shoot_right_04: -3628094785266753937
+      spider_shoot_right_05: 4216707586877904740
+      spider_shoot_right_06: 2809126006947637462
+      spider_shoot_right_07: -721453234146207525
+      spider_shoot_right_08: -8011732464756230778
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

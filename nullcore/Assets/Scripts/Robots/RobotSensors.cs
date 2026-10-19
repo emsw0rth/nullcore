@@ -6,6 +6,17 @@ namespace Nullcore.Robots
     internal static class RobotSensors
     {
         private static readonly RaycastHit2D[] Hits = new RaycastHit2D[8];
+        private static readonly RaycastHit2D[] RayHits = new RaycastHit2D[1];
+
+        // True if a ray hits something solid on `mask`. Triggers are skipped (Physics2D.Raycast hits them
+        // by default, which would read pickups and detection zones as walls or ground).
+        public static bool RayHitsSolid(PhysicsScene2D scene, Vector2 origin, Vector2 direction, float distance, LayerMask mask)
+        {
+            var filter = new ContactFilter2D();
+            filter.SetLayerMask(mask);
+            filter.useTriggers = false;
+            return scene.Raycast(origin, direction, distance, filter, RayHits) > 0;
+        }
 
         // True if anything solid on `mask` is directly in front of the robot's body - at ANY height, not just
         // at one point on the body. A single wall ray at body-centre height lets low obstacles (a pipe, a crate)

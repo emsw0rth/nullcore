@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Nullcore.Player;
 
 namespace Nullcore.Core
 {
@@ -21,8 +22,15 @@ namespace Nullcore.Core
         public static int LifePoints { get; private set; } = StartingMaxLifePoints;
         public static event System.Action LifePointsChanged;
 
+        // Shown on the game over screen: total time spent playing this run, and the level the player was on.
+        public static float FinalPlayTime { get; private set; }
+        public static string FinalLevelName { get; private set; } = string.Empty;
+        public const string GameOverSceneName = "GameOver";
+
         private static float startTime;
         private static bool keepTimerOnNextStart;
+        private static float completedLevelsTime;
+        private static bool levelTimerRunning;
 
         [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
         private static void ResetOnGameStart()
@@ -32,6 +40,10 @@ namespace Nullcore.Core
             NextLevelSceneName = string.Empty;
             startTime = 0f;
             keepTimerOnNextStart = false;
+            completedLevelsTime = 0f;
+            levelTimerRunning = false;
+            FinalPlayTime = 0f;
+            FinalLevelName = string.Empty;
             ExtraLives = StartingExtraLives;
             MaxLifePoints = StartingMaxLifePoints;
             LifePoints = StartingMaxLifePoints;
@@ -119,6 +131,7 @@ namespace Nullcore.Core
             keepTimerOnNextStart = false;
 
             LevelName = levelName;
+            levelTimerRunning = true;
             if (!restartOfSameLevel)
             {
                 startTime = Time.time;
@@ -141,7 +154,39 @@ namespace Nullcore.Core
         public static float StopTimer()
         {
             ElapsedTime = Time.time - startTime;
+
+            // Each level's time is added to the run total once, when that level's clock stops.
+            if (levelTimerRunning)
+            {
+                levelTimerRunning = false;
+                completedLevelsTime += ElapsedTime;
+            }
             return ElapsedTime;
+        }
+
+        // Begins a new run from the main menu: full extra lives and life points, no abilities, clocks at zero.
+        public static void StartRun()
+        {
+            ResetExtraLives();
+            ResetLifePoints();
+            AbilityProgress.ResetAll();
+            completedLevelsTime = 0f;
+            levelTimerRunning = false;
+            FinalPlayTime = 0f;
+            FinalLevelName = string.Empty;
+        }
+
+        // The run is over: records how long the player played and how far they got, then shows the game over scene.
+        public static void TriggerGameOver()
+        {
+            StopTimer();
+            FinalPlayTime = completedLevelsTime;
+            FinalLevelName = LevelName;
+
+            if (Application.isPlaying)
+            {
+                SceneManager.LoadScene(GameOverSceneName);
+            }
         }
 
         public static void SetNextLevel(string sceneName)

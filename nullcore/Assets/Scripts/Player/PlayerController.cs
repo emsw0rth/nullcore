@@ -92,7 +92,8 @@ namespace Nullcore.Player
         }
 
         // Instant death: costs an extra life, refills every life point and restarts the whole level, so
-        // the player, pickups, enemies, doors, switches and platforms all start over.
+        // the player, pickups, enemies, doors, switches and platforms all start over. With no extra lives
+        // left it is game over instead.
         public void Respawn()
         {
             // Hazards can report the same death more than once (e.g. enter + stay in one frame, or
@@ -103,12 +104,18 @@ namespace Nullcore.Player
             }
             lastDeathTime = Time.time;
 
-            GameSession.LoseExtraLife();
-            GameSession.RestoreAllLifePoints();
-
             // The level is about to be unloaded, which would cut off a sound played from this object.
             GameAudioSettings.PlaySfxPersistent(deathSound);
 
+            // Dying with no extra lives left (and so no life points either) ends the run.
+            if (GameSession.ExtraLives <= 0)
+            {
+                GameSession.TriggerGameOver();
+                return;
+            }
+
+            GameSession.LoseExtraLife();
+            GameSession.RestoreAllLifePoints();
             GameSession.RestartLevel();
         }
 
